@@ -1,0 +1,55 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : 08_037158b.brd                                )
+(    Software Version : 16.5S031                                      )
+(    Date/Time        : Thu Dec 19 14:20:24 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - In all cases output is suppressed if an object has the OK_DANGLE
+    property or is not part of the current partition.
+
+
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  UNNAMED_3_CN2P_I172_N1 95X110               (675.3 -1769.3)  TOP/TOP 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  UNNAMED_3_ADUM3471_I1_X2 VIA2512-2            (577.7 -397.7)   TOP/BOTTOM 
+  UNNAMED_3_ADUM3471_I1_X2 VIA2512-2            (640.0 -975.0)   TOP/BOTTOM 
+  UNNAMED_3_ADUM3471_I1_X1 VIA2512-2            (725.0 -915.0)   TOP/BOTTOM 
+  UNNAMED_3_ADUM3471_I1_X1 VIA2512-2            (580.0 -695.0)   TOP/BOTTOM 
+  SDO_SDP              VIA2512-2            (90.0 -880.0)    TOP/BOTTOM 
+  SDIN_SDP             VIA2512-2            (65.0 -915.0)    TOP/BOTTOM 
+  AVSS_ISO             VIA4020-2            (2617.5 -975.0)  TOP/BOTTOM 
+  AVSS_ISO             VIA2512-2            (2665.5 -1670.5) TOP/BOTTOM 
+  AVSS                 VIA4020-2            (1695.0 -370.0)  TOP/BOTTOM 
+  AVSS                 VIA4020-2            (1815.0 -326.5)  TOP/BOTTOM 
+  +5VA_ISO             VIA4020-2            (2320.0 -1135.0) TOP/BOTTOM 
+  +3.3VIO              VIA2512-2            (476.5 -1213.5)  TOP/BOTTOM 
+  +3.3VIO              VIA2512-2            (90.5 -960.5)    TOP/BOTTOM 
+  +3.3VIO              VIA2512-2            (100.0 -738.0)   TOP/BOTTOM 
+  +3.3VIO              VIA4020-2            (120.0 -1605.0)  TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       0
+  Total dangling vias:        1
+  Total antenna vias:        15

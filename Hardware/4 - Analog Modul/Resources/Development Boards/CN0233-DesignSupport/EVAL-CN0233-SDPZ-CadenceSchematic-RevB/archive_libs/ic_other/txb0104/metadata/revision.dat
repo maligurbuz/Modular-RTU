@@ -1,0 +1,160 @@
+(Cell	txb0104
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.14)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/02/07,23:58:05)
+
+			(User	sdacillo)
+
+			(Path	ic_other.txb0104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000009ca893d0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/02/07,23:58:05)
+
+							(User	sdacillo)
+
+							(Path	ic_other.txb0104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000453503b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009921af65)
+
+			(Primitives	1
+
+				(Primitive	TXB0104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/02/07,23:58:05)
+
+							(User	sdacillo)
+
+							(Path	ic_other.txb0104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TXB0104
+
+							(PackType	TXB0104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b3a703dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000732603d9)
+
+)
+

@@ -1,0 +1,46 @@
+Starting to read C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstchip.dat 
+   Finished reading C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstchip.dat (00:00:02.18)
+Starting to read C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxprt.dat 
+   Finished reading C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxprt.dat (00:00:00.01)
+Starting to read C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxnet.dat 
+   Finished reading C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxnet.dat (00:00:00.00)
+Starting to generate C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialcnet.dat 
+   Finished generating C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialcnet.dat (00:00:00.00)
+Starting to generate C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialbonl.dat 
+   Finished generating C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialbonl.dat (00:00:00.00)
+Starting to generate C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialcprt.dat 
+   Finished generating C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialcprt.dat (00:00:00.00)
+Starting to generate C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialstf.dat 
+   Finished generating C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialstf.dat (00:00:00.00)
+Starting to generate C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialpgnd.dat 
+   Finished generating C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialpgnd.dat (00:00:00.00)
+Starting to generate C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialpgnd_new.dat 
+   Finished generating C:/tmp/20_037158a/worklib/02_037158a_top/packaged/dialpgnd_new.dat (00:00:00.00)
+Starting to generate C:/tmp/20_037158a/worklib/02_037158a_top/packaged/scald.xref 
+   Finished generating C:/tmp/20_037158a/worklib/02_037158a_top/packaged/scald.xref (00:00:00.00)
+
+SCALD Lists Interface run on Sep 10 14:16:02 2013
+   DESIGN NAME : '02_037158A_TOP'
+   PACKAGING ON 10-Sep-2013 AT 14:13:00
+
+   DIRECTORIES  <none>
+   LIBRARIES  '02_037158a_lib' 'adi_standard' 'capacitors' 'conn_pcb'
+              'contactors' 'crystals' 'diodes' 'filters' 'fuses' 'graphics'
+              'ic_adi' 'ic_cmos' 'ic_ecl' 'ic_lin' 'ic_other' 'ic_ttl'
+              'inductors' 'modules' 'nocomponent' 'nqa' 'power_ground' 'relays'
+              'resistors' 'sockets' 'standard' 'switches' 'transformers'
+              'transistors'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   OVERSIGHTS ON
+   SINGLE_NODE_NETS OFF
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:03:44
+elapsed time  0:00:02
+

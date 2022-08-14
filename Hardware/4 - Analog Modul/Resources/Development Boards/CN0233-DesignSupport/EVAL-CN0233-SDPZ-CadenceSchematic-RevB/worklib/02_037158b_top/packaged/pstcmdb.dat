@@ -1,0 +1,2261 @@
+; Packager-XL run on 19-Dec-2013 AT 14:13:58 CONSTRAINTS_VIEW_GENERATED
+( ConstraintFile "02_037158b_top"
+	( constraintHeader
+		( objectKey
+			( physical )
+		)
+		( version
+			( 16.5 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 63 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+		( Attribute
+			( Name "CDS_LMAN_SYM_OUTLINE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "IMPLEMENTATION" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "WW_PN" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "PINOFF" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "PINSWAP" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "PSPICETEMPLATE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "WATTAGE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "DNI" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "MFG_PN" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "CURRENT" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "$location" )
+			( Description "" )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty )
+			)
+			( Objects
+				( ValidObjects  oAll )
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "SEC_TYPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "$sec" )
+			( Description "" )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty )
+			)
+			( Objects
+				( ValidObjects  oAll )
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "MFG" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "SCD" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "02_037158b_top"
+				( objectFlag fObjectReadOnly )
+				( objectStatus "\02_037158b_top\" )
+			)
+			( signal "+5VA_ISO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):\+5va_iso\" )
+			)
+			( signal "AVDD_ISO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):avdd_iso" )
+			)
+			( signal "AVSS_ISO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):avss_iso" )
+			)
+			( signal "GND_ISO"
+				( attribute "VOLTAGE" "0V"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):gnd_iso" )
+			)
+			( signal "LATCH_ISO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):latch_iso" )
+			)
+			( signal "SCLK_ISO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sclk_iso" )
+			)
+			( signal "SDIN_ISO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sdin_iso" )
+			)
+			( signal "SDO_ISO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sdo_iso" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):\unnamed_2_ad54x2_i3_\" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_CAP1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_ad54x2_i3_cap1" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_CAP2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_ad54x2_i3_cap2" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_CCOMP"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_ad54x2_i3_ccomp" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_FAULTN"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_ad54x2_i3_faultn" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_IOUT"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_ad54x2_i3_iout" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_REFIN"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_ad54x2_i3_refin" )
+			)
+			( signal "UNNAMED_2_AD54X2_I3_RSET"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_ad54x2_i3_rset" )
+			)
+			( signal "UNNAMED_2_CAP_I160_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_cap_i160_n2" )
+			)
+			( signal "UNNAMED_2_CAP_I65_N1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_cap_i65_n1" )
+			)
+			( signal "UNNAMED_2_DIOLED_I147_N"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_2_dioled_i147_n" )
+			)
+			( signal "+5V"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):\+5v\" )
+			)
+			( signal "+5VA"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):\+5va\" )
+			)
+			( signal "AGND"
+				( attribute "VOLTAGE" "0V"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):agnd" )
+			)
+			( signal "AVDD"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):avdd" )
+			)
+			( signal "AVSS"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):avss" )
+			)
+			( signal "DGND"
+				( attribute "VOLTAGE" "0V"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):dgnd" )
+			)
+			( signal "LATCH"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):latch" )
+			)
+			( signal "SCLK"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sclk" )
+			)
+			( signal "SDIN"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sdin" )
+			)
+			( signal "SDO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sdo" )
+			)
+			( signal "UNNAMED_3_ADP7104_I58_PG"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adp7104_i58_pg" )
+			)
+			( signal "UNNAMED_3_ADP7104_I58_VIN"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adp7104_i58_vin" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_FB"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_fb" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_OC"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_oc" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_VID"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_vid" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_VOA"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_voa" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_VOB"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_vob" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_VOC"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_voc" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_X1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_x1" )
+			)
+			( signal "UNNAMED_3_ADUM3471_I1_X2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_adum3471_i1_x2" )
+			)
+			( signal "UNNAMED_3_CAP_I104_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_cap_i104_n2" )
+			)
+			( signal "UNNAMED_3_CAP_I112_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_cap_i112_n2" )
+			)
+			( signal "UNNAMED_3_DIO_I9_P"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_dio_i9_p" )
+			)
+			( signal "UNNAMED_3_DIOLED_I143_N"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_dioled_i143_n" )
+			)
+			( signal "UNNAMED_3_DIOSCHOTTKY_I115_N"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_dioschottky_i115_n" )
+			)
+			( signal "UNNAMED_3_DIOSCHOTTKY_I115_P"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_dioschottky_i115_p" )
+			)
+			( signal "UNNAMED_3_DIOSCHOTTKY_I14_P"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_dioschottky_i14_p" )
+			)
+			( signal "UNNAMED_3_DIOSCHOTTKY_I15_P"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_dioschottky_i15_p" )
+			)
+			( signal "UNNAMED_3_DIOZNR_I6_N"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_dioznr_i6_n" )
+			)
+			( signal "UNNAMED_3_FERRITE_I120_N1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i120_n1" )
+			)
+			( signal "UNNAMED_3_FERRITE_I120_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i120_n2" )
+			)
+			( signal "UNNAMED_3_FERRITE_I121_N1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i121_n1" )
+			)
+			( signal "UNNAMED_3_FERRITE_I125_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i125_n2" )
+			)
+			( signal "UNNAMED_3_FERRITE_I80_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i80_n2" )
+			)
+			( signal "UNNAMED_3_FERRITE_I81_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i81_n2" )
+			)
+			( signal "UNNAMED_3_FERRITE_I82_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i82_n2" )
+			)
+			( signal "UNNAMED_3_FERRITE_I87_N1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i87_n1" )
+			)
+			( signal "UNNAMED_3_FERRITE_I87_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i87_n2" )
+			)
+			( signal "UNNAMED_3_FERRITE_I89_N1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i89_n1" )
+			)
+			( signal "UNNAMED_3_FERRITE_I89_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_ferrite_i89_n2" )
+			)
+			( signal "UNNAMED_3_RES_I34_N2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_res_i34_n2" )
+			)
+			( signal "+3.3VIO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):\+3.3vio\" )
+			)
+			( signal "LATCH_SDP"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):latch_sdp" )
+			)
+			( signal "SCL_0"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):scl_0" )
+			)
+			( signal "SCLK_SDP"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sclk_sdp" )
+			)
+			( signal "SDA_0"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sda_0" )
+			)
+			( signal "SDIN_SDP"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sdin_sdp" )
+			)
+			( signal "SDO_SDP"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):sdo_sdp" )
+			)
+			( signal "UNNAMED_4_CN120PV4_I1_EEPROMA0"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_4_cn120pv4_i1_eeproma0" )
+			)
+			( signal "UNNAMED_4_CN12PV3_I72_VCC1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_4_cn12pv3_i72_vcc1" )
+			)
+			( signal "UNNAMED_4_IC24FC256_I3_A1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_4_ic24fc256_i3_a1" )
+			)
+			( signal "UNNAMED_4_SN74LVC1G125DBV_I36_A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_4_sn74lvc1g125dbv_i36_a" )
+			)
+			( signal "UNNAMED_3_CN2P_I172_N1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):unnamed_3_cn2p_i172_n1" )
+			)
+			( gate "U5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3" )
+			)
+			( gate "U7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4" )
+			)
+			( gate "C29"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i31" )
+			)
+			( gate "C36"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i32" )
+			)
+			( gate "C38"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i40" )
+			)
+			( gate "R19"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i42" )
+			)
+			( gate "C26"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i45" )
+			)
+			( gate "C37"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i47" )
+			)
+			( gate "C31"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i61" )
+			)
+			( gate "C27"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i65" )
+			)
+			( gate "P3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i172" )
+			)
+			( gate "C28"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i90" )
+			)
+			( gate "C34"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i91" )
+			)
+			( gate "C30"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i92" )
+			)
+			( gate "C35"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i93" )
+			)
+			( gate "C25"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i94" )
+			)
+			( gate "D6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i135" )
+			)
+			( gate "D7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i136" )
+			)
+			( gate "CR2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i137" )
+			)
+			( gate "CR3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i138" )
+			)
+			( gate "LATCH"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i139" )
+			)
+			( gate "SCLK"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i140" )
+			)
+			( gate "SDIN"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i141" )
+			)
+			( gate "SDO"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i142" )
+			)
+			( gate "DS2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i147" )
+			)
+			( gate "R18"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i148" )
+			)
+			( gate "+5VREF"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i149" )
+			)
+			( gate "C32"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i156" )
+			)
+			( gate "C33"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i157" )
+			)
+			( gate "C40"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i158" )
+			)
+			( gate "C39"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i160" )
+			)
+			( gate "U2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1" )
+			)
+			( gate "F1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i2" )
+			)
+			( gate "TP1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i4" )
+			)
+			( gate "CR1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i6" )
+			)
+			( gate "D1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i9" )
+			)
+			( gate "D2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i14" )
+			)
+			( gate "D3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i15" )
+			)
+			( gate "D5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i17" )
+			)
+			( gate "L1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i18" )
+			)
+			( gate "L2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i19" )
+			)
+			( gate "+5VA"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i22" )
+			)
+			( gate "P2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i27" )
+			)
+			( gate "C5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i30" )
+			)
+			( gate "R12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i34" )
+			)
+			( gate "R13"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i35" )
+			)
+			( gate "R7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i36" )
+			)
+			( gate "R6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i38" )
+			)
+			( gate "C3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i39" )
+			)
+			( gate "U6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58" )
+			)
+			( gate "C6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i59" )
+			)
+			( gate "R14"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i61" )
+			)
+			( gate "C13"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i63" )
+			)
+			( gate "C7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i68" )
+			)
+			( gate "R8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i69" )
+			)
+			( gate "R9"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i77" )
+			)
+			( gate "R10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i78" )
+			)
+			( gate "R11"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i79" )
+			)
+			( gate "E1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i80" )
+			)
+			( gate "E2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i81" )
+			)
+			( gate "E3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i82" )
+			)
+			( gate "C15"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i83" )
+			)
+			( gate "C16"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i84" )
+			)
+			( gate "E8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i87" )
+			)
+			( gate "E9"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i88" )
+			)
+			( gate "E10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i89" )
+			)
+			( gate "C19"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i95" )
+			)
+			( gate "C17"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i99" )
+			)
+			( gate "C10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i101" )
+			)
+			( gate "C11"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i102" )
+			)
+			( gate "C12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i103" )
+			)
+			( gate "C1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i104" )
+			)
+			( gate "R4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i105" )
+			)
+			( gate "R5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i110" )
+			)
+			( gate "C2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i112" )
+			)
+			( gate "T1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114" )
+			)
+			( gate "D4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i115" )
+			)
+			( gate "E6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i120" )
+			)
+			( gate "E7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i121" )
+			)
+			( gate "E4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i125" )
+			)
+			( gate "C14"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i126" )
+			)
+			( gate "E5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i127" )
+			)
+			( gate "C18"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i131" )
+			)
+			( gate "AVDD"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i134" )
+			)
+			( gate "GND"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i135" )
+			)
+			( gate "AVSS"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i136" )
+			)
+			( gate "+5V"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i137" )
+			)
+			( gate "TP3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i140" )
+			)
+			( gate "TP4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i142" )
+			)
+			( gate "DS1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i143" )
+			)
+			( gate "R15"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i145" )
+			)
+			( gate "FL2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i153" )
+			)
+			( gate "FL3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i154" )
+			)
+			( gate "FL7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i155" )
+			)
+			( gate "FL4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i156" )
+			)
+			( gate "FL6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i157" )
+			)
+			( gate "FL5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i158" )
+			)
+			( gate "FL1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i159" )
+			)
+			( gate "E12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i161" )
+			)
+			( gate "C8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i165" )
+			)
+			( gate "C9"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i166" )
+			)
+			( gate "C4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i167" )
+			)
+			( gate "SDP"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1" )
+			)
+			( gate "U1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3" )
+			)
+			( gate "R2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i4" )
+			)
+			( gate "R3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i5" )
+			)
+			( gate "R1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i6" )
+			)
+			( gate "C22"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i18" )
+			)
+			( gate "U3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36" )
+			)
+			( gate "C20"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i56" )
+			)
+			( gate "U4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58" )
+			)
+			( gate "C23"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i62" )
+			)
+			( gate "C24"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i63" )
+			)
+			( gate "R16"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i67" )
+			)
+			( gate "C21"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i68" )
+			)
+			( gate "PMOD"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72" )
+			)
+			( gate "CR4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i168" )
+			)
+			( gate "R20"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i162" )
+			)
+			( gate "VOUT"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i165" )
+			)
+			( gate "IOUT"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i166" )
+			)
+			( gate "P5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i73" )
+			)
+			( gate "P4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i167" )
+			)
+			( pin "U5.33"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:\+vsense\" )
+			)
+			( pin "U5.34"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:\-vsense\" )
+			)
+			( pin "U5.36"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:avdd" )
+			)
+			( pin "U5.14"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:avss1" )
+			)
+			( pin "U5.37"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:avss2" )
+			)
+			( pin "U5.27"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:boost" )
+			)
+			( pin "U5.28"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:cap1" )
+			)
+			( pin "U5.29"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:cap2" )
+			)
+			( pin "U5.24"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:ccomp" )
+			)
+			( pin "U5.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:clear" )
+			)
+			( pin "U5.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:\clear select\" )
+			)
+			( pin "U5.39"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:dvcc" )
+			)
+			( pin "U5.23"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:\dvcc select\" )
+			)
+			( pin "U5.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:fault_n" )
+			)
+			( pin "U5.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:gnd1" )
+			)
+			( pin "U5.12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:gnd2" )
+			)
+			( pin "U5.13"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:gnd3" )
+			)
+			( pin "U5.15"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:gnd4" )
+			)
+			( pin "U5.26"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:iout" )
+			)
+			( pin "U5.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:latch" )
+			)
+			( pin "U5.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc1" )
+			)
+			( pin "U5.10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc2" )
+			)
+			( pin "U5.11"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc3" )
+			)
+			( pin "U5.19"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc4" )
+			)
+			( pin "U5.20"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc5" )
+			)
+			( pin "U5.21"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc6" )
+			)
+			( pin "U5.22"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc7" )
+			)
+			( pin "U5.25"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc8" )
+			)
+			( pin "U5.30"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc9" )
+			)
+			( pin "U5.31"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc10" )
+			)
+			( pin "U5.35"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc11" )
+			)
+			( pin "U5.38"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc12" )
+			)
+			( pin "U5.40"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:nc13" )
+			)
+			( pin "U5.PAD"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:pad" )
+			)
+			( pin "U5.18"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:refin" )
+			)
+			( pin "U5.17"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:refout" )
+			)
+			( pin "U5.16"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:rset" )
+			)
+			( pin "U5.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:sclk" )
+			)
+			( pin "U5.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:sdin" )
+			)
+			( pin "U5.9"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:sdo" )
+			)
+			( pin "U5.32"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3:vout" )
+			)
+			( pin "U7.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:gnd" )
+			)
+			( pin "U7.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:nc" )
+			)
+			( pin "U7.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:nc1" )
+			)
+			( pin "U7.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:tp" )
+			)
+			( pin "U7.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:tp1" )
+			)
+			( pin "U7.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:trim" )
+			)
+			( pin "U7.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:vin" )
+			)
+			( pin "U7.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4:vout" )
+			)
+			( pin "C29.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i31:n1" )
+			)
+			( pin "C29.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i31:n2" )
+			)
+			( pin "C36.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i32:n1" )
+			)
+			( pin "C36.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i32:n2" )
+			)
+			( pin "C38.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i40:n1" )
+			)
+			( pin "C38.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i40:n2" )
+			)
+			( pin "R19.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i42:n1" )
+			)
+			( pin "R19.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i42:n2" )
+			)
+			( pin "C26.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i45:n1" )
+			)
+			( pin "C26.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i45:n2" )
+			)
+			( pin "C37.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i47:n1" )
+			)
+			( pin "C37.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i47:n2" )
+			)
+			( pin "C31.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i61:n1" )
+			)
+			( pin "C31.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i61:n2" )
+			)
+			( pin "C27.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i65:n1" )
+			)
+			( pin "C27.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i65:n2" )
+			)
+			( pin "P3.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i172:n2" )
+			)
+			( pin "P3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i172:n1" )
+			)
+			( pin "C28.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i90:n1" )
+			)
+			( pin "C28.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i90:n2" )
+			)
+			( pin "C34.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i91:n1" )
+			)
+			( pin "C34.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i91:n2" )
+			)
+			( pin "C30.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i92:n1" )
+			)
+			( pin "C30.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i92:n2" )
+			)
+			( pin "C35.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i93:n1" )
+			)
+			( pin "C35.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i93:n2" )
+			)
+			( pin "C25.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i94:n1" )
+			)
+			( pin "C25.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i94:n2" )
+			)
+			( pin "D6.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i135:n1" )
+			)
+			( pin "D6.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i135:n2" )
+			)
+			( pin "D7.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i136:n1" )
+			)
+			( pin "D7.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i136:n2" )
+			)
+			( pin "CR2.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i137:n" )
+			)
+			( pin "CR2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i137:p1" )
+			)
+			( pin "CR2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i137:p2" )
+			)
+			( pin "CR3.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i138:n" )
+			)
+			( pin "CR3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i138:p1" )
+			)
+			( pin "CR3.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i138:p2" )
+			)
+			( pin "LATCH.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i139:n1" )
+			)
+			( pin "SCLK.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i140:n1" )
+			)
+			( pin "SDIN.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i141:n1" )
+			)
+			( pin "SDO.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i142:n1" )
+			)
+			( pin "DS2.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i147:n" )
+			)
+			( pin "DS2.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i147:p" )
+			)
+			( pin "R18.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i148:n1" )
+			)
+			( pin "R18.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i148:n2" )
+			)
+			( pin "+5VREF.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i149:n1" )
+			)
+			( pin "C32.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i156:n1" )
+			)
+			( pin "C32.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i156:n2" )
+			)
+			( pin "C33.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i157:n1" )
+			)
+			( pin "C33.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i157:n2" )
+			)
+			( pin "C40.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i158:n1" )
+			)
+			( pin "C40.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i158:n2" )
+			)
+			( pin "C39.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i160:n1" )
+			)
+			( pin "C39.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i160:n2" )
+			)
+			( pin "U2.17"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:fb" )
+			)
+			( pin "U2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:gnd1_1" )
+			)
+			( pin "U2.10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:gnd1_2" )
+			)
+			( pin "U2.11"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:gnd2_1" )
+			)
+			( pin "U2.19"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:gnd2_2" )
+			)
+			( pin "U2.12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:oc" )
+			)
+			( pin "U2.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vdd1" )
+			)
+			( pin "U2.18"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vdd2" )
+			)
+			( pin "U2.9"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vdda" )
+			)
+			( pin "U2.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:via" )
+			)
+			( pin "U2.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vib" )
+			)
+			( pin "U2.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vic" )
+			)
+			( pin "U2.13"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vid" )
+			)
+			( pin "U2.16"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:voa" )
+			)
+			( pin "U2.15"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vob" )
+			)
+			( pin "U2.14"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:voc" )
+			)
+			( pin "U2.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vod" )
+			)
+			( pin "U2.20"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:vreg" )
+			)
+			( pin "U2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:x1" )
+			)
+			( pin "U2.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1:x2" )
+			)
+			( pin "F1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i2:n1" )
+			)
+			( pin "F1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i2:n2" )
+			)
+			( pin "TP1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i4:n1" )
+			)
+			( pin "CR1.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i6:n" )
+			)
+			( pin "CR1.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i6:p" )
+			)
+			( pin "D1.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i9:n" )
+			)
+			( pin "D1.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i9:p" )
+			)
+			( pin "D2.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i14:n" )
+			)
+			( pin "D2.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i14:p" )
+			)
+			( pin "D3.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i15:n" )
+			)
+			( pin "D3.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i15:p" )
+			)
+			( pin "D5.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i17:n" )
+			)
+			( pin "D5.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i17:p" )
+			)
+			( pin "L1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i18:n1" )
+			)
+			( pin "L1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i18:n2" )
+			)
+			( pin "L2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i19:n1" )
+			)
+			( pin "L2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i19:n2" )
+			)
+			( pin "+5VA.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i22:n1" )
+			)
+			( pin "P2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i27:n1" )
+			)
+			( pin "P2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i27:n2" )
+			)
+			( pin "P2.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i27:n3" )
+			)
+			( pin "C5.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i30:n1" )
+			)
+			( pin "C5.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i30:n2" )
+			)
+			( pin "R12.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i34:n1" )
+			)
+			( pin "R12.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i34:n2" )
+			)
+			( pin "R13.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i35:n1" )
+			)
+			( pin "R13.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i35:n2" )
+			)
+			( pin "R7.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i36:n1" )
+			)
+			( pin "R7.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i36:n2" )
+			)
+			( pin "R6.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i38:n1" )
+			)
+			( pin "R6.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i38:n2" )
+			)
+			( pin "C3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i39:n1" )
+			)
+			( pin "C3.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i39:n2" )
+			)
+			( pin "U6.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:en" )
+			)
+			( pin "U6.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:gnd1" )
+			)
+			( pin "U6.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:gnd2" )
+			)
+			( pin "U6.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:nc1" )
+			)
+			( pin "U6.PAD"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:pad" )
+			)
+			( pin "U6.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:pg" )
+			)
+			( pin "U6.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:sense" )
+			)
+			( pin "U6.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:vin" )
+			)
+			( pin "U6.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58:vout" )
+			)
+			( pin "C6.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i59:n1" )
+			)
+			( pin "C6.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i59:n2" )
+			)
+			( pin "R14.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i61:n1" )
+			)
+			( pin "R14.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i61:n2" )
+			)
+			( pin "C13.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i63:n1" )
+			)
+			( pin "C13.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i63:n2" )
+			)
+			( pin "C7.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i68:n1" )
+			)
+			( pin "C7.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i68:n2" )
+			)
+			( pin "R8.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i69:n1" )
+			)
+			( pin "R8.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i69:n2" )
+			)
+			( pin "R9.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i77:n1" )
+			)
+			( pin "R9.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i77:n2" )
+			)
+			( pin "R10.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i78:n1" )
+			)
+			( pin "R10.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i78:n2" )
+			)
+			( pin "R11.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i79:n1" )
+			)
+			( pin "R11.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i79:n2" )
+			)
+			( pin "E1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i80:n1" )
+			)
+			( pin "E1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i80:n2" )
+			)
+			( pin "E2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i81:n1" )
+			)
+			( pin "E2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i81:n2" )
+			)
+			( pin "E3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i82:n1" )
+			)
+			( pin "E3.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i82:n2" )
+			)
+			( pin "C15.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i83:n1" )
+			)
+			( pin "C15.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i83:n2" )
+			)
+			( pin "C16.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i84:n1" )
+			)
+			( pin "C16.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i84:n2" )
+			)
+			( pin "E8.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i87:n1" )
+			)
+			( pin "E8.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i87:n2" )
+			)
+			( pin "E9.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i88:n1" )
+			)
+			( pin "E9.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i88:n2" )
+			)
+			( pin "E10.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i89:n1" )
+			)
+			( pin "E10.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i89:n2" )
+			)
+			( pin "C19.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i95:n1" )
+			)
+			( pin "C19.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i95:n2" )
+			)
+			( pin "C17.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i99:n1" )
+			)
+			( pin "C17.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i99:n2" )
+			)
+			( pin "C10.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i101:n1" )
+			)
+			( pin "C10.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i101:n2" )
+			)
+			( pin "C11.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i102:n1" )
+			)
+			( pin "C11.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i102:n2" )
+			)
+			( pin "C12.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i103:n1" )
+			)
+			( pin "C12.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i103:n2" )
+			)
+			( pin "C1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i104:n1" )
+			)
+			( pin "C1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i104:n2" )
+			)
+			( pin "R4.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i105:n1" )
+			)
+			( pin "R4.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i105:n2" )
+			)
+			( pin "R5.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i110:n1" )
+			)
+			( pin "R5.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i110:n2" )
+			)
+			( pin "C2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i112:n1" )
+			)
+			( pin "C2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i112:n2" )
+			)
+			( pin "T1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:prin1" )
+			)
+			( pin "T1.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:prin2" )
+			)
+			( pin "T1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:prip1" )
+			)
+			( pin "T1.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:prip2" )
+			)
+			( pin "T1.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:secn1" )
+			)
+			( pin "T1.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:secn2" )
+			)
+			( pin "T1.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:secp1" )
+			)
+			( pin "T1.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114:secp2" )
+			)
+			( pin "D4.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i115:n" )
+			)
+			( pin "D4.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i115:p" )
+			)
+			( pin "E6.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i120:n1" )
+			)
+			( pin "E6.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i120:n2" )
+			)
+			( pin "E7.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i121:n1" )
+			)
+			( pin "E7.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i121:n2" )
+			)
+			( pin "E4.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i125:n1" )
+			)
+			( pin "E4.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i125:n2" )
+			)
+			( pin "C14.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i126:n1" )
+			)
+			( pin "C14.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i126:n2" )
+			)
+			( pin "E5.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i127:n1" )
+			)
+			( pin "E5.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i127:n2" )
+			)
+			( pin "C18.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i131:n1" )
+			)
+			( pin "C18.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i131:n2" )
+			)
+			( pin "AVDD.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i134:n1" )
+			)
+			( pin "GND.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i135:n1" )
+			)
+			( pin "AVSS.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i136:n1" )
+			)
+			( pin "+5V.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i137:n1" )
+			)
+			( pin "TP3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i140:n1" )
+			)
+			( pin "TP4.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i142:n1" )
+			)
+			( pin "DS1.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i143:n" )
+			)
+			( pin "DS1.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i143:p" )
+			)
+			( pin "R15.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i145:n1" )
+			)
+			( pin "R15.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i145:n2" )
+			)
+			( pin "FL2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i153:gnd" )
+			)
+			( pin "FL2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i153:\in\" )
+			)
+			( pin "FL2.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i153:\out\" )
+			)
+			( pin "FL3.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i154:gnd" )
+			)
+			( pin "FL3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i154:\in\" )
+			)
+			( pin "FL3.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i154:\out\" )
+			)
+			( pin "FL7.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i155:gnd" )
+			)
+			( pin "FL7.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i155:\in\" )
+			)
+			( pin "FL7.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i155:\out\" )
+			)
+			( pin "FL4.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i156:gnd" )
+			)
+			( pin "FL4.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i156:\in\" )
+			)
+			( pin "FL4.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i156:\out\" )
+			)
+			( pin "FL6.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i157:gnd" )
+			)
+			( pin "FL6.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i157:\in\" )
+			)
+			( pin "FL6.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i157:\out\" )
+			)
+			( pin "FL5.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i158:gnd" )
+			)
+			( pin "FL5.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i158:\in\" )
+			)
+			( pin "FL5.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i158:\out\" )
+			)
+			( pin "FL1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i159:gnd" )
+			)
+			( pin "FL1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i159:\in\" )
+			)
+			( pin "FL1.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i159:\out\" )
+			)
+			( pin "E12.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i161:n1" )
+			)
+			( pin "E12.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i161:n2" )
+			)
+			( pin "C8.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i165:n1" )
+			)
+			( pin "C8.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i165:n2" )
+			)
+			( pin "C9.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i166:n1" )
+			)
+			( pin "C9.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i166:n2" )
+			)
+			( pin "C4.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i167:n1" )
+			)
+			( pin "C4.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i167:n2" )
+			)
+			( pin "SDP.61"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:bmode1" )
+			)
+			( pin "SDP.71"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:clkout" )
+			)
+			( pin "SDP.56"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:eeprom_a0" )
+			)
+			( pin "SDP.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd1" )
+			)
+			( pin "SDP.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd2" )
+			)
+			( pin "SDP.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd3" )
+			)
+			( pin "SDP.11"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd4" )
+			)
+			( pin "SDP.17"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd5" )
+			)
+			( pin "SDP.23"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd6" )
+			)
+			( pin "SDP.28"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd7" )
+			)
+			( pin "SDP.36"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd8" )
+			)
+			( pin "SDP.40"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd9" )
+			)
+			( pin "SDP.46"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd10" )
+			)
+			( pin "SDP.52"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd11" )
+			)
+			( pin "SDP.58"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd12" )
+			)
+			( pin "SDP.63"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd13" )
+			)
+			( pin "SDP.69"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd14" )
+			)
+			( pin "SDP.75"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd15" )
+			)
+			( pin "SDP.81"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd16" )
+			)
+			( pin "SDP.86"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd17" )
+			)
+			( pin "SDP.93"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd18" )
+			)
+			( pin "SDP.98"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd19" )
+			)
+			( pin "SDP.104"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd20" )
+			)
+			( pin "SDP.109"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd21" )
+			)
+			( pin "SDP.115"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd22" )
+			)
+			( pin "SDP.117"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd23" )
+			)
+			( pin "SDP.118"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gnd24" )
+			)
+			( pin "SDP.43"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio0" )
+			)
+			( pin "SDP.78"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio1" )
+			)
+			( pin "SDP.44"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio2" )
+			)
+			( pin "SDP.77"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio3" )
+			)
+			( pin "SDP.45"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio4" )
+			)
+			( pin "SDP.76"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio5" )
+			)
+			( pin "SDP.47"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio6" )
+			)
+			( pin "SDP.74"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:gpio7" )
+			)
+			( pin "SDP.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc1" )
+			)
+			( pin "SDP.50"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc2" )
+			)
+			( pin "SDP.51"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc3" )
+			)
+			( pin "SDP.53"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc4" )
+			)
+			( pin "SDP.54"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc5" )
+			)
+			( pin "SDP.55"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc6" )
+			)
+			( pin "SDP.66"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc7" )
+			)
+			( pin "SDP.67"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc8" )
+			)
+			( pin "SDP.68"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc9" )
+			)
+			( pin "SDP.70"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc10" )
+			)
+			( pin "SDP.119"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc12" )
+			)
+			( pin "SDP.120"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:nc13" )
+			)
+			( pin "SDP.96"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_a0" )
+			)
+			( pin "SDP.25"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_a1" )
+			)
+			( pin "SDP.97"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_a2" )
+			)
+			( pin "SDP.24"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_a3" )
+			)
+			( pin "SDP.94"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_clk" )
+			)
+			( pin "SDP.22"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_cs_n" )
+			)
+			( pin "SDP.101"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d0" )
+			)
+			( pin "SDP.20"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d1" )
+			)
+			( pin "SDP.102"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d2" )
+			)
+			( pin "SDP.19"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d3" )
+			)
+			( pin "SDP.103"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d4" )
+			)
+			( pin "SDP.18"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d5" )
+			)
+			( pin "SDP.105"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d6" )
+			)
+			( pin "SDP.16"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d7" )
+			)
+			( pin "SDP.106"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d8" )
+			)
+			( pin "SDP.15"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d9" )
+			)
+			( pin "SDP.107"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d10" )
+			)
+			( pin "SDP.14"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d11" )
+			)
+			( pin "SDP.108"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d12" )
+			)
+			( pin "SDP.13"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d13" )
+			)
+			( pin "SDP.12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d14" )
+			)
+			( pin "SDP.110"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d15" )
+			)
+			( pin "SDP.111"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d16" )
+			)
+			( pin "SDP.10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d17" )
+			)
+			( pin "SDP.112"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d18" )
+			)
+			( pin "SDP.9"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d19" )
+			)
+			( pin "SDP.113"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d20" )
+			)
+			( pin "SDP.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d21" )
+			)
+			( pin "SDP.114"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d22" )
+			)
+			( pin "SDP.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_d23" )
+			)
+			( pin "SDP.27"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_fs1" )
+			)
+			( pin "SDP.95"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_fs2" )
+			)
+			( pin "SDP.26"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_fs3" )
+			)
+			( pin "SDP.99"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_int" )
+			)
+			( pin "SDP.21"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_rd_n" )
+			)
+			( pin "SDP.100"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:par_wr_n" )
+			)
+			( pin "SDP.60"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:reset_in_n" )
+			)
+			( pin "SDP.57"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:reset_out_n" )
+			)
+			( pin "SDP.79"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:scl_0" )
+			)
+			( pin "SDP.42"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:scl_1" )
+			)
+			( pin "SDP.80"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sda_0" )
+			)
+			( pin "SDP.41"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sda_1" )
+			)
+			( pin "SDP.35"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:serial_int" )
+			)
+			( pin "SDP.64"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sleep_n" )
+			)
+			( pin "SDP.82"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_clk" )
+			)
+			( pin "SDP.33"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_d2" )
+			)
+			( pin "SDP.34"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_d3" )
+			)
+			( pin "SDP.83"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_miso" )
+			)
+			( pin "SDP.84"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_mosi" )
+			)
+			( pin "SDP.39"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:\spi_sel1/spi_ss_n\" )
+			)
+			( pin "SDP.85"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_sel_a" )
+			)
+			( pin "SDP.37"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_sel_b_n" )
+			)
+			( pin "SDP.38"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:spi_sel_c_n" )
+			)
+			( pin "SDP.91"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_dr0" )
+			)
+			( pin "SDP.31"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_dr1" )
+			)
+			( pin "SDP.88"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_dt0" )
+			)
+			( pin "SDP.32"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_dt1" )
+			)
+			( pin "SDP.90"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_rfs" )
+			)
+			( pin "SDP.92"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_rsclk" )
+			)
+			( pin "SDP.29"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_tdv0" )
+			)
+			( pin "SDP.30"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_tdv1" )
+			)
+			( pin "SDP.89"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_tfs" )
+			)
+			( pin "SDP.87"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:sport_tsclk" )
+			)
+			( pin "SDP.48"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:tmr_a" )
+			)
+			( pin "SDP.73"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:tmr_b" )
+			)
+			( pin "SDP.49"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:tmr_c" )
+			)
+			( pin "SDP.72"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:tmr_d" )
+			)
+			( pin "SDP.59"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:uart_rx" )
+			)
+			( pin "SDP.62"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:uart_tx" )
+			)
+			( pin "SDP.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:usb_vbus" )
+			)
+			( pin "SDP.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:vin" )
+			)
+			( pin "SDP.116"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:\vio(+3.3v)\" )
+			)
+			( pin "SDP.65"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1:wake_n" )
+			)
+			( pin "U1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:a0" )
+			)
+			( pin "U1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:a1" )
+			)
+			( pin "U1.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:a2" )
+			)
+			( pin "U1.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:scl" )
+			)
+			( pin "U1.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:sda" )
+			)
+			( pin "U1.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:vcc" )
+			)
+			( pin "U1.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:vss" )
+			)
+			( pin "U1.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3:wp" )
+			)
+			( pin "R2.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i4:n1" )
+			)
+			( pin "R2.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i4:n2" )
+			)
+			( pin "R3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i5:n1" )
+			)
+			( pin "R3.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i5:n2" )
+			)
+			( pin "R1.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i6:n1" )
+			)
+			( pin "R1.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i6:n2" )
+			)
+			( pin "C22.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i18:n1" )
+			)
+			( pin "C22.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i18:n2" )
+			)
+			( pin "U3.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36:a" )
+			)
+			( pin "U3.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36:gnd" )
+			)
+			( pin "U3.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36:\oe*\" )
+			)
+			( pin "U3.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36:vcc" )
+			)
+			( pin "U3.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36:y" )
+			)
+			( pin "C20.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i56:n1" )
+			)
+			( pin "C20.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i56:n2" )
+			)
+			( pin "U4.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:a1" )
+			)
+			( pin "U4.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:a2" )
+			)
+			( pin "U4.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:a3" )
+			)
+			( pin "U4.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:a4" )
+			)
+			( pin "U4.13"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:b1" )
+			)
+			( pin "U4.12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:b2" )
+			)
+			( pin "U4.11"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:b3" )
+			)
+			( pin "U4.10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:b4" )
+			)
+			( pin "U4.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:gnd" )
+			)
+			( pin "U4.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:oe" )
+			)
+			( pin "U4.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:vcca" )
+			)
+			( pin "U4.14"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58:vccb" )
+			)
+			( pin "C23.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i62:n1" )
+			)
+			( pin "C23.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i62:n2" )
+			)
+			( pin "C24.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i63:n1" )
+			)
+			( pin "C24.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i63:n2" )
+			)
+			( pin "R16.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i67:n1" )
+			)
+			( pin "R16.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i67:n2" )
+			)
+			( pin "C21.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i68:n1" )
+			)
+			( pin "C21.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i68:n2" )
+			)
+			( pin "PMOD.5"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:gnd1" )
+			)
+			( pin "PMOD.11"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:gnd2" )
+			)
+			( pin "PMOD.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p1" )
+			)
+			( pin "PMOD.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p2" )
+			)
+			( pin "PMOD.3"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p3" )
+			)
+			( pin "PMOD.4"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p4" )
+			)
+			( pin "PMOD.7"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p7" )
+			)
+			( pin "PMOD.8"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p8" )
+			)
+			( pin "PMOD.9"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p9" )
+			)
+			( pin "PMOD.10"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:p10" )
+			)
+			( pin "PMOD.6"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:vcc1" )
+			)
+			( pin "PMOD.12"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72:vcc2" )
+			)
+			( pin "CR4.C"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i168:n" )
+			)
+			( pin "CR4.A"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i168:p" )
+			)
+			( pin "R20.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i162:n1" )
+			)
+			( pin "R20.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i162:n2" )
+			)
+			( pin "VOUT.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i165:n1" )
+			)
+			( pin "VOUT.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i165:n2" )
+			)
+			( pin "IOUT.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i166:n1" )
+			)
+			( pin "IOUT.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i166:n2" )
+			)
+			( pin "P5.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i73:n1" )
+			)
+			( pin "P5.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i73:n2" )
+			)
+			( pin "P4.1"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i167:n1" )
+			)
+			( pin "P4.2"
+				( objectStatus "@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i167:n2" )
+			)
+		)
+	)
+)

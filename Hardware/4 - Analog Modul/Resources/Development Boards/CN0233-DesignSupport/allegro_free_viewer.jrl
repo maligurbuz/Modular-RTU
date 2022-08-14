@@ -1,0 +1,21 @@
+\t (00:00:00) allegro_free_viewer 16.6 S038 (v16-6-112CV) Windows 32
+\t (00:00:00)     Journal start - Thu Aug 11 10:19:46 2016
+\t (00:00:00)         Host=CIHAN_DESKTOP User=Mustafa Pid=16572 CPUs=8
+\t (00:00:00) CmdLine= C:\Program Files (x86)\Cadence Design Systems\Allegro Free Physical Viewers 16.6\tools\pcb\bin\allegro_free_viewer.exe
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 641
+\i (00:00:00) trapsize 629
+\i (00:00:00) trapsize 557
+\i (00:00:00) trapsize 1014
+\i (00:00:01) open 
+\i (00:00:21) fillin "C:\Users\cihan\Downloads\AD9144-EBZ RevA.brd"
+\i (00:00:21) cd "C:\Users\cihan\Downloads"
+\t (00:00:21) Opening existing design...
+\w (00:00:21) WARNING(SPMHOD-40): Design is Locked for writing (Write Lock).
+\i (00:00:22) fillin confirm
+\w (00:00:22) WARNING(SPMHDB-289): You cannot save without unlocking.
+\w (00:00:22) WARNING(SPMHOD-37): Design is Locked.
+\t (00:00:22) Grids are drawn 200.00, 200.00 apart for enhanced viewability.
+\i (00:00:22) trapsize 13126
+\t (00:00:22)     Journal end - Thu Aug 11 10:20:09 2016

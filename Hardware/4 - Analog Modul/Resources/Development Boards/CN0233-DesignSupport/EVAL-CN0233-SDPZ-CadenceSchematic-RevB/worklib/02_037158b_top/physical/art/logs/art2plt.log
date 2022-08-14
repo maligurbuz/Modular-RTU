@@ -1,0 +1,88 @@
+E- Can't change to directory: ./worklib/02_037158b_top/physical
+
+Loading CDS_SITE/pcb/skill/allegro.ilinit
+Loading  : Sig2AMS.il
+function _GetDataList redefined
+Loading  : adi_scripts_2011.il
+Loading  : adi_scripts_2012.il
+function ckflash redefined
+function plot_pdf redefined
+Loading  : adi_scripts_form_2011.il
+Loading  : cds2f.il
+Loading  : ood_shapes.il
+Loading  : stats_chippac.il
+Loading  : valor_ext.il
+Loading  : adi_scripts_form_2012.il
+Loading  : adiva_iface_v400.il
+Loading  : adiva_vio_lnk_v2c.il
+function readBatch redefined
+function readError redefined
+Loading Skill file: site.ini
+allegro.ilinit loaded.
+Starting new design...
+Script version: 16.5
+Loading mfg.cxt 
+Pick Image Start Point: 
+Loading axlcore.cxt 
+last pick:  -8200.0  -12025.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  -8200.0  -12025.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  -8200.0  -12025.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Pick Image Start Point: 
+last pick:  0.0  0.0
+Photoplot file is being loaded ...
+Photoplot file loading completed with no errors.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Plot file complete.
+Performing a partial database check before saving.
+Writing database to disk.
+'artwork.brd' saved to disk.

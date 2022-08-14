@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TXB0104'
+CLASS=IC
+PINCOUNT=14
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE = DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL       | TOL | PPM | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | ROHS | WW_PN | ALT_PN1 | ALT_PN2 | SCD | HLM_STATUS ;
+{===============================================================================================}
+'TXB0104PWR'  |  'E006113'  |  'SM'  |  'TSSOP14'  =  'IC 4-BIT BIDIR VOLTAGE-LVL TRANSLATOR'  |  'TEXAS INSTRUMENTS'  |  'TXB0104PWR'  |  'TXB0104PWR'  |  'TSSOP14'  |  'TSSOP14'  |  '14'  |  ''  |  'www.ti.com'  |  ''  |  ''  |  'A005-0012-336'  |  ''  |  '40901JH1084'  |  ''  |  'Y'  |  'E006113'  |  ''  |  ''  |  'SCD-002246'  |  'REL'
+
+END_PART
+
+END.

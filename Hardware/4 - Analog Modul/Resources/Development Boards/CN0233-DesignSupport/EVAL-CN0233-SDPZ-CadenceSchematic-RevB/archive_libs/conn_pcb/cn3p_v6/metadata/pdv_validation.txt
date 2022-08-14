@@ -1,0 +1,2 @@
+SPLBBK-5,Package 'CN3P_V6_TH':Pin numbers extracted from footprint cncuipj1-021.psm,Information
+SPLBBK-5,Package 'CN3P_V6_TH':Pin numbers extracted from footprint cncuipj1-021.psm,Information

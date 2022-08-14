@@ -1,0 +1,774 @@
+(Cell	dioschottky3p_v7
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/13,06:20:47)
+
+			(User	jmarana)
+
+			(Path	created.dioschottky3p_v7)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000063989f1c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b2e038e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d31695fe)
+
+			(Primitives	1
+
+				(Primitive	DIOSCHOTTKY3P_V7_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIOSCHOTTKY3P_V7
+
+							(PackType	DIOSCHOTTKY3P_V7_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d5903c0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bbe037a)
+
+)
+
+
+(Cell	dioschottky3p_v7
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	2.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/13,06:20:47)
+
+			(User	jmarana)
+
+			(Path	created.dioschottky3p_v7)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/09/13,08:51:30)
+
+			(User	RErsand2)
+
+			(Path	allegro16_3.dioschottky3p_v7)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000063a39f1c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/09/13,08:51:30)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.dioschottky3p_v7)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c0503b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009988950c)
+
+			(Primitives	1
+
+				(Primitive	DIOSCHOTTKY3P_V7_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/09/13,08:51:30)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.dioschottky3p_v7)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIOSCHOTTKY3P_V7
+
+							(PackType	DIOSCHOTTKY3P_V7_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT23-M4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4b03eb)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cbb03d6)
+
+)
+
+
+(Cell	dioschottky3p_v7
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	2.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/13,06:20:47)
+
+			(User	jmarana)
+
+			(Path	created.dioschottky3p_v7)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/09/13,09:06:59)
+
+			(User	RErsand2)
+
+			(Path	allegro16_3.dioschottky3p_v7)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dc71c044)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.2.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/09/13,09:06:59)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.dioschottky3p_v7)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9c03ab)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009988950c)
+
+			(Primitives	1
+
+				(Primitive	DIOSCHOTTKY3P_V7_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/09/13,08:51:30)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.dioschottky3p_v7)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIOSCHOTTKY3P_V7
+
+							(PackType	DIOSCHOTTKY3P_V7_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT23-M4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c18038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b75037a)
+
+)
+
+
+(Cell	dioschottky3p_v7
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	2.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/13,06:20:47)
+
+			(User	jmarana)
+
+			(Path	created.dioschottky3p_v7)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/09/13,09:06:59)
+
+			(User	RErsand2)
+
+			(Path	allegro16_3.dioschottky3p_v7)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dc71c044)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.2.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/09/13,09:06:59)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.dioschottky3p_v7)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9c03ab)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009988950c)
+
+			(Primitives	1
+
+				(Primitive	DIOSCHOTTKY3P_V7_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/13,06:20:47)
+
+							(User	jmarana)
+
+							(Path	created.dioschottky3p_v7)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/09/13,08:51:30)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.dioschottky3p_v7)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIOSCHOTTKY3P_V7
+
+							(PackType	DIOSCHOTTKY3P_V7_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOT23-M4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c18038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b75037a)
+
+)
+
+

@@ -1,0 +1,240 @@
+(Cell	adum3471
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	2.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/27/12,15:27:54)
+
+			(User	aboac)
+
+			(Path	arthur_lib.adum3471)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/27/12,19:27:02)
+
+			(User	RErsand2)
+
+			(Path	allegro16_3.adum3471)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007d79a297)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/27/12,15:27:54)
+
+							(User	aboac)
+
+							(Path	arthur_lib.adum3471)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/27/12,19:27:02)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.adum3471)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009cf499d6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/27/12,15:27:54)
+
+							(User	aboac)
+
+							(Path	arthur_lib.adum3471)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/27/12,19:27:02)
+
+							(User	RErsand2)
+
+							(Path	allegro16_3.adum3471)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0a03df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bca73830)
+
+			(Primitives	1
+
+				(Primitive	ADUM3471_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/27/12,15:27:54)
+
+							(User	aboac)
+
+							(Path	arthur_lib.adum3471)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADUM3471
+
+							(PackType	ADUM3471_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ssop20-4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7b03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ccd03da)
+
+)
+

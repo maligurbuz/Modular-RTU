@@ -1,0 +1,276 @@
+#ISCELL
+  adi_standard adi_d_size_page *
+  *
+#CELL
+  ic_adi adum3471 *
+  page3_i1
+#ISCELL
+  power_ground dgnd *
+  page3_i100
+#CELL
+  capacitors cap *
+  page3_i101
+#CELL
+  capacitors cap *
+  page3_i102
+#CELL
+  capacitors cap *
+  page3_i103
+#CELL
+  capacitors cap *
+  page3_i104
+#CELL
+  resistors res *
+  page3_i105
+#ISCELL
+  power_ground agnd *
+  page3_i106
+#ISCELL
+  power_ground agnd *
+  page3_i107
+#ISCELL
+  power_ground agnd *
+  page3_i108
+#CELL
+  resistors res *
+  page3_i110
+#CELL
+  capacitors cap *
+  page3_i112
+#ISCELL
+  power_ground agnd *
+  page3_i113
+#CELL
+  transformers xfmrka4976 *
+  page3_i114
+#CELL
+  diodes dioschottky *
+  page3_i115
+#ISCELL
+  power_ground dgnd *
+  page3_i117
+#CELL
+  inductors ferrite *
+  page3_i120
+#CELL
+  inductors ferrite *
+  page3_i121
+#CELL
+  inductors ferrite *
+  page3_i125
+#CELL
+  capacitors cap *
+  page3_i126
+#CELL
+  inductors ferrite *
+  page3_i127
+#ISCELL
+  power_ground agnd *
+  page3_i130
+#CELL
+  capacitors cap *
+  page3_i131
+#ISCELL
+  power_ground gnd_iso *
+  page3_i132
+#ISCELL
+  power_ground agnd *
+  page3_i133
+#CELL
+  nocomponent nctestpad *
+  page3_i134
+#CELL
+  nocomponent nctestpad *
+  page3_i135
+#CELL
+  nocomponent nctestpad *
+  page3_i136
+#CELL
+  nocomponent nctestpad *
+  page3_i137
+#ISCELL
+  power_ground dgnd *
+  page3_i138
+#CELL
+  diodes dioschottky *
+  page3_i14
+#CELL
+  nocomponent nctestpad *
+  page3_i140
+#CELL
+  nocomponent nctestpad *
+  page3_i142
+#CELL
+  diodes dioled *
+  page3_i143
+#CELL
+  resistors res *
+  page3_i145
+#CELL
+  diodes dioschottky *
+  page3_i15
+#CELL
+  filters fltr3p *
+  page3_i153
+#CELL
+  filters fltr3p *
+  page3_i154
+#CELL
+  filters fltr3p *
+  page3_i155
+#CELL
+  filters fltr3p *
+  page3_i156
+#CELL
+  filters fltr3p *
+  page3_i157
+#CELL
+  filters fltr3p *
+  page3_i158
+#CELL
+  filters fltr3p *
+  page3_i159
+#ISCELL
+  power_ground agnd *
+  page3_i160
+#CELL
+  inductors ferrite *
+  page3_i161
+#ISCELL
+  power_ground agnd *
+  page3_i162
+#ISCELL
+  power_ground gnd_iso *
+  page3_i163
+#CELL
+  capacitors cap *
+  page3_i165
+#CELL
+  capacitors cap *
+  page3_i166
+#CELL
+  capacitors cap *
+  page3_i167
+#CELL
+  diodes dioznr *
+  page3_i168
+#CELL
+  diodes dioschottky *
+  page3_i17
+#CELL
+  conn_pcb cn2p *
+  page3_i172
+#CELL
+  inductors ind *
+  page3_i18
+#CELL
+  inductors ind *
+  page3_i19
+#CELL
+  fuses fsfuse *
+  page3_i2
+#CELL
+  nocomponent nctestpad *
+  page3_i22
+#CELL
+  conn_pcb cn3p_v6 *
+  page3_i27
+#CELL
+  capacitors cap *
+  page3_i30
+#CELL
+  resistors res *
+  page3_i34
+#CELL
+  resistors res *
+  page3_i35
+#CELL
+  resistors res *
+  page3_i36
+#CELL
+  resistors res *
+  page3_i38
+#CELL
+  capacitors cap *
+  page3_i39
+#CELL
+  nocomponent nctestpad *
+  page3_i4
+#CELL
+  ic_adi adp7104 *
+  page3_i58
+#CELL
+  capacitors cap *
+  page3_i59
+#CELL
+  diodes dioznr *
+  page3_i6
+#CELL
+  resistors res *
+  page3_i61
+#CELL
+  capacitors cap *
+  page3_i63
+#ISCELL
+  power_ground dgnd *
+  page3_i64
+#ISCELL
+  power_ground dgnd *
+  page3_i66
+#ISCELL
+  power_ground dgnd *
+  page3_i67
+#CELL
+  capacitors cap *
+  page3_i68
+#CELL
+  resistors res *
+  page3_i69
+#ISCELL
+  power_ground dgnd *
+  page3_i7
+#CELL
+  resistors res *
+  page3_i77
+#CELL
+  resistors res *
+  page3_i78
+#CELL
+  resistors res *
+  page3_i79
+#CELL
+  inductors ferrite *
+  page3_i80
+#CELL
+  inductors ferrite *
+  page3_i81
+#CELL
+  inductors ferrite *
+  page3_i82
+#CELL
+  capacitors cap *
+  page3_i83
+#CELL
+  capacitors cap *
+  page3_i84
+#ISCELL
+  power_ground gnd_iso *
+  page3_i85
+#CELL
+  inductors ferrite *
+  page3_i87
+#CELL
+  inductors ferrite *
+  page3_i88
+#CELL
+  inductors ferrite *
+  page3_i89
+#CELL
+  diodes dio *
+  page3_i9
+#CELL
+  capacitors cap *
+  page3_i95
+#CELL
+  capacitors cap *
+  page3_i99

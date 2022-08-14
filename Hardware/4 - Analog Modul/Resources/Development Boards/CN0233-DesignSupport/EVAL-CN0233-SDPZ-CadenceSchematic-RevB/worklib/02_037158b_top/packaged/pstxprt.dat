@@ -1,0 +1,3573 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 19-Dec-2013 AT 14:13:58 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='02_037158B_TOP';
+ POST_TIME='19-Dec-2013 AT 14:13:58';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ +5V 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I137@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i137@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i137@nocomponent.nctest~
+pad(chips)',
+ PATH='I137',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-300,3250)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='+5V',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ +5VA 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I22@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i22@nocomponent.nctestp~
+ad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i22@nocomponent.nctestp~
+ad(chips)',
+ PATH='I22',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-7300,8800)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='+5VA',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ +5VREF 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I149@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i149@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i149@nocomponent.nctest~
+pad(chips)',
+ PATH='I149',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-6350,9350)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='+5VREF',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ AVDD 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I134@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i134@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i134@nocomponent.nctest~
+pad(chips)',
+ PATH='I134',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(150,5950)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='AVDD',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ AVSS 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I136@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i136@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i136@nocomponent.nctest~
+pad(chips)',
+ PATH='I136',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(100,4800)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='AVSS',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ C1 'CAP_SM-100PF,50V,5,E007896,C04B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I104@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i104@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i104@capacitors.cap(chi~
+ps)',
+ PATH='I104',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E007896',
+ PHYS_PAGE='3',
+ XY='(-12400,3750)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E007896,C04B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C2 'CAP_SM-100PF,50V,5,E007896,C04B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I112@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i112@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i112@capacitors.cap(chi~
+ps)',
+ PATH='I112',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E007896',
+ PHYS_PAGE='3',
+ XY='(-12000,3750)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E007896,C04B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C3 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I39@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i39@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i39@capacitors.cap(chip~
+s)',
+ PATH='I39',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='3',
+ XY='(-11200,1950)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C4 'CAP_SM-47UF,16V,20,E019684,C12B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I167@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i167@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i167@capacitors.cap(chi~
+ps)',
+ PATH='I167',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019684',
+ PHYS_PAGE='3',
+ XY='(-10750,5300)',
+ ROT='1',
+ VER='1',
+ VALUE='47UF',
+ PACK_TYPE='SM',
+ LOCATION='C4',
+ TOL='20',
+ JEDEC_TYPE='C1206H71',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-47UF,16V,20,E019684,C12B',
+ VOLTAGE='16V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C5 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I30@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i30@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i30@capacitors.cap(chip~
+s)',
+ PATH='I30',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='3',
+ XY='(-9450,2950)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C6 'CAP_SM-1UF,16V,10,E019219,C040A':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I59@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i59@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i59@capacitors.cap(chip~
+s)',
+ PATH='I59',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019219',
+ PHYS_PAGE='3',
+ XY='(-8800,8150)',
+ ROT='1',
+ VER='1',
+ VALUE='1UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-1UF,16V,10,E019219,C040A',
+ VOLTAGE='16V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C7 'CAP_SM-100PF,50V,5,E007896,C04B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I68@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i68@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i68@capacitors.cap(chip~
+s)',
+ PATH='I68',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E007896',
+ PHYS_PAGE='3',
+ XY='(-7850,2050)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E007896,C04B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C8 'CAP_SM-47UF,16V,20,E019684,C12B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I165@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i165@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i165@capacitors.cap(chi~
+ps)',
+ PATH='I165',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019684',
+ PHYS_PAGE='3',
+ XY='(-7600,5700)',
+ ROT='1',
+ VER='1',
+ VALUE='47UF',
+ PACK_TYPE='SM',
+ LOCATION='C8',
+ TOL='20',
+ JEDEC_TYPE='C1206H71',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-47UF,16V,20,E019684,C12B',
+ VOLTAGE='16V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C9 'CAP_SM-47UF,16V,20,E019684,C12B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I166@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i166@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i166@capacitors.cap(chi~
+ps)',
+ PATH='I166',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019684',
+ PHYS_PAGE='3',
+ XY='(-7600,5150)',
+ ROT='1',
+ VER='1',
+ VALUE='47UF',
+ PACK_TYPE='SM',
+ LOCATION='C9',
+ TOL='20',
+ JEDEC_TYPE='C1206H71',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-47UF,16V,20,E019684,C12B',
+ VOLTAGE='16V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C10 'CAP_SM-100PF,50V,5,E007896,C04B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I101@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i101@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i101@capacitors.cap(chi~
+ps)',
+ PATH='I101',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E007896',
+ PHYS_PAGE='3',
+ XY='(-7500,2050)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E007896,C04B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C11 'CAP_SM-100PF,50V,5,E007896,C04B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I102@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i102@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i102@capacitors.cap(chi~
+ps)',
+ PATH='I102',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E007896',
+ PHYS_PAGE='3',
+ XY='(-7150,2050)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E007896,C04B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C12 'CAP_SM-100PF,50V,5,E007896,C04B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I103@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i103@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i103@capacitors.cap(chi~
+ps)',
+ PATH='I103',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E007896',
+ PHYS_PAGE='3',
+ XY='(-6800,2050)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E007896,C04B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C13 'CAP_SM-1UF,16V,10,E019219,C040A':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I63@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i63@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i63@capacitors.cap(chip~
+s)',
+ PATH='I63',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019219',
+ PHYS_PAGE='3',
+ XY='(-6600,8050)',
+ ROT='1',
+ VER='1',
+ VALUE='1UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-1UF,16V,10,E019219,C040A',
+ VOLTAGE='16V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C14 'CAP_SM-1UF,25V,10,E006992,C060A':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I126@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i126@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i126@capacitors.cap(chi~
+ps)',
+ PATH='I126',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E006992',
+ PHYS_PAGE='3',
+ XY='(-4250,2750)',
+ ROT='1',
+ VER='1',
+ VALUE='1UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0603',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-1UF,25V,10,E006992,C060A',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C15 'CAP_SM-1UF,25V,10,E006992,C060A':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I83@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i83@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i83@capacitors.cap(chip~
+s)',
+ PATH='I83',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E006992',
+ PHYS_PAGE='3',
+ XY='(-4200,5450)',
+ ROT='1',
+ VER='1',
+ VALUE='1UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0603',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-1UF,25V,10,E006992,C060A',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C16 'CAP_SM-1UF,25V,10,E006992,C060A':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I84@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i84@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i84@capacitors.cap(chip~
+s)',
+ PATH='I84',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E006992',
+ PHYS_PAGE='3',
+ XY='(-4200,4900)',
+ ROT='1',
+ VER='1',
+ VALUE='1UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0603',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-1UF,25V,10,E006992,C060A',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C17 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I99@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i99@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i99@capacitors.cap(chip~
+s)',
+ PATH='I99',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='3',
+ XY='(-250,4950)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C18 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I131@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i131@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i131@capacitors.cap(chi~
+ps)',
+ PATH='I131',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='3',
+ XY='(-200,2800)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C19 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I95@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i95@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i95@capacitors.cap(chip~
+s)',
+ PATH='I95',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='3',
+ XY='(-150,5500)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C20 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I56@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i56@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i56@capacitors.cap(chip~
+s)',
+ PATH='I56',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='4',
+ XY='(-9150,2350)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C21 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I68@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i68@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i68@capacitors.cap(chip~
+s)',
+ PATH='I68',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='4',
+ XY='(-6350,9250)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C22 'CAP_SM-0.1UF,16V,10,E007200,C0B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I18@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i18@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i18@capacitors.cap(chip~
+s)',
+ PATH='I18',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E007200',
+ PHYS_PAGE='4',
+ XY='(-5800,9250)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,16V,10,E007200,C0B',
+ VOLTAGE='16V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C23 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I62@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i62@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i62@capacitors.cap(chip~
+s)',
+ PATH='I62',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='4',
+ XY='(-1550,5400)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C24 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I63@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i63@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i63@capacitors.cap(chip~
+s)',
+ PATH='I63',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='4',
+ XY='(-450,5450)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C25 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I94@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i94@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i94@capacitors.cap(chip~
+s)',
+ PATH='I94',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='2',
+ XY='(-10500,4500)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C26 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I45@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i45@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i45@capacitors.cap(chip~
+s)',
+ PATH='I45',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='2',
+ XY='(-10100,4500)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C27 'CAP_SM-3900PF,25V,10,E000300,CB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I65@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i65@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i65@capacitors.cap(chip~
+s)',
+ PATH='I65',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E000300',
+ PHYS_PAGE='2',
+ XY='(-9800,3550)',
+ ROT='1',
+ VER='1',
+ VALUE='3900PF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-3900PF,25V,10,E000300,CB',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C28 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I90@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i90@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i90@capacitors.cap(chip~
+s)',
+ PATH='I90',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='2',
+ XY='(-9450,9050)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C29 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I31@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i31@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i31@capacitors.cap(chip~
+s)',
+ PATH='I31',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='2',
+ XY='(-9100,9050)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C30 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I92@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i92@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i92@capacitors.cap(chip~
+s)',
+ PATH='I92',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='2',
+ XY='(-9050,7150)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C31 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I61@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i61@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i61@capacitors.cap(chip~
+s)',
+ PATH='I61',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='2',
+ XY='(-8700,7150)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C32 'CAP_SM-22NF,16V,10,E000327,C06B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I156@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i156@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i156@capacitors.cap(chi~
+ps)',
+ PATH='I156',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E000327',
+ PHYS_PAGE='2',
+ XY='(-7900,6700)',
+ ROT='1',
+ VER='1',
+ VALUE='22NF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0603',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-22NF,16V,10,E000327,C06B',
+ VOLTAGE='16V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C33 'CAP_SM-2.2UF,10V,10,E015288,C0B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I157@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i157@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i157@capacitors.cap(chi~
+ps)',
+ PATH='I157',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E015288',
+ PHYS_PAGE='2',
+ XY='(-7600,6700)',
+ ROT='1',
+ VER='1',
+ VALUE='2.2UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0603',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-2.2UF,10V,10,E015288,C0B',
+ VOLTAGE='10V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C34 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I91@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i91@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i91@capacitors.cap(chip~
+s)',
+ PATH='I91',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='2',
+ XY='(-7100,8950)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C35 'CAP_SM-10UF,25V,10,E019080,C08B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I93@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i93@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i93@capacitors.cap(chip~
+s)',
+ PATH='I93',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019080',
+ PHYS_PAGE='2',
+ XY='(-7050,7100)',
+ ROT='1',
+ VER='1',
+ VALUE='10UF',
+ PACK_TYPE='SM',
+ TOL='10',
+ JEDEC_TYPE='C0805',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-10UF,25V,10,E019080,C08B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C36 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I32@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i32@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i32@capacitors.cap(chip~
+s)',
+ PATH='I32',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='2',
+ XY='(-6750,8950)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C37 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I47@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i47@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i47@capacitors.cap(chip~
+s)',
+ PATH='I47',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='2',
+ XY='(-6700,7100)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C38 'CAP_SM-0.1UF,25V,-20/+80,E0118B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I40@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i40@capacitors.cap(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i40@capacitors.cap(chip~
+s)',
+ PATH='I40',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011876',
+ PHYS_PAGE='2',
+ XY='(-5650,6100)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ TOL='-20/+80',
+ JEDEC_TYPE='C0402',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-0.1UF,25V,-20/+80,E0118B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C39 'CAP_SM-100PF,50V,5,E000415,C06B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I160@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i160@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i160@capacitors.cap(chi~
+ps)',
+ PATH='I160',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ DNI='DNI',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E000415',
+ PHYS_PAGE='2',
+ XY='(-2250,2450)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0603',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E000415,C06B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ C40 'CAP_SM-100PF,50V,5,E000415,C06B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I158@CAPACITORS.CAP(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i158@capacitors.cap(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i158@capacitors.cap(chi~
+ps)',
+ PATH='I158',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PSPICETEMPLATE='C^@REFDES   ?TOL|C^@REFDES| @VALUE ?TOL|\N.MODEL C^@REFDES CAP ~
+C=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E000415',
+ PHYS_PAGE='2',
+ XY='(-2150,5200)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='C0603',
+ CDS_LIB='capacitors',
+ CDS_PART_NAME='CAP_SM-100PF,50V,5,E000415,C06B',
+ VOLTAGE='50V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/capacitors/cap/chips/chip~
+s.prt';
+
+PART_NAME
+ CR1 'DIOZNR_SM-SMBJ5342B-TP,6.8V,5,B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I6@DIODES.DIOZNR(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i6@diodes.dioznr(chips)~
+',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i6@diodes.dioznr(chips)~
+',
+ PATH='I6',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E019336',
+ PHYS_PAGE='3',
+ XY='(-10600,8150)',
+ ROT='2',
+ VER='2',
+ VALUE='SMBJ5342B-TP',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='DO214AA3',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOZNR_SM-SMBJ5342B-TP,6.8V,5,B',
+ VOLTAGE='6.8V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioznr/chips/chips~
+.prt';
+
+PART_NAME
+ CR2 'DIOSCHOTTKY3P_V7_SM-BAS70-04LTB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I137@DIODES.DIOSCHOTTKY3P_V7(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i137@diodes.dioschottky~
+3p_v7(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i137@diodes.dioschottky~
+3p_v7(chips)',
+ PATH='I137',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ WW_PN='E018685',
+ PHYS_PAGE='2',
+ XY='(-2900,3350)',
+ ROT='2',
+ VER='1',
+ VALUE='BAS70-04LT1G',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='SOT23-M3',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOSCHOTTKY3P_V7_SM-BAS70-04LTB',
+ VOLTAGE='70V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioschottky3p_v7/c~
+hips/chips.prt';
+
+PART_NAME
+ CR3 'DIOSCHOTTKY3P_V7_SM-BAS70-04LTB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I138@DIODES.DIOSCHOTTKY3P_V7(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i138@diodes.dioschottky~
+3p_v7(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i138@diodes.dioschottky~
+3p_v7(chips)',
+ PATH='I138',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ WW_PN='E018685',
+ PHYS_PAGE='2',
+ XY='(-2800,6000)',
+ ROT='2',
+ VER='1',
+ VALUE='BAS70-04LT1G',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='SOT23-M3',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOSCHOTTKY3P_V7_SM-BAS70-04LTB',
+ VOLTAGE='70V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioschottky3p_v7/c~
+hips/chips.prt';
+
+PART_NAME
+ CR4 'DIOZNR_SM-MMSZ5253B,25V,5,E020B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I168@DIODES.DIOZNR(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i168@diodes.dioznr(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i168@diodes.dioznr(chip~
+s)',
+ PATH='I168',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E020097',
+ PHYS_PAGE='3',
+ XY='(300,4900)',
+ ROT='1',
+ VER='1',
+ VALUE='MMSZ5253B',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='SOD123-2',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOZNR_SM-MMSZ5253B,25V,5,E020B',
+ VOLTAGE='25V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioznr/chips/chips~
+.prt';
+
+PART_NAME
+ D1 'DIO_SM-SBR2U30P1-7,30V,N/A,E01B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I9@DIODES.DIO(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i9@diodes.dio(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i9@diodes.dio(chips)',
+ PATH='I9',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ CURRENT='2A',
+ PINOFF='PINOFF',
+ WW_PN='E016912',
+ PHYS_PAGE='3',
+ XY='(-9150,8600)',
+ ROT='0',
+ VER='1',
+ VALUE='SBR2U30P1-7',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='POWERDI123',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIO_SM-SBR2U30P1-7,30V,N/A,E01B',
+ VOLTAGE='30V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dio/chips/chips.pr~
+t';
+
+PART_NAME
+ D2 'DIOSCHOTTKY_SM-MBR0540T1G,40V,B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I14@DIODES.DIOSCHOTTKY(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i14@diodes.dioschottky(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i14@diodes.dioschottky(~
+chips)',
+ PATH='I14',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E011535',
+ PHYS_PAGE='3',
+ XY='(-8950,6000)',
+ ROT='0',
+ VER='1',
+ VALUE='MBR0540T1G',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='SOD123-2',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOSCHOTTKY_SM-MBR0540T1G,40V,B',
+ VOLTAGE='40V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioschottky/chips/~
+chips.prt';
+
+PART_NAME
+ D3 'DIOSCHOTTKY_SM-MBR0540T1G,40V,B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I15@DIODES.DIOSCHOTTKY(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i15@diodes.dioschottky(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i15@diodes.dioschottky(~
+chips)',
+ PATH='I15',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E011535',
+ PHYS_PAGE='3',
+ XY='(-8950,4950)',
+ ROT='2',
+ VER='1',
+ VALUE='MBR0540T1G',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='SOD123-2',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOSCHOTTKY_SM-MBR0540T1G,40V,B',
+ VOLTAGE='40V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioschottky/chips/~
+chips.prt';
+
+PART_NAME
+ D4 'DIOSCHOTTKY_SM-MBR0540T1G,40V,B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I115@DIODES.DIOSCHOTTKY(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i115@diodes.dioschottky~
+(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i115@diodes.dioschottky~
+(chips)',
+ PATH='I115',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E011535',
+ PHYS_PAGE='3',
+ XY='(-8950,4550)',
+ ROT='0',
+ VER='1',
+ VALUE='MBR0540T1G',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='SOD123-2',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOSCHOTTKY_SM-MBR0540T1G,40V,B',
+ VOLTAGE='40V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioschottky/chips/~
+chips.prt';
+
+PART_NAME
+ D5 'DIOSCHOTTKY_SM-MBR0540T1G,40V,B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I17@DIODES.DIOSCHOTTKY(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i17@diodes.dioschottky(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i17@diodes.dioschottky(~
+chips)',
+ PATH='I17',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E011535',
+ PHYS_PAGE='3',
+ XY='(-8950,4100)',
+ ROT='2',
+ VER='1',
+ VALUE='MBR0540T1G',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='SOD123-2',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOSCHOTTKY_SM-MBR0540T1G,40V,B',
+ VOLTAGE='40V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioschottky/chips/~
+chips.prt';
+
+PART_NAME
+ D6 'DIO_V3_SM-SMBJ20CA,20V,N/A,E01B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I135@DIODES.DIO_V3(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i135@diodes.dio_v3(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i135@diodes.dio_v3(chip~
+s)',
+ PATH='I135',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PINOFF='PINOFF',
+ WW_PN='E014113',
+ PHYS_PAGE='2',
+ XY='(-1850,2500)',
+ ROT='1',
+ VER='1',
+ VALUE='SMBJ20CA',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='DO214AA-5',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIO_V3_SM-SMBJ20CA,20V,N/A,E01B',
+ VOLTAGE='20V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dio_v3/chips/chips~
+.prt';
+
+PART_NAME
+ D7 'DIO_V3_SM-SMBJ20CA,20V,N/A,E01B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I136@DIODES.DIO_V3(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i136@diodes.dio_v3(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i136@diodes.dio_v3(chip~
+s)',
+ PATH='I136',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PINOFF='PINOFF',
+ WW_PN='E014113',
+ PHYS_PAGE='2',
+ XY='(-1700,5250)',
+ ROT='1',
+ VER='1',
+ VALUE='SMBJ20CA',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='DO214AA-5',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIO_V3_SM-SMBJ20CA,20V,N/A,E01B',
+ VOLTAGE='20V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dio_v3/chips/chips~
+.prt';
+
+PART_NAME
+ DS1 'DIOLED_SM-SML-310MTT86,2.8V,N/B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I143@DIODES.DIOLED(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i143@diodes.dioled(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i143@diodes.dioled(chip~
+s)',
+ PATH='I143',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E001179',
+ PHYS_PAGE='3',
+ XY='(-6200,8250)',
+ ROT='3',
+ VER='1',
+ VALUE='SML-310MTT86',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='LED0603',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOLED_SM-SML-310MTT86,2.8V,N/B',
+ VOLTAGE='2.8V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioled/chips/chips~
+.prt';
+
+PART_NAME
+ DS2 'DIOLED_SM-SML-310LTT86,2.5V,N/B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I147@DIODES.DIOLED(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i147@diodes.dioled(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i147@diodes.dioled(chip~
+s)',
+ PATH='I147',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ PINOFF='PINOFF',
+ WW_PN='E001178',
+ PHYS_PAGE='2',
+ XY='(-9950,6600)',
+ ROT='3',
+ VER='1',
+ VALUE='SML-310LTT86',
+ PACK_TYPE='SM',
+ TOL='N/A',
+ JEDEC_TYPE='LED0603',
+ CDS_LIB='diodes',
+ CDS_PART_NAME='DIOLED_SM-SML-310LTT86,2.5V,N/B',
+ VOLTAGE='2.5V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/diodes/dioled/chips/chips~
+.prt';
+
+PART_NAME
+ E1 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I80@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i80@inductors.ferrite(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i80@inductors.ferrite(c~
+hips)',
+ PATH='I80',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-3750,5800)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E2 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I81@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i81@inductors.ferrite(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i81@inductors.ferrite(c~
+hips)',
+ PATH='I81',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-3750,5200)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E3 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I82@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i82@inductors.ferrite(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i82@inductors.ferrite(c~
+hips)',
+ PATH='I82',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-3750,4650)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E4 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I125@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i125@inductors.ferrite(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i125@inductors.ferrite(~
+chips)',
+ PATH='I125',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-3600,3100)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E5 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I127@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i127@inductors.ferrite(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i127@inductors.ferrite(~
+chips)',
+ PATH='I127',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-3600,2500)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E6 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I120@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i120@inductors.ferrite(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i120@inductors.ferrite(~
+chips)',
+ PATH='I120',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-1850,3100)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E7 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I121@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i121@inductors.ferrite(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i121@inductors.ferrite(~
+chips)',
+ PATH='I121',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-1850,2500)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E8 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I87@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i87@inductors.ferrite(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i87@inductors.ferrite(c~
+hips)',
+ PATH='I87',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-1800,5800)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E9 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I88@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i88@inductors.ferrite(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i88@inductors.ferrite(c~
+hips)',
+ PATH='I88',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-1800,5200)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E10 'FERRITE_SM-330OHM,25,E018120,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I89@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i89@inductors.ferrite(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i89@inductors.ferrite(c~
+hips)',
+ PATH='I89',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E018120',
+ PHYS_PAGE='3',
+ XY='(-1800,4650)',
+ ROT='0',
+ VER='1',
+ VALUE='330OHM',
+ PACK_TYPE='SM',
+ TOL='25',
+ JEDEC_TYPE='L0805',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-330OHM,25,E018120,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ E12 'FERRITE_SM-600OHM,25,E019248,LB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I161@INDUCTORS.FERRITE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i161@inductors.ferrite(~
+chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i161@inductors.ferrite(~
+chips)',
+ PATH='I161',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ WW_PN='E019248',
+ PHYS_PAGE='3',
+ XY='(-2100,3950)',
+ ROT='0',
+ VER='1',
+ VALUE='600OHM',
+ PACK_TYPE='SM',
+ LOCATION='E12',
+ TOL='25',
+ JEDEC_TYPE='L0603',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='FERRITE_SM-600OHM,25,E019248,LB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ferrite/chips/c~
+hips.prt';
+
+PART_NAME
+ F1 'FSFUSE_SM-0.35A,6V,E016918,LITB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I2@FUSES.FSFUSE(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i2@fuses.fsfuse(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i2@fuses.fsfuse(chips)',
+ PATH='I2',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-015992',
+ MFG='LITTELFUSE',
+ MFG_PN='1210L035YR',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E016918',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-10950,8600)',
+ ROT='0',
+ VER='1',
+ VALUE='0.35A',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='F1210',
+ CDS_LIB='fuses',
+ CDS_PART_NAME='FSFUSE_SM-0.35A,6V,E016918,LITB',
+ VOLTAGE='6V',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/fuses/fsfuse/chips/chips.~
+prt';
+
+PART_NAME
+ FL1 'FLTR3P_SM-0.1UF,E010964,FSM080B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I159@FILTERS.FLTR3P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i159@filters.fltr3p(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i159@filters.fltr3p(chi~
+ps)',
+ PATH='I159',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E010964',
+ PHYS_PAGE='3',
+ XY='(-9950,8500)',
+ ROT='0',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='FSM0805L79W49H34',
+ CDS_LIB='filters',
+ CDS_PART_NAME='FLTR3P_SM-0.1UF,E010964,FSM080B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/filters/fltr3p/chips/chip~
+s.prt';
+
+PART_NAME
+ FL2 'FLTR3P_SM-0.1UF,E010964,FSM080B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I153@FILTERS.FLTR3P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i153@filters.fltr3p(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i153@filters.fltr3p(chi~
+ps)',
+ PATH='I153',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E010964',
+ PHYS_PAGE='3',
+ XY='(-3000,4750)',
+ ROT='6',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='FSM0805L79W49H34',
+ CDS_LIB='filters',
+ CDS_PART_NAME='FLTR3P_SM-0.1UF,E010964,FSM080B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/filters/fltr3p/chips/chip~
+s.prt';
+
+PART_NAME
+ FL3 'FLTR3P_SM-0.1UF,E010964,FSM080B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I154@FILTERS.FLTR3P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i154@filters.fltr3p(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i154@filters.fltr3p(chi~
+ps)',
+ PATH='I154',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E010964',
+ PHYS_PAGE='3',
+ XY='(-2800,5700)',
+ ROT='0',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='FSM0805L79W49H34',
+ CDS_LIB='filters',
+ CDS_PART_NAME='FLTR3P_SM-0.1UF,E010964,FSM080B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/filters/fltr3p/chips/chip~
+s.prt';
+
+PART_NAME
+ FL4 'FLTR3P_SM-0.1UF,E010964,FSM080B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I156@FILTERS.FLTR3P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i156@filters.fltr3p(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i156@filters.fltr3p(chi~
+ps)',
+ PATH='I156',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E010964',
+ PHYS_PAGE='3',
+ XY='(-2800,3000)',
+ ROT='0',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='FSM0805L79W49H34',
+ CDS_LIB='filters',
+ CDS_PART_NAME='FLTR3P_SM-0.1UF,E010964,FSM080B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/filters/fltr3p/chips/chip~
+s.prt';
+
+PART_NAME
+ FL5 'FLTR3P_SM-0.1UF,E010964,FSM080B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I158@FILTERS.FLTR3P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i158@filters.fltr3p(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i158@filters.fltr3p(chi~
+ps)',
+ PATH='I158',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E010964',
+ PHYS_PAGE='3',
+ XY='(-1050,4750)',
+ ROT='6',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='FSM0805L79W49H34',
+ CDS_LIB='filters',
+ CDS_PART_NAME='FLTR3P_SM-0.1UF,E010964,FSM080B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/filters/fltr3p/chips/chip~
+s.prt';
+
+PART_NAME
+ FL6 'FLTR3P_SM-0.1UF,E010964,FSM080B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I157@FILTERS.FLTR3P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i157@filters.fltr3p(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i157@filters.fltr3p(chi~
+ps)',
+ PATH='I157',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E010964',
+ PHYS_PAGE='3',
+ XY='(-900,3000)',
+ ROT='0',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='FSM0805L79W49H34',
+ CDS_LIB='filters',
+ CDS_PART_NAME='FLTR3P_SM-0.1UF,E010964,FSM080B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/filters/fltr3p/chips/chip~
+s.prt';
+
+PART_NAME
+ FL7 'FLTR3P_SM-0.1UF,E010964,FSM080B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I155@FILTERS.FLTR3P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i155@filters.fltr3p(chi~
+ps)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i155@filters.fltr3p(chi~
+ps)',
+ PATH='I155',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINOFF='PINOFF',
+ WW_PN='E010964',
+ PHYS_PAGE='3',
+ XY='(-800,5700)',
+ ROT='0',
+ VER='1',
+ VALUE='0.1UF',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='FSM0805L79W49H34',
+ CDS_LIB='filters',
+ CDS_PART_NAME='FLTR3P_SM-0.1UF,E010964,FSM080B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/filters/fltr3p/chips/chip~
+s.prt';
+
+PART_NAME
+ GND 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I135@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i135@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i135@nocomponent.nctest~
+pad(chips)',
+ PATH='I135',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(150,5350)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='GND',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ IOUT 'CN2P_TH-OSTTC022162,E016936,ONB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I166@CONN_PCB.CN2P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i166@conn_pcb.cn2p(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i166@conn_pcb.cn2p(chip~
+s)',
+ PATH='I166',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-016004',
+ MFG='ON SHORE TECHNOLOGY INC',
+ MFG_PN='OSTTC022162',
+ PINSWAP='N1,N2',
+ WW_PN='E016936',
+ PHYS_PAGE='2',
+ XY='(-950,5550)',
+ ROT='0',
+ VER='1',
+ VALUE='OSTTC022162',
+ PACK_TYPE='TH',
+ LOCATION='IOUT',
+ JEDEC_TYPE='CNHDR1X2H406',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN2P_TH-OSTTC022162,E016936,ONB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn2p/chips/chips~
+.prt';
+
+PART_NAME
+ L1 'IND_SM-47UH,20,E017337,L1212H5B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I18@INDUCTORS.IND(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i18@inductors.ind(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i18@inductors.ind(chips~
+)',
+ PATH='I18',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E017337',
+ PHYS_PAGE='3',
+ XY='(-8050,6000)',
+ ROT='0',
+ VER='1',
+ VALUE='47UH',
+ PACK_TYPE='SM',
+ TOL='20',
+ JEDEC_TYPE='L1212H59_A',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='IND_SM-47UH,20,E017337,L1212H5B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ind/chips/chips~
+.prt';
+
+PART_NAME
+ L2 'IND_SM-47UH,20,E017337,L1212H5B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I19@INDUCTORS.IND(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i19@inductors.ind(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i19@inductors.ind(chips~
+)',
+ PATH='I19',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E017337',
+ PHYS_PAGE='3',
+ XY='(-8050,4950)',
+ ROT='0',
+ VER='1',
+ VALUE='47UH',
+ PACK_TYPE='SM',
+ TOL='20',
+ JEDEC_TYPE='L1212H59_A',
+ CDS_LIB='inductors',
+ CDS_PART_NAME='IND_SM-47UH,20,E017337,L1212H5B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/inductors/ind/chips/chips~
+.prt';
+
+PART_NAME
+ LATCH 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I139@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i139@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i139@nocomponent.nctest~
+pad(chips)',
+ PATH='I139',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-10450,5750)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='LATCH',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ P2 'CN3P_V6_TH-PJ-002A-SMT,E017261B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I27@CONN_PCB.CN3P_V6(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i27@conn_pcb.cn3p_v6(ch~
+ips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i27@conn_pcb.cn3p_v6(ch~
+ips)',
+ PATH='I27',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ WW_PN='E017261',
+ PHYS_PAGE='3',
+ XY='(-12350,8500)',
+ ROT='0',
+ VER='1',
+ VALUE='PJ-002A-SMT',
+ PACK_TYPE='TH',
+ JEDEC_TYPE='CN-2MM-PWR-JACK',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN3P_V6_TH-PJ-002A-SMT,E017261B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn3p_v6/chips/ch~
+ips.prt';
+
+PART_NAME
+ P3 'CN2P_TH-OSTTC022162,E016936,ONB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I172@CONN_PCB.CN2P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i172@conn_pcb.cn2p(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i172@conn_pcb.cn2p(chip~
+s)',
+ PATH='I172',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-016004',
+ MFG='ON SHORE TECHNOLOGY INC',
+ SEC_TYPE='TH',
+ MFG_PN='OSTTC022162',
+ PINSWAP='N1,N2',
+ WW_PN='E016936',
+ PHYS_PAGE='3',
+ XY='(-12300,9450)',
+ ROT='2',
+ VER='1',
+ VALUE='OSTTC022162',
+ PACK_TYPE='TH',
+ LOCATION='P3',
+ JEDEC_TYPE='CNHDR1X2H406',
+ SEC='1',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN2P_TH-OSTTC022162,E016936,ONB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn2p/chips/chips~
+.prt';
+
+PART_NAME
+ P4 'CN2P_TH-M20-9990245,E019487,HAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I167@CONN_PCB.CN2P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i167@conn_pcb.cn2p(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i167@conn_pcb.cn2p(chip~
+s)',
+ PATH='I167',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-012484',
+ MFG='HARWIN',
+ SEC_TYPE='TH',
+ MFG_PN='M20-9990245',
+ PINSWAP='N1,N2',
+ WW_PN='E019487',
+ PHYS_PAGE='2',
+ XY='(-10050,3200)',
+ ROT='2',
+ VER='1',
+ VALUE='M20-9990245',
+ PACK_TYPE='TH',
+ LOCATION='P4',
+ JEDEC_TYPE='CNHARWIN-M20-9990246',
+ SEC='1',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN2P_TH-M20-9990245,E019487,HAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn2p/chips/chips~
+.prt';
+
+PART_NAME
+ P5 'CN2P_TH-M20-9990245,E019487,HAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I73@CONN_PCB.CN2P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i73@conn_pcb.cn2p(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i73@conn_pcb.cn2p(chips~
+)',
+ PATH='I73',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ SCD='SCD-012484',
+ MFG='HARWIN',
+ MFG_PN='M20-9990245',
+ PINSWAP='N1,N2',
+ WW_PN='E019487',
+ PHYS_PAGE='4',
+ XY='(-1650,8350)',
+ ROT='7',
+ VER='1',
+ VALUE='M20-9990245',
+ PACK_TYPE='TH',
+ LOCATION='P5',
+ JEDEC_TYPE='CNHARWIN-M20-9990246',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN2P_TH-M20-9990245,E019487,HAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn2p/chips/chips~
+.prt';
+
+PART_NAME
+ PMOD 'CN12P_V3_TH-TSW-106-14-T-D,E01B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I72@CONN_PCB.CN12P_V3(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72@conn_pcb.cn12p_v3(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i72@conn_pcb.cn12p_v3(c~
+hips)',
+ PATH='I72',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ WW_PN='E015161',
+ PHYS_PAGE='4',
+ XY='(-850,8750)',
+ ROT='0',
+ VER='1',
+ VALUE='TSW-106-14-T-D',
+ PACK_TYPE='TH',
+ LOCATION='PMOD',
+ JEDEC_TYPE='CNHDR2X6H420LD35_A',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN12P_V3_TH-TSW-106-14-T-D,E01B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn12p_v3/chips/c~
+hips.prt';
+
+PART_NAME
+ R1 'RES_SM-100K,E010279,1/10W,1,PAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I6@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i6@resistors.res(chips)~
+',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i6@resistors.res(chips)~
+',
+ PATH='I6',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ SCD='SCD-001006',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-3EKF1003V',
+ DNI='DNI',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E010279',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='4',
+ XY='(-8550,9250)',
+ ROT='0',
+ VER='2',
+ VALUE='100K',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-100K,E010279,1/10W,1,PAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R2 'RES_SM-100K,E010279,1/10W,1,PAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I4@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i4@resistors.res(chips)~
+',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i4@resistors.res(chips)~
+',
+ PATH='I4',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ SCD='SCD-001006',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-3EKF1003V',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E010279',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='4',
+ XY='(-8800,8750)',
+ ROT='2',
+ VER='2',
+ VALUE='100K',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-100K,E010279,1/10W,1,PAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R3 'RES_SM-100K,E010279,1/10W,1,PAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I5@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i5@resistors.res(chips)~
+',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i5@resistors.res(chips)~
+',
+ PATH='I5',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ SCD='SCD-001006',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-3EKF1003V',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E010279',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='4',
+ XY='(-8550,8550)',
+ ROT='0',
+ VER='2',
+ VALUE='100K',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-100K,E010279,1/10W,1,PAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R4 'RES_SM-0,E004152,1/10W,1,MULTIB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I105@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i105@resistors.res(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i105@resistors.res(chip~
+s)',
+ PATH='I105',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-003454',
+ MFG='MULTICOMP',
+ MFG_PN='MC 0.1W 0805 0R.',
+ DNI='DNI',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E004152',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-12400,4150)',
+ ROT='1',
+ VER='1',
+ VALUE='0',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0805',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-0,E004152,1/10W,1,MULTIB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R5 'RES_SM-0,E004152,1/10W,1,MULTIB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I110@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i110@resistors.res(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i110@resistors.res(chip~
+s)',
+ PATH='I110',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-003454',
+ MFG='MULTICOMP',
+ MFG_PN='MC 0.1W 0805 0R.',
+ DNI='DNI',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E004152',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-12000,4150)',
+ ROT='1',
+ VER='1',
+ VALUE='0',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0805',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-0,E004152,1/10W,1,MULTIB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R6 'RES_SM-100K,E010279,1/10W,1,PAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I38@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i38@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i38@resistors.res(chips~
+)',
+ PATH='I38',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-001006',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-3EKF1003V',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E010279',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-9600,2200)',
+ ROT='0',
+ VER='1',
+ VALUE='100K',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-100K,E010279,1/10W,1,PAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R7 'RES_SM-10.5K,E018488,1/10W,0.1B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I36@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i36@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i36@resistors.res(chips~
+)',
+ PATH='I36',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-001690',
+ MFG='PANASONIC',
+ MFG_PN='ERA-3AEB1052V',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E018488',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-8200,3150)',
+ ROT='1',
+ VER='1',
+ VALUE='10.5K',
+ PACK_TYPE='SM',
+ TOL='0.1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-10.5K,E018488,1/10W,0.1B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R8 'RES_SM-33,E003452,1/16W,5,PANAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I69@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i69@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i69@resistors.res(chips~
+)',
+ PATH='I69',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-002744',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-2GEJ330X',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E003452',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-8200,2600)',
+ ROT='0',
+ VER='1',
+ VALUE='33',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='R0402',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-33,E003452,1/16W,5,PANAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R9 'RES_SM-33,E003452,1/16W,5,PANAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I77@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i77@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i77@resistors.res(chips~
+)',
+ PATH='I77',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-002744',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-2GEJ330X',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E003452',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-8200,2500)',
+ ROT='0',
+ VER='1',
+ VALUE='33',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='R0402',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-33,E003452,1/16W,5,PANAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R10 'RES_SM-33,E003452,1/16W,5,PANAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I78@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i78@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i78@resistors.res(chips~
+)',
+ PATH='I78',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-002744',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-2GEJ330X',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E003452',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-8200,2400)',
+ ROT='0',
+ VER='1',
+ VALUE='33',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='R0402',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-33,E003452,1/16W,5,PANAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R11 'RES_SM-33,E003452,1/16W,5,PANAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I79@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i79@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i79@resistors.res(chips~
+)',
+ PATH='I79',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-002744',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-2GEJ330X',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E003452',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-8200,2300)',
+ ROT='0',
+ VER='1',
+ VALUE='33',
+ PACK_TYPE='SM',
+ TOL='5',
+ JEDEC_TYPE='R0402',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-33,E003452,1/16W,5,PANAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R12 'RES_SM-24.9K,E011717,1/16W,0.5B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I34@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i34@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i34@resistors.res(chips~
+)',
+ PATH='I34',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-002423',
+ MFG='SUSUMU',
+ MFG_PN='RR0816P-2492-D-39C',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E011717',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-7950,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='24.9K',
+ PACK_TYPE='SM',
+ TOL='0.5',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-24.9K,E011717,1/16W,0.5B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R13 'RES_SM-90.9K,E018389,1/10W,0.1B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I35@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i35@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i35@resistors.res(chips~
+)',
+ PATH='I35',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-001190',
+ MFG='PANASONIC',
+ MFG_PN='ERA-3AEB9092V',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E018389',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-7500,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='90.9K',
+ PACK_TYPE='SM',
+ TOL='0.1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-90.9K,E018389,1/10W,0.1B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R14 'RES_SM-100K,E010279,1/10W,1,PAB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I61@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i61@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i61@resistors.res(chips~
+)',
+ PATH='I61',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-001006',
+ MFG='PANASONIC',
+ MFG_PN='ERJ-3EKF1003V',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E010279',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-7000,8250)',
+ ROT='1',
+ VER='1',
+ VALUE='100K',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-100K,E010279,1/10W,1,PAB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R15 'RES_SM-200,E006431,1/16W,0.1,SB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I145@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i145@resistors.res(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i145@resistors.res(chip~
+s)',
+ PATH='I145',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-002504',
+ MFG='SUSUMU',
+ MFG_PN='RG1005P-201-B-T5',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E006431',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-6200,7900)',
+ ROT='3',
+ VER='1',
+ VALUE='200',
+ PACK_TYPE='SM',
+ TOL='0.1',
+ JEDEC_TYPE='R0402',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-200,E006431,1/16W,0.1,SB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R16 'RES_SM-10K,E012474,1/16W,0.1,VB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I67@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i67@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i67@resistors.res(chips~
+)',
+ PATH='I67',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ SCD='SCD-003272',
+ MFG='VISHAY',
+ MFG_PN='TNPW040210K0BEED',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E012474',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='4',
+ XY='(-2400,5200)',
+ ROT='1',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='SM',
+ TOL='0.1',
+ JEDEC_TYPE='R0402',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-10K,E012474,1/16W,0.1,VB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R18 'RES_SM-200,E006431,1/16W,0.1,SB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I148@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i148@resistors.res(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i148@resistors.res(chip~
+s)',
+ PATH='I148',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-002504',
+ MFG='SUSUMU',
+ MFG_PN='RG1005P-201-B-T5',
+ WATTAGE='1/16W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E006431',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-9550,6100)',
+ ROT='2',
+ VER='1',
+ VALUE='200',
+ PACK_TYPE='SM',
+ TOL='0.1',
+ JEDEC_TYPE='R0402',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-200,E006431,1/16W,0.1,SB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R19 'RES_SM-15K,E019547,1/10W,0.1,YB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I42@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i42@resistors.res(chips~
+)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i42@resistors.res(chips~
+)',
+ PATH='I42',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-002985',
+ MFG='YAGEO',
+ MFG_PN='RT0603BRB0715KL',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E019547',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-7300,3450)',
+ ROT='1',
+ VER='1',
+ VALUE='15K',
+ PACK_TYPE='SM',
+ TOL='0.1',
+ JEDEC_TYPE='R0603',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-15K,E019547,1/10W,0.1,YB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ R20 'RES_SM-0,E004152,1/10W,1,MULTIB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I162@RESISTORS.RES(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i162@resistors.res(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i162@resistors.res(chip~
+s)',
+ PATH='I162',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-003454',
+ MFG='MULTICOMP',
+ MFG_PN='MC 0.1W 0805 0R.',
+ WATTAGE='1/10W',
+ PSPICETEMPLATE='R^@REFDES   ?TOL|R^@REFDES| @VALUE ?TOL|\N.MODEL R^@REFDES RES ~
+R=1 DEV=@TOL%|',
+ PINSWAP='[N1,N2]',
+ PINOFF='PINOFF',
+ WW_PN='E004152',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-2650,2850)',
+ ROT='0',
+ VER='1',
+ VALUE='0',
+ PACK_TYPE='SM',
+ TOL='1',
+ JEDEC_TYPE='R0805',
+ CDS_LIB='resistors',
+ CDS_PART_NAME='RES_SM-0,E004152,1/10W,1,MULTIB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/resistors/res/chips/chips~
+.prt';
+
+PART_NAME
+ SCLK 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I140@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i140@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i140@nocomponent.nctest~
+pad(chips)',
+ PATH='I140',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-10250,5750)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='SCLK',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ SDIN 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I141@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i141@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i141@nocomponent.nctest~
+pad(chips)',
+ PATH='I141',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-10050,5750)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='SDIN',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ SDO 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I142@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i142@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i142@nocomponent.nctest~
+pad(chips)',
+ PATH='I142',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-9850,5750)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ LOCATION='SDO',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ SDP 'CN120P_V4_SM-FX8-120S-SV(21),EB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I1@CONN_PCB.CN120P_V4(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1@conn_pcb.cn120p_v4(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i1@conn_pcb.cn120p_v4(c~
+hips)',
+ PATH='I1',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ WW_PN='E016993',
+ PHYS_PAGE='4',
+ XY='(-10550,5250)',
+ ROT='0',
+ VER='1',
+ VALUE='FX8-120S-SV(21)',
+ PACK_TYPE='SM',
+ LOCATION='SDP',
+ JEDEC_TYPE='CNHRSFX8-120S-SV_A',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN120P_V4_SM-FX8-120S-SV(21),EB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn120p_v4/chips/~
+chips.prt';
+
+PART_NAME
+ T1 'XFMRKA4976_SM-KA4976-AL,E01732B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I114@TRANSFORMERS.XFMRKA4976(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114@transformers.xfmrk~
+a4976(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i114@transformers.xfmrk~
+a4976(chips)',
+ PATH='I114',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ WW_PN='E017329',
+ NO_XNET_CONNECTION='1',
+ PHYS_PAGE='3',
+ XY='(-10200,5400)',
+ ROT='0',
+ VER='1',
+ VALUE='KA4976-AL',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='TSML394W319H235',
+ CDS_LIB='transformers',
+ CDS_PART_NAME='XFMRKA4976_SM-KA4976-AL,E01732B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/transformers/xfmrka4976/c~
+hips/chips.prt';
+
+PART_NAME
+ TP1 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I4@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i4@nocomponent.nctestpa~
+d(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i4@nocomponent.nctestpa~
+d(chips)',
+ PATH='I4',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-11300,8750)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ TP3 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I140@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i140@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i140@nocomponent.nctest~
+pad(chips)',
+ PATH='I140',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-7250,6150)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ TP4 'NCTESTPAD_TH-TESTPAD,E013404,PB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I142@NOCOMPONENT.NCTESTPAD(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i142@nocomponent.nctest~
+pad(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i142@nocomponent.nctest~
+pad(chips)',
+ PATH='I142',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ SCD='SCD-013902',
+ MFG='P/O PCB',
+ MFG_PN='NONE',
+ WW_PN='E013404',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-4150,3250)',
+ ROT='0',
+ VER='1',
+ VALUE='TESTPAD',
+ PACK_TYPE='TH',
+ BOM_IGNORE='TRUE',
+ JEDEC_TYPE='TPC65D45',
+ CDS_LIB='nocomponent',
+ CDS_PART_NAME='NCTESTPAD_TH-TESTPAD,E013404,PB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/chi~
+ps/chips.prt';
+
+PART_NAME
+ U1 'IC24FC256_SM-24LC32A-I/ST,E014B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I3@IC_OTHER.IC24FC256(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3@ic_other.ic24fc256(c~
+hips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i3@ic_other.ic24fc256(c~
+hips)',
+ PATH='I3',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ WW_PN='E014553',
+ PHYS_PAGE='4',
+ XY='(-7250,8750)',
+ ROT='0',
+ VER='1',
+ VALUE='24LC32A-I/ST',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='TSSOP8',
+ CDS_LIB='ic_other',
+ CDS_PART_NAME='IC24FC256_SM-24LC32A-I/ST,E014B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/ic_other/ic24fc256/chips/~
+chips.prt';
+
+PART_NAME
+ U2 'ADUM3471_SM-ADUM3471ARSZ,E0173B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I1@IC_ADI.ADUM3471(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1@ic_adi.adum3471(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i1@ic_adi.adum3471(chip~
+s)',
+ PATH='I1',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ WW_PN='E017340',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-10200,2550)',
+ ROT='0',
+ VER='2',
+ VALUE='ADUM3471ARSZ',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='SSOP20-4',
+ CDS_LIB='ic_adi',
+ CDS_PART_NAME='ADUM3471_SM-ADUM3471ARSZ,E0173B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/ic_adi/adum3471/chips/chi~
+ps.prt';
+
+PART_NAME
+ U3 'SN74LVC1G125DBV_SM-SN74LVC1G12B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I36@IC_TTL.SN74LVC1G125DBV(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36@ic_ttl.sn74lvc1g125~
+dbv(chips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i36@ic_ttl.sn74lvc1g125~
+dbv(chips)',
+ PATH='I36',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ WW_PN='E002344',
+ PHYS_PAGE='4',
+ XY='(-2900,4900)',
+ ROT='2',
+ VER='1',
+ VALUE='SN74LVC1G125DBV',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='SOT23-M12',
+ CDS_LIB='ic_ttl',
+ CDS_PART_NAME='SN74LVC1G125DBV_SM-SN74LVC1G12B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/ic_ttl/sn74lvc1g125dbv/ch~
+ips/chips.prt';
+
+PART_NAME
+ U4 'TXB0104_SM-TXB0104PWR,E006113,B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4_I58@IC_OTHER.TXB0104(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58@ic_other.txb0104(ch~
+ips)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page4_i58@ic_other.txb0104(ch~
+ips)',
+ PATH='I58',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE4',
+ WW_PN='E006113',
+ PHYS_PAGE='4',
+ XY='(-950,4700)',
+ ROT='0',
+ VER='1',
+ VALUE='TXB0104PWR',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='TSSOP14',
+ CDS_LIB='ic_other',
+ CDS_PART_NAME='TXB0104_SM-TXB0104PWR,E006113,B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/ic_other/txb0104/chips/ch~
+ips.prt';
+
+PART_NAME
+ U5 'AD54X2_SM-AD5422BCPZ,E019445,QB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I3@IC_ADI.AD54X2(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3@ic_adi.ad54x2(chips)~
+',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i3@ic_adi.ad54x2(chips)~
+',
+ PATH='I3',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ WW_PN='E019445',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-7800,5150)',
+ ROT='0',
+ VER='1',
+ VALUE='AD5422BCPZ',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='QFN40_6X6_PAD4_1X4_1',
+ CDS_LIB='ic_adi',
+ CDS_PART_NAME='AD54X2_SM-AD5422BCPZ,E019445,QB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/ic_adi/ad54x2/chips/chips~
+.prt';
+
+PART_NAME
+ U6 'ADP7104_SM-ADP7104ARDZ-5.0,E01B':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3_I58@IC_ADI.ADP7104(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58@ic_adi.adp7104(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page3_i58@ic_adi.adp7104(chip~
+s)',
+ PATH='I58',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE3',
+ WW_PN='E016720',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='3',
+ XY='(-7900,8500)',
+ ROT='0',
+ VER='1',
+ VALUE='ADP7104ARDZ-5.0',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='SO8NB-PAD3_1X2_41',
+ CDS_LIB='ic_adi',
+ CDS_PART_NAME='ADP7104_SM-ADP7104ARDZ-5.0,E01B',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/ic_adi/adp7104/chips/chip~
+s.prt';
+
+PART_NAME
+ U7 'ADR441_SM-ADR445BRZ,E012504,SOB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I4@IC_ADI.ADR441(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4@ic_adi.adr441(chips)~
+',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i4@ic_adi.adr441(chips)~
+',
+ PATH='I4',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ WW_PN='E012504',
+ IMPLEMENTATION='N/A',
+ PHYS_PAGE='2',
+ XY='(-8250,9250)',
+ ROT='0',
+ VER='1',
+ VALUE='ADR445BRZ',
+ PACK_TYPE='SM',
+ JEDEC_TYPE='SO8',
+ CDS_LIB='ic_adi',
+ CDS_PART_NAME='ADR441_SM-ADR445BRZ,E012504,SOB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/ic_adi/adr441/chips/chips~
+.prt';
+
+PART_NAME
+ VOUT 'CN2P_TH-OSTTC022162,E016936,ONB':;
+
+SECTION_NUMBER 1
+ '@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2_I165@CONN_PCB.CN2P(CHIPS)':
+ C_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i165@conn_pcb.cn2p(chip~
+s)',
+ P_PATH='@\02_037158b_lib\.\02_037158b_top\(sch_1):page2_i165@conn_pcb.cn2p(chip~
+s)',
+ PATH='I165',
+ DRAWING='@02_037158B_LIB.02_037158B_TOP(SCH_1):PAGE2',
+ SCD='SCD-016004',
+ MFG='ON SHORE TECHNOLOGY INC',
+ SEC_TYPE='TH',
+ MFG_PN='OSTTC022162',
+ PINSWAP='N1,N2',
+ WW_PN='E016936',
+ PHYS_PAGE='2',
+ XY='(-1000,2800)',
+ ROT='0',
+ VER='1',
+ VALUE='OSTTC022162',
+ PACK_TYPE='TH',
+ LOCATION='VOUT',
+ JEDEC_TYPE='CNHDR1X2H406',
+ SEC='1',
+ CDS_LIB='conn_pcb',
+ CDS_PART_NAME='CN2P_TH-OSTTC022162,E016936,ONB',
+ PRIM_FILE='Z:/allegro/v165_site/logical/share/library/conn_pcb/cn2p/chips/chips~
+.prt';
+
+END.

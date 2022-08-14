@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CN120P_V4'
+CLASS=IO
+PINCOUNT=120
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL | TOL | PPM | WATTAGE | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD ;
+{===============================================================================================}
+'TSW-140-08-T-T'  |  'E010698'  |  'TH'  |  'CNSAMTECTSW-140-08-T-T'  =  'NON-PREF'  |  'CONN-PCB HDR 120P MALE- FOR SDP BREAKOUT BOARD'  |  'SAMTEC'  |  'TSW-140-08-T-T'  |  'TSW-140-08-T-T'  |  ''  |  'CNSAMTECTSW-140-08-T-T'  |  '120'  |  ''  |  'www.samtec.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 105C'  |  'E010698'  |  ''  |  ''  |  'SCD-002447'
+'FX8-120S-SV(21)'  |  'E016993'  |  'SM'  |  'CNHRSFX8-120S-SV_A'  =  'NON-PREF'  |  'CONN-PCB VERT TYPE RCPT- FOR SDP BREAKOUT BOARD'  |  'HRS'  |  'FX8-120S-SV(21)'  |  'FX8-120S-SV(21)'  |  ''  |  'CNHRSFX8-120S-SV_A'  |  '120'  |  ''  |  'www.hirose.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 85C'  |  'E016993'  |  ''  |  ''  |  'SCD-012263'
+
+END_PART
+
+END.

@@ -1,0 +1,293 @@
+
+Mkart.log 01NOV12
+
+191213-14:19
+
+- I - 08_037158b.brd copied to c:\tmp\mkart_backup.brd
+- I - BOM and Variants update.  OK
+        1 dir(s) moved.
+14:19
+- I - DBDOCTOR
+- I - DBDOCTOR END
+14:19
+- I - INTENTIONAL SHORTS
+- I - No intentional shorts found.
+- I - INTENTIONAL SHORTS END
+14:19
+- I - APERTURE
+- I - Rewriting, drill and art param files; resetting aperture wheel; outputing '.dsn' data file for viewer...;and fabmaster file
+
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical>extracta 08_037158b.brd cds2f.txt 08_037158b.1out 08_037158b.2out 08_037158b.3out 08_037158b.4out 08_037158b.5out 08_037158b.6out 08_037158b.7out 08_037158b.8out 08_037158b.9out 
+
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical>copy 08_037158b.1out+08_037158b.2out+08_037158b.3out+08_037158b.4out+08_037158b.5out+08_037158b.6out+08_037158b.7out+08_037158b.8out+08_037158b.9out cds2f_08_037158b.cad 
+08_037158b.1out
+08_037158b.2out
+08_037158b.3out
+08_037158b.4out
+08_037158b.5out
+08_037158b.6out
+08_037158b.7out
+08_037158b.8out
+08_037158b.9out
+        1 file(s) copied.
+
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical>del 08_037158b.*out 
+
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical>del cds2f.txt 
+
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical>del t.bat 
+- I - APERTURE END
+14:19
+- I - CKFLASH
+- I - Running ckflash 18JUL08
+E- Can't change to directory: ./worklib/02_037158b_top/physical
+
+Loading CDS_SITE/pcb/skill/allegro.ilinit
+Loading  : Sig2AMS.il
+function _GetDataList redefined
+Loading  : adi_scripts_2011.il
+Loading  : adi_scripts_2012.il
+function ckflash redefined
+function plot_pdf redefined
+Loading  : adi_scripts_form_2011.il
+Loading  : cds2f.il
+Loading  : ood_shapes.il
+Loading  : stats_chippac.il
+Loading  : valor_ext.il
+Loading  : adi_scripts_form_2012.il
+Loading  : adiva_iface_v400.il
+Loading  : adiva_vio_lnk_v2c.il
+function readBatch redefined
+function readError redefined
+Loading Skill file: site.ini
+allegro.ilinit loaded.
+Opening existing design...
+Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+Script version: 16.5
+No aperture table found, creating...
+Saving aperture: C:/tmp/20_037158b_bck/worklib/02_037158b_top/physical/art_aper.txt
+Performing a partial database check before saving.
+Writing database to disk.
+'08_037158b.brd' saved to disk.
+
+- I - Checking FLASH symbols.
+- I - All FLASH symbols found.
+- I - CKFLASH END
+14:20
+- I - REPORTS
+- I - REPORTS END
+
+- I - NCTAPE
+ Extracting drill data from database.
+ Sorting drill data.
+ Creating file ncdrill-1-4.drl for holes connecting TOP and BOTTOM 
+ Done.
+- I - NCTAPE END
+
+- I - NCDRILL FILMS
+- I - Running ncFilms
+- I - NCDRILL FILMS END
+
+- I - ARTWORK
+- I - Artwork completed with no errors.
+- I - ARTWORK END
+
+- I - PLACEMENT AND CONNECTIONS
+- I - Checking sum.txt for component placement and connection completions...
+- I - Connections 100% complete!
+- I - Components 100% placed!
+- I - PLACEMENT AND CONNECTIONS END
+14:20
+- I - GBXPLOT
+- I - Running gbxplot 18JUL08
+- I - Creating plt files for artwork files:
+assy1 fab1 fab2 l1_primary l2_gnd l3_pwr l4_secondary mask_prm mask_sec paste_prm silk_prm silk_sec
+- I - Plt files created.
+- I - Outputing ipc356 data file.
+- I - IPC356 file created.
+- I - GBXPLOT END
+14:21
+- I - PDF
+- I - Creating non film pdf files
+
+E- Can't change to directory: ./worklib/02_037158b_top/physical
+
+Loading CDS_SITE/pcb/skill/allegro.ilinit
+Loading  : Sig2AMS.il
+function _GetDataList redefined
+Loading  : adi_scripts_2011.il
+Loading  : adi_scripts_2012.il
+function ckflash redefined
+function plot_pdf redefined
+Loading  : adi_scripts_form_2011.il
+Loading  : cds2f.il
+Loading  : ood_shapes.il
+Loading  : stats_chippac.il
+Loading  : valor_ext.il
+Loading  : adi_scripts_form_2012.il
+Loading  : adiva_iface_v400.il
+Loading  : adiva_vio_lnk_v2c.il
+function readBatch redefined
+function readError redefined
+Loading Skill file: site.ini
+allegro.ilinit loaded.
+Opening existing design...
+Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+Script version: 16.5
+
+- I - Converting postscript to pdf
+c:\pcblib\apps\gs\gs8.53\bin\gswin32c -dNOPAUSE -dNOPROMPT -dBATCH -sDEVICE=pdfwrite -sOutputFile=assy1.pdf assy1.ps 
+AFPL Ghostscript 8.53 (2005-10-20)
+Copyright (C) 2005 artofcode LLC, Benicia, CA.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Loading NimbusMonL-Regu font from c:\pcblib\apps\gs\fonts/n022003l.pfb... 2410808 1008991 1496904 207889 1 done.
+%%[ ProductName: AFPL Ghostscript ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+
+- I - Converting postscript to pdf
+c:\pcblib\apps\gs\gs8.53\bin\gswin32c -dNOPAUSE -dNOPROMPT -dBATCH -sDEVICE=pdfwrite -sOutputFile=fab1.pdf fab1.ps 
+AFPL Ghostscript 8.53 (2005-10-20)
+Copyright (C) 2005 artofcode LLC, Benicia, CA.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Loading NimbusMonL-Regu font from c:\pcblib\apps\gs\fonts/n022003l.pfb... 2410808 1008991 1496904 207886 1 done.
+%%[ ProductName: AFPL Ghostscript ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+
+- I - Converting postscript to pdf
+c:\pcblib\apps\gs\gs8.53\bin\gswin32c -dNOPAUSE -dNOPROMPT -dBATCH -sDEVICE=pdfwrite -sOutputFile=fab2.pdf fab2.ps 
+AFPL Ghostscript 8.53 (2005-10-20)
+Copyright (C) 2005 artofcode LLC, Benicia, CA.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Loading NimbusMonL-Regu font from c:\pcblib\apps\gs\fonts/n022003l.pfb... 2410808 1008991 1496904 207886 1 done.
+%%[ ProductName: AFPL Ghostscript ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+
+- I - PDF END
+
+- I - HPGL/2
+E- Can't change to directory: ./worklib/02_037158b_top/physical
+
+Loading CDS_SITE/pcb/skill/allegro.ilinit
+Loading  : Sig2AMS.il
+function _GetDataList redefined
+Loading  : adi_scripts_2011.il
+Loading  : adi_scripts_2012.il
+function ckflash redefined
+function plot_pdf redefined
+Loading  : adi_scripts_form_2011.il
+Loading  : cds2f.il
+Loading  : ood_shapes.il
+Loading  : stats_chippac.il
+Loading  : valor_ext.il
+Loading  : adi_scripts_form_2012.il
+Loading  : adiva_iface_v400.il
+Loading  : adiva_vio_lnk_v2c.il
+function readBatch redefined
+function readError redefined
+Loading Skill file: site.ini
+allegro.ilinit loaded.
+Opening existing design...
+Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+Script version: 16.2
+E- (SPMHMF-236): Unable to initialize plotting (Step 1) to 'HP 7550 Plus' ... error 1801.
+
+- I - HPGL/2 END
+14:22
+- I - PACK UP OUTPUT
+- I - Sending files to designated sub-directories...
+art_8180\fab art_8180\assy art_8180\reports art_8180\params art_8180\logs art_8180\scrs art_8180\plts art_8180\online art_8180\online\bom art_8180\assy\bom
+
+        1 file(s) copied.
+- I - assy1.art copied to art_8180\assy
+        1 file(s) copied.
+- I - assy1.pdf copied to art_8180\assy
+        1 file(s) copied.
+- I - assy1.plt copied to art_8180\assy
+        1 file(s) copied.
+- I - assy1.ps copied to art_8180\assy
+        1 file(s) copied.
+- I - art_param.txt copied to art_8180\assy
+        1 file(s) copied.
+- I - pcp.txt copied to art_8180\assy\01_037158b.placement
+        1 file(s) copied.
+- I - paste_prm.art copied to art_8180\assy
+- I - assy1.art moved to art_8180\fab
+- I - fab1.art moved to art_8180\fab
+- I - fab2.art moved to art_8180\fab
+- I - l1_primary.art moved to art_8180\fab
+- I - l2_gnd.art moved to art_8180\fab
+- I - l3_pwr.art moved to art_8180\fab
+- I - l4_secondary.art moved to art_8180\fab
+- I - mask_prm.art moved to art_8180\fab
+- I - mask_sec.art moved to art_8180\fab
+- I - paste_prm.art moved to art_8180\fab
+- I - silk_prm.art moved to art_8180\fab
+- I - silk_sec.art moved to art_8180\fab
+- I - sum.txt moved to art_8180\reports
+- I - bom.txt moved to art_8180\reports
+- I - npr.txt moved to art_8180\reports
+- I - drc.rpt moved to art_8180\reports
+- I - pcp.txt moved to art_8180\reports
+- I - slp.txt moved to art_8180\reports
+- I - dangling_lines.rpt moved to art_8180\reports
+
+- I - fab1.pdf moved to art_8180\online\09-037158-01-b-1.pdf
+
+- I - fab2.pdf moved to art_8180\online\09-037158-01-b-2.pdf
+
+- I - assy1.pdf moved to art_8180\online\01-037158-01-b-1.pdf
+        1 file(s) copied.
+- I - nc_param.txt copied to art_8180\params
+        1 file(s) copied.
+- I - art_param.txt copied to art_8180\params
+- I - ncdrill-1-4.drl copied to art_8180\fab
+        1 file(s) copied.
+- I - ncdrill.log copied to art_8180\logs
+- I - ncdrill.log copied to art_8180\fab
+- I - nc_param.txt copied to art_8180\fab
+- I - art_param.txt copied to art_8180\fab
+- I - 08_037158b-ipc356.ipc copied to art_8180\fab
+- I - nc_tools_auto.txt copied to art_8180\fab
+        1 file(s) copied.
+- I - backdrill_analysis.log copied to art_8180\logs
+- I - backdrill_analysis.log reports "There are no nets flagged for backdrilling."
+- I - Removing backdrill_analysis.log
+- I - READ_ME.1 moved to art_8180\fab
+- I - cds2f_08_037158b.cad copied to art_8180\assy
+- I - No Variants exist, so no Variant PDF's generated
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\05_037158-b.csv
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\ADI_BOM.log
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\ADI_BOM_err.log
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\bom.log
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\BOM.rpt
+        5 file(s) copied.
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\05_037158-b.csv
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\ADI_BOM.log
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\ADI_BOM_err.log
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\bom.log
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\..\bom\BOM.rpt
+        5 file(s) copied.
+
+- I - Files placed in sub-directories.
+
+- I - Zipping up fab and assy contents.
+- I - Zip command used
+Z:\allegro\v165_site\bin\pcbzip.vbs C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\09_037158b.zip C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\art_8180\fab\
+- I - the zip command returned
+
+- I - Waiting for C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\09_037158b.zip
+- I - C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\09_037158b.zip moved to C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\art_8180\fab
+- I - Zip command used
+Z:\allegro\v165_site\bin\pcbzip.vbs C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\01_037158b.zip C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\art_8180\assy\
+- I - Waiting for C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\01_037158b.zip
+- I - C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\01_037158b.zip moved to C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\art_8180\assy
+- I - PACK UP OUTPUT END
+
+191213-14:22
+
+Mkart Completed!

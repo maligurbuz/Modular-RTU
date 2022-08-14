@@ -1,0 +1,162 @@
+(Cell	ferrite
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/17/06,14:25:29)
+
+			(User	llagras)
+
+			(Path	contactors.ferrite)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000e8cb766d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/17/06,14:25:29)
+
+							(User	llagras)
+
+							(Path	contactors.ferrite)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000830c03ea)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001f059c75)
+
+			(Primitives	1
+
+				(Primitive	FERRITE_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/17/06,14:25:29)
+
+							(User	llagras)
+
+							(Path	contactors.ferrite)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FERRITE
+
+							(PackType	FERRITE_SM)
+
+							(PackType	FERRITE_TH)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000057b03a2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	00000000372d0375)
+
+)
+

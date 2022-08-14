@@ -1,0 +1,172 @@
+(Cell	cn120p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	)
+
+			(User	)
+
+			(Path	)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c121f769)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/10/12,11:23:01)
+
+							(User	JGebora)
+
+							(Path	cadence163_lib.cn120p_v4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c420384)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000850bc38d)
+
+			(Primitives	1
+
+				(Primitive	CN120P_V4_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN120P_V4
+
+							(PackType	CN120P_V4_TH)
+
+							(PackType	CN120P_V4_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNSAMTECTSW-140-08-T-T)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1f03a7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8a03a8)
+
+)
+

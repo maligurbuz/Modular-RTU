@@ -1,0 +1,100 @@
+(Cell	agnd
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/23/05,00:19:38)
+
+			(User	llagras)
+
+			(Path	cleaned_lai.agnd)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/07/05,15:36:46)
+
+			(User	ssalim)
+
+			(Path	misc.agnd)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000055995020)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/23/05,00:19:38)
+
+							(User	llagras)
+
+							(Path	cleaned_lai.agnd)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a560324)
+
+		)
+
+		(Checksum	000000001b3c0347)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s025)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c1f0378)
+
+)
+

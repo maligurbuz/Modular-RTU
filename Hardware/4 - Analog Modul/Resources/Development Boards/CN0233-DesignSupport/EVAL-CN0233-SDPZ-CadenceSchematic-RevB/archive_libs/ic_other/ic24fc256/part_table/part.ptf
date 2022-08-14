@@ -1,0 +1,20 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IC24FC256'
+CLASS=IC
+PINCOUNT=8
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL       | TOL | PPM | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD ;
+{===============================================================================================}
+'24FC256-I-PG'  |  'E004867'  |  'TH'  |  'DIP8'  =  'REL'  |  'IC CMOS SERIAL EEPROM'  |  'MICROCHIP'  |  '24FC256-I-PG'  |  '24FC256-I-PG'  |  'DIP8'  |  'DIP8'  |  '8'  |  ''  |  'www.microchip.com'  |  ''  |  ''  |  'A005-0006-022'  |  ''  |  '40901JH231'  |  ''  |  ''  |  'Y'  |  ''  |  'E004867'  |  ''  |  ''  |  'SCD-000426'
+'24AA256-I/SN'  |  'E008084'  |  'SM'  |  'SO8'  =  'REL'  |  'IC CMOS SERIAL EEPROM'  |  'MICROCHIP'  |  '24AA256-I/SN'  |  '24AA256-I/SN'  |  'SO8'  |  'SO8'  |  '8'  |  ''  |  'www.microchip.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  ''  |  'E008084'  |  ''  |  ''  |  'SCD-000426'
+'24AA64-I/SN'  |  'E012574'  |  'SM'  |  'SO8'  =  'REL'  |  'IC EEPROM 64KBIT 400KHZ 8SOIC'  |  'MICROCHIP'  |  '24AA64-I/SN'  |  '24AA64-I/SN'  |  'SO8'  |  'SO8'  |  '8'  |  '1.7V TO 5.5V'  |  'www.microchip.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 85C'  |  'E012574'  |  ''  |  ''  |  'SCD-013533'
+'24LC32A-I/MS'  |  'E014160'  |  'SM'  |  'MSOP8'  =  'REL'  |  'IC 32KBIT SERIAL EEPROM'  |  'MICROCHIP'  |  '24LC32A-I/MS'  |  '24LC32A-I/MS'  |  'MSOP8'  |  'MSOP8'  |  '8'  |  ''  |  'www.microchip.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 85C'  |  'E014160'  |  ''  |  ''  |  'SCD-014330'
+'24LC32A-I/ST'  |  'E014553'  |  'SM'  |  'TSSOP8'  =  'REL'  |  'IC 32KBIT SERIAL EEPROM'  |  'MICROCHIP'  |  '24LC32A-I/ST'  |  '24LC32A-I/ST'  |  'TSSOP8'  |  'TSSOP8'  |  '8'  |  ''  |  'www.microchip.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  '1638_CAB3'  |  'Y'  |  '-40C TO 85C'  |  'E014553'  |  ''  |  ''  |  'SCD-014330'
+'24LC32A-I/P'  |  'E016256'  |  'TH'  |  'DIP8'  =  'REL'  |  'IC 32KBIT SERIAL EEPROM'  |  'MICROCHIP'  |  '24LC32A-I/P'  |  '24LC32A-I/P'  |  'DIP8'  |  'DIP8'  |  '8'  |  ''  |  'www.microchip.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 85C'  |  'E016256'  |  ''  |  ''  |  'SCD-014330'
+'24FC256-I/MS'  |  'E019249'  |  'SM'  |  'MSOP8'  =  'REL'  |  'IC 256KBIT SERIAL EEPROM'  |  'MICROCHIP'  |  '24FC256-I/MS'  |  '24FC256-I/MS'  |  'MSOP8'  |  'MSOP8'  |  '8'  |  ''  |  'www.microchip.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 85C'  |  'E019249'  |  ''  |  ''  |  'SCD-014330'
+
+END_PART
+
+END.

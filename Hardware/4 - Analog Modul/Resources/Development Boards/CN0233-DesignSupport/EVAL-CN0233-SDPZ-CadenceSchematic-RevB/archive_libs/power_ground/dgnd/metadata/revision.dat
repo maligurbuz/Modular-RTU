@@ -1,0 +1,98 @@
+(Cell	dgnd
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/23/05,00:21:14)
+
+			(User	llagras)
+
+			(Path	cleaned_lai.dgnd)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/11/05,11:33:25)
+
+			(User	ssalim)
+
+			(Path	misc.dgnd)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000029d48d0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/23/05,00:21:14)
+
+							(User	llagras)
+
+							(Path	cleaned_lai.dgnd)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e6a10380)
+
+		)
+
+		(Checksum	00000000784f0379)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	00000000b891035d)
+
+)
+

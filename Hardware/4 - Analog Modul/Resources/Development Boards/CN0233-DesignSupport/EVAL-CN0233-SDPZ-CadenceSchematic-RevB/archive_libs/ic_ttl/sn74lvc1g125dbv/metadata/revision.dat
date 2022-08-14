@@ -1,0 +1,170 @@
+(Cell	sn74lvc1g125dbv
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/14/05,10:14:32)
+
+			(User	llagras)
+
+			(Path	cleaned_lai.sn74lvc1g125dbv)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/14/05,10:11:11)
+
+			(User	llagras)
+
+			(Path	cleaned_lai.sn74lvc1g125dbv_1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000530c9de2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/05,10:14:32)
+
+							(User	llagras)
+
+							(Path	cleaned_lai.sn74lvc1g125dbv)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e45e03b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002c41e103)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC1G125DBV_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/05,10:14:32)
+
+							(User	llagras)
+
+							(Path	cleaned_lai.sn74lvc1g125dbv)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC1G125DBV
+
+							(PackType	SN74LVC1G125DBV_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e49203b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	00000000879a037a)
+
+)
+

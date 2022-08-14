@@ -1,0 +1,2 @@
+SPLBBK-5,Package 'XFMRKA4976_SM':Pin numbers extracted from footprint tsml394w319h235.psm,Information
+SPLBBK-5,Package 'XFMRKA4976_SM':Pin numbers extracted from footprint tsml394w319h235.psm,Information

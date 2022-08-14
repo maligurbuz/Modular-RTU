@@ -1,0 +1,154 @@
+
+
+    Cadence Design Systems, Inc.
+    Bomhdl 16.5-S018 (v16-5-13AU) 3/5/2012
+    Copyright 2011 Cadence Design Systems, Inc, Cadence Design Systems, Inc.
+
+    Run on Thu Dec 19 14:19:12 2013
+
+
+*****************************
+*  Processing project file  *
+*****************************
+
+    DESIGN_LIBRARY '02_037158b_lib'
+    DESIGN_NAME '02_037158b_top'
+    VIEW_SCHEMATIC 'sch_1'
+    VIEW_PACKAGER 'packaged'
+    VIEW_VARIANT 'variant'
+    VIEW_BOM ''
+    VIEW_CONFIG_PHYSICAL 'cfg_package'
+    PPT 'Z:\allegro\v165_site/logical/share/library/mechanical/mech/part_table/part.ptf'
+    USE_LIBRARY_PPT 'on'
+    MERGE_PPT 'on'
+    INCLUDE_PPT ''
+    EXCLUDE_PPT ''
+    SPREADSHEET 'OFF'
+    LAST_OUTPUT_FILE './worklib/02_037158b_top/bom/BOM.rpt'
+    TEMPLATE_FILE 'template.bom'
+    #OUTPUT_FILE './BOM.rpt'
+    #TEMPLATE_FILE 'Z:\allegro\v165_site/cdssetup/template.bom'
+    LAST_TEMPLATE_FILE 'Z:/allegro/v165_site/cdssetup/template.bom'
+    SS_DELIMITER 'Comma ,'
+    USE_FILTERS '1'
+    #LAST_CALLOUT_FILE './bom.callouts'
+    LAST_STANDARD_OPTION '0'
+    LAST_WHAT_TO_OUTPUT '0'
+    LAST_VARIANT_FILE ''
+    LAST_SS_DELIMITER 'Comma ,'
+    LAST_CALLOUT_FILE ''
+    LAST_VARIANT ''
+
+*********************************
+*  End processing project file  *
+*********************************
+
+Initializing tool communication modules... 
+Checking the presence of variant and BOM view. 
+Set the DDBPI message handlers and Tool start time. 
+Initialize jlg string table. 
+
+*********************************
+*  Loading the design database  *
+*********************************
+
+Start loading the design. 
+Loading logical design view of 02_037158b_top 
+Setting design view directives...
+ 
+Loading pstX files...
+ 
+
+Loading... C:\tmp\20_037158b_bck\worklib\02_037158b_top\packaged\pstchip.dat
+ 
+
+Loading... C:\tmp\20_037158b_bck\worklib\02_037158b_top\packaged\pstxprt.dat
+ 
+
+Loading... C:\tmp\20_037158b_bck\worklib\02_037158b_top\packaged\pstxnet.dat
+ 
+packaging the design view... 
+End loading logical design view of 02_037158b_top 
+Reading cell level PPTs... 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/mechanical/mech/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/nocomponent/nctestpad/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/capacitors/cap/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/diodes/dioznr/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/diodes/dio/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/diodes/dioschottky/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/diodes/dioled/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/inductors/ferrite/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/fuses/fsfuse/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/filters/fltr3p/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/inductors/ind/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/conn_pcb/cn3p_v6/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/conn_pcb/cn2p/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/resistors/res/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/transformers/xfmrka4976/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/ic_adi/adum3471/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/ic_adi/adp7104/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/diodes/dioschottky3p_v7/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/diodes/dio_v3/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/ic_adi/ad54x2/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/ic_adi/adr441/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/conn_pcb/cn12p_v3/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/conn_pcb/cn120p_v4/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/ic_other/ic24fc256/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/ic_ttl/sn74lvc1g125dbv/part_table/part.ptf.
+ 
+INFO(SPCODD-181): Loading Z:/allegro/v165_site/logical/share/library/ic_other/txb0104/part_table/part.ptf.
+ 
+Design loaded successfully. 
+
+
+******************************************
+*  Finished loading the design database  *
+******************************************
+
+
+**********************************
+*  Start generating bom reports. *
+**********************************
+
+Report generated successfully.
+
+Output file list :
+C:\tmp\20_037158b_bck\worklib\02_037158b_top\bom\05_037158-b.csv
+ 
+
+*********************************
+*  End generating bom reports   *
+*********************************
+
+    Start time   14:19:12
+    End time     14:19:16
+    Elapsed time  0:00:04
+
+*********************************
+*  BOM-HDL execution done.      *
+*********************************
+

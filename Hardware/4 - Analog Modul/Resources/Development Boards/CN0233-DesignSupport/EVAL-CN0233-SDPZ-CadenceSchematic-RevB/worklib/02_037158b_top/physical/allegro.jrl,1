@@ -1,0 +1,158 @@
+\t (00:00:38) allegro 16.5 S047 (v16-5-13CY) i86
+\t (00:00:38)     Journal start - Thu Dec 19 16:27:58 2013
+\t (00:00:38)         Host=EREYTA-L01 User=EReyta Pid=8360 CPUs=4
+\t (00:00:38) 
+   (00:00:39) Agilent Allegro DFI menu was not loaded -environment variable 'HPEESOF_DIR' is not defined or the directory is not writeable. This is an informational message for Agilent/ADS users; please select 'Do not show again' to suppress.
+\i (00:01:32) fillin confirm
+   (00:01:32) Loading CDS_SITE/pcb/skill/allegro.ilinit
+   (00:01:32) Loading  : Sig2AMS.il
+   (00:01:32) function _GetDataList redefined
+   (00:01:32) Loading  : adi_scripts_2011.il
+   (00:01:32) Loading  : adi_scripts_2012.il
+   (00:01:32) function ckflash redefined
+   (00:01:32) function plot_pdf redefined
+   (00:01:32) Loading  : adi_scripts_form_2011.il
+   (00:01:32) Loading  : cds2f.il
+   (00:01:32) Loading  : ood_shapes.il
+   (00:01:32) Loading  : stats_chippac.il
+   (00:01:32) Loading  : valor_ext.il
+   (00:01:32) Loading  : adi_scripts_form_2012.il
+   (00:01:32) Loading  : adiva_iface_v400.il
+   (00:01:32) Loading  : adiva_vio_lnk_v2c.il
+   (00:01:32) function readBatch redefined
+   (00:01:32) function readError redefined
+   (00:01:32) Loading Skill file: site.ini
+   (00:01:32) allegro.ilinit loaded.
+\t (00:01:37) Opening existing design...
+\d (00:01:37) Database opened: C:/ereyta/back up files in lenovo 12122013/desktop/CFTL/CN0233/CN0233 Schematic and Layout Design/12 19 13/20_037158b/worklib/02_037158b_top/physical/08_037158b.brd
+\t (00:01:37) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:01:37) trapsize 149
+\i (00:01:37) trapsize 146
+\i (00:01:38) trapsize 150
+\i (00:01:38) trapsize 130
+\i (00:01:38) trapsize 196
+\i (00:01:39) generaledit 
+\i (00:03:36) pick grid 1054.1 729.1
+\t (00:03:36) last pick:  1055.0  730.0
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out 1556.6 -334.8
+\t (00:03:37) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:03:37) trapsize 393
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out 1556.7 -468.2
+\i (00:03:37) trapsize 785
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out 2352.2 -499.6
+\t (00:03:37) Grids are drawn 320.0, 320.0 apart for enhanced viewability.
+\i (00:03:37) trapsize 1570
+\i (00:03:37) zoom in 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 9355.6 -2415.4
+\t (00:03:37) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:03:37) trapsize 785
+\i (00:03:37) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 8460.5 -2682.3
+\i (00:03:38) trapsize 393
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 8162.2 -2753.0
+\t (00:03:38) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:03:38) trapsize 196
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 7561.6 -2776.6
+\i (00:03:38) trapsize 98
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 7282.9 -2648.9
+\i (00:03:38) trapsize 196
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 7290.8 -2652.9
+\t (00:03:38) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:03:38) trapsize 393
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 7306.5 -2660.8
+\i (00:03:38) trapsize 785
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 7337.9 -2660.7
+\t (00:03:38) Grids are drawn 320.0, 320.0 apart for enhanced viewability.
+\i (00:03:38) trapsize 1570
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out -2107.4 -2786.3
+\i (00:03:38) trapsize 2404
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in -1950.0 -1832.7
+\i (00:03:39) trapsize 1202
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in -1901.9 -1856.7
+\t (00:03:39) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:03:39) trapsize 601
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in -1877.8 -1880.7
+\i (00:03:39) trapsize 300
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in -1523.2 -1880.7
+\t (00:03:39) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:03:39) trapsize 150
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 1265.3 -1499.1
+\t (00:03:40) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:03:40) trapsize 300
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 3302.6 -201.0
+\i (00:03:41) trapsize 601
+\i (00:03:42) zoom in 1 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom in 1595.8 -429.3
+\i (00:03:42) trapsize 300
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in 2905.9 -627.6
+\t (00:03:45) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:03:45) trapsize 150
+\i (00:03:46) zoom out 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom out 168.5 -426.3
+\t (00:03:46) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:03:46) trapsize 300
+\i (00:03:46) zoom out 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom out 180.5 -432.2
+\i (00:03:46) trapsize 601
+\i (00:03:47) zoom in 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom in 240.5 -420.2
+\i (00:03:47) trapsize 300
+\i (00:03:47) zoom in 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom in 517.0 -468.3
+\t (00:03:47) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:03:47) trapsize 150
+\i (00:03:54) pdf out 
+\i (00:03:59) setwindow form.pdf_out
+\i (00:03:59) FORM pdf_out selectall  
+\i (00:04:02) FORM pdf_out print_only NO 
+\i (00:04:04) FORM pdf_out export  
+\t (00:04:04) Starting Exporting PDF File...
+\t (00:04:17) PDF output completed.
+\i (00:06:12) FORM pdf_out cancel  
+\i (00:06:13) setwindow pcb
+\i (00:06:13) generaledit 
+\i (00:06:15) exit 
+\e (00:06:15) Do you want to save the changes you made to 08_037158b.brd?
+\i (00:06:17) fillin yes 
+\t (00:06:18)     Journal end - Thu Dec 19 16:33:38 2013

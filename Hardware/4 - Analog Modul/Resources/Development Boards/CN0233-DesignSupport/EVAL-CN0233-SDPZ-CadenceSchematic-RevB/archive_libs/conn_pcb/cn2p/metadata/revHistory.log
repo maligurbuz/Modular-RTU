@@ -1,0 +1,742 @@
+(Cell	cn2p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/09,16:36:21)
+
+			(User	RErsand2)
+
+			(Path	created.cn2p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ea3182f9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4103b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009189989f)
+
+			(Primitives	1
+
+				(Primitive	CN2P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN2P
+
+							(PackType	CN2P_TH)
+
+							(PackType	CN2P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNAMP350759-4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f7c040f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7d03ac)
+
+)
+
+
+(Cell	cn2p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/09,16:36:21)
+
+			(User	RErsand2)
+
+			(Path	created.cn2p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ea3182f9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4103b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009189989f)
+
+			(Primitives	1
+
+				(Primitive	CN2P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN2P
+
+							(PackType	CN2P_TH)
+
+							(PackType	CN2P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNAMP350759-4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f7c040f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7d03ac)
+
+)
+
+
+(Cell	cn2p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/09,16:36:21)
+
+			(User	RErsand2)
+
+			(Path	created.cn2p)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/09/09,17:11:34)
+
+			(User	RErsand2)
+
+			(Path	created.cn2p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000005a28424)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/09/09,17:11:34)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b17034b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009189989f)
+
+			(Primitives	1
+
+				(Primitive	CN2P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN2P
+
+							(PackType	CN2P_TH)
+
+							(PackType	CN2P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNAMP350759-4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ef80437)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c900383)
+
+)
+
+
+(Cell	cn2p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.2.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/09/09,16:36:21)
+
+			(User	RErsand2)
+
+			(Path	created.cn2p)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/22/09,01:57:46)
+
+			(User	JGebora)
+
+			(Path	created.cn2p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000079788bb4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.2.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	12/22/09,01:57:46)
+
+							(User	JGebora)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b770390)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000784ca1c7)
+
+			(Primitives	1
+
+				(Primitive	CN2P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/09/09,16:36:21)
+
+							(User	RErsand2)
+
+							(Path	created.cn2p)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	12/22/09,01:57:46)
+
+							(User	JGebora)
+
+							(Path	created.cn2p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN2P
+
+							(PackType	CN2P_TH)
+
+							(PackType	CN2P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNAMP350759-4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c120385)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b2b0348)
+
+)
+
+

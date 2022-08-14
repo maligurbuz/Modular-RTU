@@ -1,0 +1,2794 @@
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000b43c2b8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5303a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6e03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd603dc)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000b43c2b8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5303a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6e03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd603dc)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000b43c2b8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5303a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6e03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd603dc)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000b43c2b8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5303a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6e03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd603dc)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/28/10,01:46:21)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.cn12p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e956c6e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfd03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040909cb6)
+
+			(Primitives	1
+
+				(Primitive	CN12P_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/28/10,01:46:21)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.cn12p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P
+
+							(PackType	CN12P_TH)
+
+							(PackType	CN12P_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNBERG2X6H330LD36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2a03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503d2)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	)
+
+			(User	)
+
+			(Path	)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/10/12,11:17:46)
+
+			(User	JGebora)
+
+			(Path	cadence163_lib.cn12p_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000abd39fb1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/10/12,10:58:01)
+
+							(User	JGebora)
+
+							(Path	cadence163_lib.cn12p_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/10/12,11:17:46)
+
+							(User	JGebora)
+
+							(Path	cadence163_lib.cn12p_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ee8040d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000045a6756)
+
+			(Primitives	1
+
+				(Primitive	CN12P_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P_V3
+
+							(PackType	CN12P_V3_TH)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNHDR2X6H420LD35)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a94034d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b7e037b)
+
+)
+
+
+(Cell	cn12p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	)
+
+			(User	)
+
+			(Path	)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000abd39fb1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/10/12,10:58:01)
+
+							(User	JGebora)
+
+							(Path	cadence163_lib.cn12p_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/10/12,11:17:46)
+
+							(User	JGebora)
+
+							(Path	cadence163_lib.cn12p_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ee8040d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000045a6756)
+
+			(Primitives	1
+
+				(Primitive	CN12P_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CN12P_V3
+
+							(PackType	CN12P_V3_TH)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CNHDR2X6H420LD35)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a94034d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b7e037b)
+
+)
+
+

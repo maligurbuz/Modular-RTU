@@ -1,0 +1,170 @@
+(Cell	adr441
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/22/06,04:53:30)
+
+			(User	sdacillo)
+
+			(Path	ic_adi.adr441)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/20/05,07:14:28)
+
+			(User	sdacillo)
+
+			(Path	ic_adi.adr441)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000f5403baf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/22/06,04:53:30)
+
+							(User	sdacillo)
+
+							(Path	ic_adi.adr441)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000a28803dc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d3402edc)
+
+			(Primitives	1
+
+				(Primitive	ADR441_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/22/06,04:53:30)
+
+							(User	sdacillo)
+
+							(Path	ic_adi.adr441)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADR441
+
+							(PackType	ADR441_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000066940388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	00000000ba73032d)
+
+)
+

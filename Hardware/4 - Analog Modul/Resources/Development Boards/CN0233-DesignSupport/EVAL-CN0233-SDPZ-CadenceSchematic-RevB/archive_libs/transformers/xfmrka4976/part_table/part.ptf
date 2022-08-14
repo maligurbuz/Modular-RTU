@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XFMRKA4976'
+CLASS=DISCRETE
+PINCOUNT=8
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL       | TOL | PPM | WATTAGE | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD ;
+{===============================================================================================}
+'KA4976-AL'  |  'E017329'  |  'SM'  |  'TSML394W319H235'  =  'REL'  |  'XFMR QUAD-CH DIG ISOLATORS '  |  'COILCRAFT'  |  'KA4976-AL'  |  'KA4976-AL'  |  ''  |  'TSML394W319H235'  |  '8'  |  ''  |  'www.coilcraft.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E017329'  |  ''  |  ''  |  'SCD-016260'
+
+END_PART
+
+END.

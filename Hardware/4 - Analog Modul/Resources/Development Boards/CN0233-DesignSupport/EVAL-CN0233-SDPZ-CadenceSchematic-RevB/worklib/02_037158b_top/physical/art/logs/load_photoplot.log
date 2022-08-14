@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Cadence Artwork Import                                           )
+(                                                                     )
+(    Drawing          : artwork.brd                                   )
+(    Software Version : 16.5S031                                      )
+(    Date/Time        : Thu Dec 19 14:21:25 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Dec 19 14:21:25 2013				Page     1
+
+
+Processing photoplot file C:/tmp/20_037158b_bck/worklib/02_037158b_top/physica~
+l/silk_sec.art ...
+Adding the film data on MANUFACTURING/SILKSCREEN_BOTTOM.
+WARNING(SPMHAW-126): Coordinates have been rounded off.
+Load Photoplot complete.

@@ -1,0 +1,5886 @@
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000054b4a494)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000029a3a203)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bbc0364)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b3c037c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5103a7)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fddea34f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b130352)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a65034e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b72037a)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fddea34f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b130352)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a65034e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b72037a)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000afaea2ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c870379)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc603b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb403a3)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000afaea2ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c870379)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc603b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb403a3)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b031a2ed)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001db103ac)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a87037f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b8f0382)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000af90a2eb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb903ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001acd0343)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d3903a4)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000af90a2eb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb903ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001acd0343)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d3903a4)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000af90a2eb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb903ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001acd0343)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d3903a4)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000adb6a2e8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bc5037b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a8c037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6a03ad)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000adb6a2e8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bc5037b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a8c037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6a03ad)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000051f9a315)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b8d0359)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9c03db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd503da)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ae1fa2ea)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc503da)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a3a034f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c3d03a4)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b016a2ee)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb2037a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a7d037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6503a9)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b016a2ee)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb2037a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a7d037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6503a9)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b016a2ee)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb2037a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a7d037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6503a9)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000afa2a2ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c95037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc503b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb103a4)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000afa2a2ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c95037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc503b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb103a4)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/09,17:15:53)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000afa2a2ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c95037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5527153)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc503b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb103a4)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/03/10,07:29:39)
+
+			(User	JGebora)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000afa2a2ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c95037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000d07748c)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,07:29:39)
+
+							(User	JGebora)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+							(PackType	DIO_V3_TH)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b50035f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b5d0377)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/03/10,07:29:39)
+
+			(User	JGebora)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000afa2a2ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099ba024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c95037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000d07748c)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,07:29:39)
+
+							(User	JGebora)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_SM)
+
+							(PackType	DIO_V3_TH)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b50035f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b5d0377)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/03/10,07:29:39)
+
+			(User	JGebora)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000288897ba)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000509f9a82)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a860356)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000df95714f)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_TH)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e2603dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd903a9)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	2.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/03/10,10:55:46)
+
+			(User	gmorales)
+
+			(Path	local_symbol.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aa2f9352)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fa5961a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba3038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000df95714f)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_TH)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sod323-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d9903e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bde0384)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/22/10,01:54:26)
+
+			(User	JGebora)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fa5961a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aa2f9352)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba3038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000004ba73a4)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/22/10,01:54:26)
+
+							(User	JGebora)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_TH)
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DO15-2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b2d0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c210377)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/22/10,01:54:26)
+
+			(User	JGebora)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fa5961a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aa2f9352)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba3038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000004ba73a4)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/22/10,01:54:26)
+
+							(User	JGebora)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_TH)
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DO15-2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b2d0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c210377)
+
+)
+
+
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/22/10,01:54:26)
+
+			(User	JGebora)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fa5961a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aa2f9352)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba3038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000004ba73a4)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/22/10,01:54:26)
+
+							(User	JGebora)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_TH)
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DO15-2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b2d0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c210377)
+
+)
+
+

@@ -1,0 +1,71 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DIO';
+  pin
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIO';
+    ALT_SYMBOLS='(do15_alt)';
+    BODY_NAME='DIO';
+    JEDEC_TYPE='DO35';
+    PHYS_DES_PREFIX='D';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DIO_TH';
+  pin
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIO';
+    ALT_SYMBOLS='(do15_alt)';
+    BODY_NAME='DIO';
+    JEDEC_TYPE='DO35';
+    PHYS_DES_PREFIX='D';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DIO_SM';
+  pin
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIO';
+    ALT_SYMBOLS='(do15_alt)';
+    BODY_NAME='DIO';
+    JEDEC_TYPE='do214ab';
+    PHYS_DES_PREFIX='D';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

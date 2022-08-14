@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DIOSCHOTTKY3P_V7_SM';
+  pin
+    'P1':
+      PIN_NUMBER='(1)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P2':
+      PIN_NUMBER='(2)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N':
+      PIN_NUMBER='(3)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIOSCHOTTKY3P_V7';
+    BODY_NAME='DIOSCHOTTKY3P_V7';
+    JEDEC_TYPE='SOT23-M4';
+    PHYS_DES_PREFIX='CR';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

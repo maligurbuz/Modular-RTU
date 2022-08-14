@@ -1,0 +1,2963 @@
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,07:48:43)
+
+			(User	knamacpa)
+
+			(Path	ic_adi.adp125)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000039d95dab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:48:43)
+
+							(User	knamacpa)
+
+							(Path	ic_adi.adp125)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9003e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000068b78bb1)
+
+			(Primitives	1
+
+				(Primitive	adp7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:48:43)
+
+							(User	knamacpa)
+
+							(Path	ic_adi.adp125)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	adp7104
+
+							(PackType	adp7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	msop8_pad2_16x1_73)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b090367)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b3f034d)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	2.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,07:52:17)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000039d95dab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:48:43)
+
+							(User	knamacpa)
+
+							(Path	ic_adi.adp125)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9003e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e6b03ed)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd003db)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	2.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,07:52:17)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000039d95dab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:48:43)
+
+							(User	knamacpa)
+
+							(Path	ic_adi.adp125)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9003e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e6b03ed)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd003db)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,07:59:43)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a6fb5933)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:56:02)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:59:43)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b8e0383)
+
+		)
+
+		(Checksum	000000001c4b037f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5c03ab)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,08:00:19)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a6fb5933)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:56:02)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:59:43)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000063945dca)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,08:00:19)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001da80413)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e1503b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b990374)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,08:00:19)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a6fb5933)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:56:02)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:59:43)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000063945dca)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,08:00:19)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001da80413)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e1503b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b990374)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,08:00:19)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000033d35b98)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:56:02)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:59:43)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000da6e6061)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,08:00:19)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfc03df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e560410)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b550347)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,08:00:19)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000033d35b98)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:56:02)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:59:43)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000da6e6061)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,08:00:19)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfc03df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e560410)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b550347)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,08:00:19)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000033d35b98)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:56:02)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:59:43)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000da6e6061)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,08:00:19)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfc03df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf0e8110)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,07:52:17)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e560410)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b550347)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	4.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/11/10,16:55:54)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000020118b19)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	3.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/11/10,16:55:54)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so8nb-pad3_1x2_41)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000089545efe)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:46:37)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e33b5883)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:47:14)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cc203af)
+
+		)
+
+		(Checksum	000000001cda03d4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9f03d5)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	5.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/13/10,00:02:31)
+
+			(User	rsalvad3)
+
+			(Path	workfolder.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000068965cab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:46:37)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b48b5642)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:47:14)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8a03d7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000899d7c9a)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	4.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so8nb-pad3_1x2_41)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ba00351)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c30036e)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	6.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/15/10,12:00:41)
+
+			(User	JGebora)
+
+			(Path	created.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c4a058bf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:47:14)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dd395d0c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	3.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:46:37)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/15/10,12:00:41)
+
+							(User	JGebora)
+
+							(Path	created.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dfc040d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000899d7c9a)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	4.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so8nb-pad3_1x2_41)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c35038b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b73037a)
+
+)
+
+
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	6.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/15/10,12:00:41)
+
+			(User	JGebora)
+
+			(Path	created.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c4a058bf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:47:14)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dd395d0c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	3.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:46:37)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/15/10,12:00:41)
+
+							(User	JGebora)
+
+							(Path	created.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dfc040d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000899d7c9a)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	4.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so8nb-pad3_1x2_41)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c35038b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b73037a)
+
+)
+
+

@@ -1,0 +1,3 @@
+INFO: Loaded existing device file 'C:\tmp\20_037158b_bck\worklib\02_037158b_top\physical\devices.dml'
+INFO: Loaded existing device file 'C:\pcblib\apps\allegro\SPB_16.5\share\pcb\signal\power_integrity\power_integrity.dml'
+INFO: Finished loading SigNoise device libraries

@@ -1,0 +1,250 @@
+(Cell	AD54X2
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	4.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/27/13,17:40:09)
+
+			(User	aboac)
+
+			(Path	allegro16_3.AD54X2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/30/13,19:39:39)
+
+			(User	JGebora)
+
+			(Path	created.ad54x2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f29bec48)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	4.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	08/30/13,19:39:39)
+
+							(User	JGebora)
+
+							(Path	created.ad54x2)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a5f0f34c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	3.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/27/13,18:31:50)
+
+							(User	aboac)
+
+							(Path	allegro16_3.ad54x2)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	08/30/13,19:39:39)
+
+							(User	JGebora)
+
+							(Path	created.ad54x2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cd003c5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000abd3a671)
+
+			(Primitives	1
+
+				(Primitive	AD54X2_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/27/13,17:40:09)
+
+							(User	aboac)
+
+							(Path	allegro16_3.AD54X2)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	08/30/13,15:11:57)
+
+							(User	knamacpa)
+
+							(Path	allegro163.ad54x2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD54X2
+
+							(PackType	AD54X2_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfn40_6x6_pad4_1x4_1)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001df803db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-S040 (v16-3-85BY))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d1303dd)
+
+)
+

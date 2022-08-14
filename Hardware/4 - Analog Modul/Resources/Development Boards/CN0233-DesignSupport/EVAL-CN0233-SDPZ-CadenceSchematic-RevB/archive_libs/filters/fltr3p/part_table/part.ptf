@@ -1,0 +1,17 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FLTR3P'
+CLASS=DISCRETE
+PINCOUNT=3
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL       | TOL | PPM | WATTAGE | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD ;
+{===============================================================================================}
+'2.2uF'  |  'E010295'  |  'SM'  |  'FSM0603L63W32H28'  =  'REL'  |  'FLTR EMI (CAP TYPE) 0603'  |  'MURATA'  |  'NFM18PC225B0J3D'  |  '2.2uF'  |  'FSM0603L63W32H28'  |  'FSM0603L63W32H28'  |  '3'  |  '6.3V'  |  'www.murata.com'  |  '20'  |  ''  |  ''  |  ''  |  ''  |  'N/A'  |  ''  |  ''  |  'Y'  |  ''  |  'E010295'  |  ''  |  ''  |  'SCD-012123'
+'0.1uF'  |  'E010964'  |  'SM'  |  'FSM0805L79W49H34'  =  'REL'  |  'FLTR EMI (CAP TYPE) 0805'  |  'MURATA'  |  'NFM21PC104R1E3D'  |  '0.1uF'  |  'FSM0805L79W49H34'  |  'FSM0805L79W49H34'  |  '3'  |  '25V'  |  'www.murata.com'  |  '20'  |  ''  |  ''  |  ''  |  ''  |  'N/A'  |  ''  |  ''  |  'Y'  |  ''  |  'E010964'  |  ''  |  ''  |  'SCD-012555'
+'4700pF'  |  'E011145'  |  'SM'  |  'F2606'  =  'REL'  |  'FLTR EMI (LC COMBINED TYPE) 2606'  |  'MURATA'  |  'NFE61PT472C1H9L'  |  '4700pF'  |  'F2606'  |  'F2606'  |  '3'  |  '50V'  |  'www.murata.com'  |  '-4'  |  ''  |  ''  |  ''  |  ''  |  '40602DG050'  |  ''  |  ''  |  'Y'  |  ''  |  'E011145'  |  ''  |  ''  |  'SCD-012643'
+'1000pF'  |  'E015167'  |  'SM'  |  'F2606'  =  'REL'  |  'FLTR EMI (LC COMBINED TYPE)'  |  'MURATA'  |  'NFE61PT102E1H9L'  |  '1000pF'  |  '2606'  |  'F2606'  |  '3'  |  '50V'  |  'www.murata.com'  |  '+80%-20%'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-25C TO 85C'  |  'E015167'  |  ''  |  ''  |  'SCD-012643'
+
+END_PART
+
+END.

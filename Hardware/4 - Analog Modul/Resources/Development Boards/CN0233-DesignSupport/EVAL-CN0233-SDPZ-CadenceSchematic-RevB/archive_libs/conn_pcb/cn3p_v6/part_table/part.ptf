@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CN3P_V6'
+CLASS=IO
+PINCOUNT=3
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL | TOL | PPM | WATTAGE | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD ;
+{===============================================================================================}
+'PJ1-021'  |  'E016868'  |  'TH'  |  'CNCUIPJ1-021'  =  'REL'  |  'CONN-PCB 1.65MM DC PWR JACK'  |  'CUI INC'  |  'PJ1-021'  |  'PJ1-021'  |  ''  |  'CNCUIPJ1-021'  |  '3'  |  ''  |  'www.cui.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  ''  |  'E016868'  |  ''  |  ''  |  'SCD-015956'
+'PJ-002A-SMT'  |  'E017261'  |  'TH'  |  'CN-2MM-PWR-JACK'  =  'REL'  |  'CONN-PCB 2.5A 2.1X5.5MM POWER JACK'  |  'CUI INC'  |  'PJ-002A-SMT'  |  'PJ-002A-SMT'  |  ''  |  'CN-2MM-PWR-JACK'  |  '3'  |  ''  |  'www.cui.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-25C TO 85C'  |  'E017261'  |  ''  |  ''  |  'SCD-016208'
+
+END_PART
+
+END.

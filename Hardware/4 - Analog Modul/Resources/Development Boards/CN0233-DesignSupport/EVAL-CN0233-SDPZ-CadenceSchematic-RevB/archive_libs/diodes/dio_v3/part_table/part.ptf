@@ -1,0 +1,25 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DIO_V3'
+CLASS=IC
+PINCOUNT=2
+
+{===============================================================================================}
+:VALUE | VOLTAGE | TOL | WW_PN | PACK_TYPE | JEDEC_TYPE = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL       | TOL | PPM | WATTAGE | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD ;
+{===============================================================================================}
+'SA15CA'  |  '15V'  |  'N/A'  |  'E001105'  |  'TH'  |  'DO15-2'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'LITTELFUSE'  |  'SA15CA'  |  'SA15CA'  |  'DO15-2'  |  'DO15-2'  |  '2'  |  '15V'  |  'www.littelfuse.com'  |  'N/A'  |  ''  |  '500W'  |  'A002-0001-027'  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55 TO 175C'  |  'E001105'  |  ''  |  ''  |  'SCD-010601'
+'SA12CA'  |  '12V'  |  'N/A'  |  'E001103'  |  'TH'  |  'DO15-2'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'LITTELFUSE'  |  'SA12CA'  |  'SA12CA'  |  'DO15-2'  |  'DO15-2'  |  '2'  |  '12V'  |  'www.littelfuse.com'  |  'N/A'  |  ''  |  '500W'  |  'A002-0001-025'  |  ''  |  '40402JH147'  |  ''  |  ''  |  'Y'  |  '-55 TO 175C'  |  'E001103'  |  ''  |  ''  |  'SCD-010601'
+'SMAJ20CA'  |  '20V'  |  'N/A'  |  'E013146'  |  'SM'  |  'DO214AC-4'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'ST MICROELECTRONICS'  |  'SMAJ20CA'  |  'SMAJ20CA'  |  'DO214AC'  |  'DO214AC-4'  |  '2'  |  '20V'  |  'www.st.com'  |  'N/A'  |  ''  |  '400W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55 TO 150C'  |  'E013146'  |  ''  |  ''  |  'SCD-013819'
+'SMBJ5V0CA'  |  '5V'  |  'N/A'  |  'E013525'  |  'SM'  |  'DO214AA-5'  =  'REL'  |  'DIODE VOLTAGE SUPPRESSOR'  |  'FAIRCHILD'  |  'SMBJ5V0CA'  |  'SMBJ5V0CA'  |  'DO214AA'  |  'DO214AA-5'  |  '2'  |  '5V'  |  'www.fairchildsemi.com'  |  'N/A'  |  ''  |  '600W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 150C'  |  'E013525'  |  ''  |  ''  |  'SCD-010012'
+'SA18CA'  |  '18V'  |  'N/A'  |  'E013865'  |  'TH'  |  'DO15-2'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'FAIRCHILD'  |  'SA18CA'  |  'SA18CA'  |  'DO15'  |  'DO15-2'  |  '2'  |  '18V'  |  'www.fairchildsemi.com'  |  'N/A'  |  ''  |  '500W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-65 TO 175C'  |  'E013865'  |  ''  |  ''  |  'SCD-003667'
+'SMBJ20CA'  |  '20V'  |  'N/A'  |  'E014113'  |  'SM'  |  'DO214AA-5'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL '  |  'FAIRCHILD SEMICONDUCTOR'  |  'SMBJ20CA'  |  'SMBJ20CA'  |  'DO214AA'  |  'DO214AA-5'  |  '2'  |  '20V'  |  'www.fairchildsemi.com'  |  'N/A'  |  ''  |  '600W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 150C'  |  'E014113'  |  ''  |  ''  |  'SCD-010012'
+'P6SMB62CA'  |  '62V'  |  'N/A'  |  'E017747'  |  'SM'  |  'DO214AA-5'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'LITTELFUSE'  |  'P6SMB62CA'  |  'P6SMB62CA'  |  'DO214AA'  |  'DO214AA-5'  |  '2'  |  '62V'  |  'www.littelfuse.com'  |  'N/A'  |  ''  |  '600W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-65C TO 150C'  |  'E017747'  |  ''  |  ''  |  'SCD-016507'
+'SMBJ16CA'  |  '16V'  |  'N/A'  |  'E018122'  |  'SM'  |  'DO214AA-5'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'LITTELFUSE'  |  'SMBJ16CA'  |  'SMBJ16CA'  |  'DO214AA'  |  'DO214AA-5'  |  '2'  |  '16V'  |  'www.littelfuse.com'  |  'N/A'  |  ''  |  '600W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-65C TO 150C'  |  'E018122'  |  ''  |  ''  |  'SCD-010012'
+'SMBJ6.0CA'  |  '6V'  |  'N/A'  |  'E018229'  |  'SM'  |  'DO214AA-5'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'LITTELFUSE'  |  'SMBJ6.0CA'  |  'SMBJ6.0CA'  |  'DO214AA'  |  'DO214AA-5'  |  '2'  |  '6V'  |  'www.littelfuse.com'  |  'N/A'  |  ''  |  '600W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-65C TO 150C'  |  'E018229'  |  ''  |  ''  |  'SCD-010012'
+'SMBJ7.0CA'  |  '7V'  |  'N/A'  |  'E019297'  |  'SM'  |  'DO214AA-5'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'LITTELFUSE'  |  'SMBJ7.0CA'  |  'SMBJ7.0CA'  |  'DO214AA'  |  'DO214AA-5'  |  '2'  |  '7V'  |  'www.littelfuse.com'  |  'N/A'  |  ''  |  '600W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 150C'  |  'E019297'  |  ''  |  ''  |  'SCD-010012'
+'SMBJ36CA'  |  '36V'  |  'N/A'  |  'E019417'  |  'SM'  |  'DO214AA-5'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'FAIRCHILD'  |  'SMBJ36CA'  |  'SMBJ36CA'  |  'DO214AA'  |  'DO214AA-5'  |  '2'  |  '36V'  |  'www.fairchildsemi.com'  |  'N/A'  |  ''  |  '600W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 150C'  |  'E019417'  |  ''  |  ''  |  'SCD-010012'
+'SMDJ6.0CA'  |  '6V'  |  'N/A'  |  'E019949'  |  'SM'  |  'DO214AB-4'  =  'REL'  |  'DIODE TVS BIDIRECTIONAL'  |  'LITTELFUSE'  |  'SMDJ6.0CA'  |  'SMDJ6.0CA'  |  'DO214AB'  |  'DO214AB-4'  |  '2'  |  '6V'  |  'www.littelfuse.com'  |  'N/A'  |  ''  |  '3000W'  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-65C TO 150C'  |  'E019949'  |  ''  |  ''  |  'SCD-017794'
+
+END_PART
+
+END.

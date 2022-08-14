@@ -1,0 +1,78 @@
+#ISCELL
+  adi_standard adi_d_size_page *
+  *
+#CELL
+  conn_pcb cn120p_v4 *
+  page4_i1
+#CELL
+  capacitors cap *
+  page4_i18
+#CELL
+  ic_other ic24fc256 *
+  page4_i3
+#CELL
+  ic_ttl sn74lvc1g125dbv *
+  page4_i36
+#CELL
+  resistors res *
+  page4_i4
+#ISCELL
+  power_ground dgnd *
+  page4_i49
+#CELL
+  resistors res *
+  page4_i5
+#ISCELL
+  power_ground dgnd *
+  page4_i50
+#ISCELL
+  power_ground dgnd *
+  page4_i51
+#ISCELL
+  power_ground dgnd *
+  page4_i52
+#ISCELL
+  power_ground dgnd *
+  page4_i53
+#ISCELL
+  power_ground dgnd *
+  page4_i54
+#ISCELL
+  power_ground dgnd *
+  page4_i55
+#CELL
+  capacitors cap *
+  page4_i56
+#CELL
+  ic_other txb0104 *
+  page4_i58
+#CELL
+  resistors res *
+  page4_i6
+#CELL
+  capacitors cap *
+  page4_i62
+#CELL
+  capacitors cap *
+  page4_i63
+#ISCELL
+  power_ground dgnd *
+  page4_i64
+#ISCELL
+  power_ground dgnd *
+  page4_i65
+#ISCELL
+  power_ground dgnd *
+  page4_i66
+#CELL
+  resistors res *
+  page4_i67
+#CELL
+  capacitors cap *
+  page4_i68
+#CELL
+  conn_pcb cn12p_v3 *
+  page4_i72
+#CELL
+  conn_pcb cn2p *
+  page4_i73

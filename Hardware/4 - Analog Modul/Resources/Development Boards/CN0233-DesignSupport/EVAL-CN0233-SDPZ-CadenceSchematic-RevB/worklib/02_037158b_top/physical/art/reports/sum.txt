@@ -1,0 +1,53 @@
+Summary Drawing Report
+C:/tmp/20_037158b_bck/worklib/02_037158b_top/physical/08_037158b.brd
+Thu Dec 19 14:20:24 2013
+Drawing Statistics:
+    Drawing Extents  XL(-8200.0)  YL(-12025.0)  XU(31800.0)  YU(17975.0)
+    Dimensions in mils with 1 decimal places
+    Package Symbols:  Total(122)  Mirrored(0)  Embedded(0)  Pins(472)
+    Mechanical Symbols:  Total(9)  Mirrored(5)  Pins(4)
+    Format Symbols:  Total(11)
+    DRC State: UP TO DATE
+    DRC Errors: 0
+    Short DRC: 0
+    Waived DRC: 0
+    Padstack Definitions: 139
+    Functions:   Assigned(122)  Unassigned(0)  Total(122)
+
+Connection Statistics:
+    Connections:  W/Rats(280)  No/Rats(0)  Total(280)
+    Already Connected:  W/Rats(280)  No/Rats(0)  Total(280)
+    Missing Connections: W/Rats(0)  No/Rats(0)  Total(0)
+    Dangling Connections (See logfile):  0
+    Connection Completion:  W/Rats(100.00%)  No/Rats(0.00%)  Total(100.00%)  
+    Manh Distance (inches):  47.0
+    Etch Length (inches):  W/Rats(52.06)  No/Rats(0.00)  Total(52.06)
+    Number of Vias:  W/Rats(258)  No/Rats(0)  Total(258)
+    Vias per Connection:  W/Rats(0.92)  No/Rats(0.00)Total(0.92)
+    SMD pins with attached clines:  321
+
+Layout Statistics:
+    Components:  Placed(122)  Unplaced(0)  Total(122)
+    Nets: W/Rats(72)  No/Rats(0)  Total(72)
+    Pins: W/Rats(352)  No/Rats(0)  Unused(114)  Unplaced(0)  Total(466)
+    Equivalent ICs (1 pin = 1/14 EIC):  33
+    RatTs:  0
+    Router Keepin (in):   (-0.4000,-2.1750) by (3.3750,0.0250)
+    Layout area (sq in):  8.31
+    Average ratlength (in):   0.3
+    Rat density (in/sq in):  5.665
+    Double-sided rat density (in/sq in):  2.832
+
+Layout/Pin Density Statistics
+Layer,Layout Area<BR>(sq in),Components,Pins,Layout Density<BR>(sq in/EIC),Pin Density<BR>(pins/sq in)
+External(Double-Sided),16.61,122,472,0.493,28.417
+Embedded(0),0.00,0,0,0.000,0.000
+Design,8.31,122,472,0.246,56.833
+
+Etch Layer Statistics:
+Layer,Clines/Carcs,Shapes(voids),Rectangles,Lines/Arcs,Text,Components(Pins)
+TOP,440,28(17),0,0,0,122(472)
+L2_GND,26,3(64),0,0,0,0(0)
+L3_PWR,13,9(126),0,0,0,0(0)
+BOTTOM,44,3(43),0,0,1,0(0)
+

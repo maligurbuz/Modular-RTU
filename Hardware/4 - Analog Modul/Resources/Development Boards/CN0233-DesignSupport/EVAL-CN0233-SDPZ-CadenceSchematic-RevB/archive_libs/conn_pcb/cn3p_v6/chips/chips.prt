@@ -1,0 +1,41 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'CN3P_V6_TH';
+  pin
+    'N1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'N2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'N3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CN3P_V6';
+    BODY_NAME='CN3P_V6';
+    JEDEC_TYPE='cncuipj1-021';
+    PHYS_DES_PREFIX='P';
+    CLASS='IO';
+  end_body;
+end_primitive;
+
+END.

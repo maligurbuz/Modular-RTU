@@ -1,0 +1,374 @@
+Starting to read C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstchip.dat 
+   Finished reading C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstchip.dat (00:00:00.80)
+Starting to read C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxprt.dat 
+   Finished reading C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxprt.dat (00:00:00.01)
+Starting to read C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxnet.dat 
+   Finished reading C:/tmp/20_037158a/worklib/02_037158a_top/packaged/pstxnet.dat (00:00:00.00)
+
+#1   WARNING(202) Untyped outputs form wired AND
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):AVDD_ISO
+         Pin name: P2
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I137@DIODES.DIOSCHOTTKY3P_V7(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         Pin name: P2
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I138@DIODES.DIOSCHOTTKY3P_V7(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+
+#2   WARNING(202) Untyped outputs form wired AND
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):AVSS_ISO
+         Pin name: P1
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I137@DIODES.DIOSCHOTTKY3P_V7(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         Pin name: P1
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I138@DIODES.DIOSCHOTTKY3P_V7(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+
+#3   WARNING(202) Untyped outputs form wired AND
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):GND_ISO
+         Pin name: N1
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I135@DIODES.DIO_V3(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         Pin name: N1
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I136@DIODES.DIO_V3(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+
+#1   ERROR(201) Multiple outputs on net have incompatible types
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):SDO
+         Pin name: VOD
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I1@IC_ADI.ADUM3471(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+         OUTPUT_TYPE: <none>
+         Pin name: B2
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE4_I58@IC_OTHER.TXB0104(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE4:PAGE02_037158A_TOP(SCH_1):PAGE4
+         OUTPUT_TYPE: <none>
+
+#2   ERROR(201) Multiple outputs on net have incompatible types
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_AD54X2_I3_
+         Pin name: VOUT
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I3@IC_ADI.AD54X2(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         OUTPUT_TYPE: <none>
+         Pin name: N
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I137@DIODES.DIOSCHOTTKY3P_V7(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         OUTPUT_TYPE: <none>
+
+#3   ERROR(201) Multiple outputs on net have incompatible types
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_AD54X2_I3_IOUT
+         Pin name: IOUT
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I3@IC_ADI.AD54X2(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         OUTPUT_TYPE: <none>
+         Pin name: N2
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I136@DIODES.DIO_V3(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         OUTPUT_TYPE: <none>
+         Pin name: N
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2_I138@DIODES.DIOSCHOTTKY3P_V7(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE2:PAGE02_037158A_TOP(SCH_1):PAGE2
+         OUTPUT_TYPE: <none>
+
+#4   WARNING(202) Untyped outputs form wired AND
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_DIOSCHOTTKY_I115_N
+         Pin name: N
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I14@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+         Pin name: N
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I115@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+
+#5   WARNING(202) Untyped outputs form wired AND
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_DIOSCHOTTKY_I115_P
+         Pin name: N
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I17@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+         Pin name: P
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I115@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+
+#6   WARNING(202) Untyped outputs form wired AND
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_DIOSCHOTTKY_I14_P
+         Pin name: P
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I14@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+         Pin name: N
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I15@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+
+#7   WARNING(202) Untyped outputs form wired AND
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_DIOSCHOTTKY_I15_P
+         Pin name: P
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I15@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+         Pin name: P
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3_I17@DIODES.DIOSCHOTTKY(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE3:PAGE02_037158A_TOP(SCH_1):PAGE3
+
+#4   ERROR(201) Multiple outputs on net have incompatible types
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_4_SN74LVC1G125DBV_I36_A
+         Pin name: A
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE4_I36@IC_TTL.SN74LVC1G125DBV(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE4:PAGE02_037158A_TOP(SCH_1):PAGE4
+         OUTPUT_TYPE: <none>
+         Pin name: A2
+         Instance: @02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE4_I58@IC_OTHER.TXB0104(CHIPS)
+         Drawing:  02_037158A_LIB.02_037158A_TOP(SCH_1):PAGE4:PAGE02_037158A_TOP(SCH_1):PAGE4
+         OUTPUT_TYPE: <none>
+
+#8   WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):+5VA
+         Error in both states (1 and 0)
+
+#9   WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):AGND
+         Error in both states (1 and 0)
+
+#10  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):AVDD
+         Error in both states (1 and 0)
+
+#11  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):AVSS
+         Error in both states (1 and 0)
+
+#12  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):GND
+         Error in both states (1 and 0)
+
+#13  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):LATCH_ISO
+         Error in both states (1 and 0)
+
+#14  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):SCLK_ISO
+         Error in both states (1 and 0)
+
+#15  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):SCL_0
+         Error in both states (1 and 0)
+
+#16  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):SDIN_ISO
+         Error in both states (1 and 0)
+
+#17  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_AD54X2_I3_CAP1
+         Error in both states (1 and 0)
+
+#18  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_AD54X2_I3_CAP2
+         Error in both states (1 and 0)
+
+#19  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_AD54X2_I3_CCOMP
+         Error in both states (1 and 0)
+
+#20  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_AD54X2_I3_FAULTN
+         Error in both states (1 and 0)
+
+#21  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_AD54X2_I3_RSET
+         Error in both states (1 and 0)
+
+#22  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_2_CAP_I65_N1
+         Error in both states (1 and 0)
+
+#23  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_ADUM3471_I1_FB
+         Error in both states (1 and 0)
+
+#24  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_ADUM3471_I1_OC
+         Error in both states (1 and 0)
+
+#25  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_ADUM3471_I1_VID
+         Error in both states (1 and 0)
+
+#26  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_CAP_I104_N2
+         Error in both states (1 and 0)
+
+#27  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_CAP_I112_N2
+         Error in both states (1 and 0)
+
+#28  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_CN2P_I146_N1
+         Error in both states (1 and 0)
+
+#29  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I120_N1
+         Error in both states (1 and 0)
+
+#30  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I120_N2
+         Error in both states (1 and 0)
+
+#31  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I121_N1
+         Error in both states (1 and 0)
+
+#32  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I125_N2
+         Error in both states (1 and 0)
+
+#33  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I80_N2
+         Error in both states (1 and 0)
+
+#34  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I81_N2
+         Error in both states (1 and 0)
+
+#35  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I82_N2
+         Error in both states (1 and 0)
+
+#36  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I87_N1
+         Error in both states (1 and 0)
+
+#37  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I87_N2
+         Error in both states (1 and 0)
+
+#38  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I89_N1
+         Error in both states (1 and 0)
+
+#39  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_FERRITE_I89_N2
+         Error in both states (1 and 0)
+
+#40  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_3_RES_I34_N2
+         Error in both states (1 and 0)
+
+#41  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_4_CN120PV4_I1_EEPROMA0
+         Error in both states (1 and 0)
+
+#42  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_4_CN6PV2_I47_N6
+         Error in both states (1 and 0)
+
+#43  WARNING(205) No output on net
+         Logical net name: @02_037158A_LIB.02_037158A_TOP(SCH_1):UNNAMED_4_IC24FC256_I3_A1
+         Error in both states (1 and 0)
+     
+
+ERC Summary:
+
+     Pin Direction Check Violations:    0
+     Connect Check Violations:         11
+     Single Node Violations:            0
+     IO Check Violations:              36
+     Loading Check Violations:          0
+     
+
+Extended Error Descriptions:
+
+     Error(201) Multiple outputs on net have incompatible types
+          Two or more outputs are tied together that have different
+          OUTPUT_TYPE property values. Output pins may be tied together
+          only if they are of the same output type or the ALLOW_CONNECT
+          property is present. This error can be fixed by adding the
+          OUTPUT_TYPE property to each of the pins of the same
+          type that are to be tied together or suppressed by adding the
+          ALLOW_CONNECT property to the symbol, pin, or net of the part
+          causing the error.
+          The syntax for the OUTPUT_TYPE property is:
+             OUTPUT_TYPE = <output type>,<logic function>
+          The standard OUTPUT_TYPE values for parts in Cadence libraries
+          are:
+            OC,AND { open collector; AND logic function }
+            OE,OR  { open emitter; OR logic function }
+            TS,TS  { TRI-STATE; logic function handled specially } 
+     
+     Warning(202) Untyped outputs form wired AND
+          Two or more outputs are tied together that have no OUTPUT_TYPE
+          property values. Output pins may be tied together only if they
+          are of the same output type or the ALLOW_CONNECT property is
+          present. Since there are no OUTPUT_TYPE properties, it is assumed
+          that a wired AND function is intended. This warning can be fixed
+          by adding the OUTPUT_TYPE property to each of the pins of the same
+          type that are to be tied together or suppressed by adding the
+          ALLOW_CONNECT property to the symbol, pin, or net of the part
+          causing the error.
+          The syntax for the OUTPUT_TYPE property is:
+             OUTPUT_TYPE = <output type>,<logic function>
+          The standard OUTPUT_TYPE values for parts in Cadence libraries
+          are:
+             OC,AND { open collector; AND logic function }
+             OE,OR  { open emitter; OR logic function }
+             TS,TS  { TRI-STATE; logic function handled specially }
+     
+     Warning(204) No input on net
+          The net has no input pins to drive. This can be due to
+          an error or perhaps some nodes on the net have been ignored due
+          to the NO_IO_CHECK property. Make sure that the net is wired as
+          intended. This warning can be suppressed by adding the
+          NO_IO_CHECK property to the symbol, pin or net to suppress
+          input/output checks.
+          The syntax for the NO_IO_CHECK property is:
+             NO_IO_CHECK =  logic_state
+          logic_state can be LOW, HIGH, or BOTH. Use BOTH to suppress
+          I/O checks for either logic state.
+     
+     Warning(205) No output on net
+          The net has no output pins connected. This can
+          be due to an error or perhaps some nodes on the net have been
+          ignored due to the NO_IO_CHECK property. Make sure that the net
+          is wired as intended. This warning can be suppressed by adding the
+          NO_IO_CHECK property to the symbol, pin or net to suppress
+          input/output checks.
+          The syntax for the NO_IO_CHECK property is:
+             NO_IO_CHECK =  <logic_state>
+          logic_state can be LOW, HIGH, or BOTH. Use BOTH to suppress
+          I/O checks for either logic state.
+     
+
+ERC-DX run on Sep 10 14:15:47 2013
+   DESIGN NAME : '02_037158A_TOP'
+   PACKAGING ON 10-Sep-2013 AT 14:13:00
+
+   DIRECTORIES  <none>
+   LIBRARIES  '02_037158a_lib' 'adi_standard' 'capacitors' 'conn_pcb'
+              'contactors' 'crystals' 'diodes' 'filters' 'fuses' 'graphics'
+              'ic_adi' 'ic_cmos' 'ic_ecl' 'ic_lin' 'ic_other' 'ic_ttl'
+              'inductors' 'modules' 'nocomponent' 'nqa' 'power_ground' 'relays'
+              'resistors' 'sockets' 'standard' 'switches' 'transformers'
+              'transistors'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   ASSERT_CHECK OFF
+   PIN_DIRECTION_CHECK ON
+   CONNECT_CHECK ON
+   SINGLE_NODE_CHECK ON
+   IO_CHECK ON
+   IO_CHECK_HIGH ON
+   IO_CHECK_LOW ON
+   LOAD_CHECK ON
+   LOAD_CHECK_HIGH ON
+   LOAD_CHECK_LOW ON
+   ENABLE_TIMES OFF
+   VERBOSE_LOADING ON
+   VPUNKNOWNLOADING ON
+   EXTENDEDDESCRIPTIONS ON
+   OVERSIGHTS ON
+   SINGLE_NODE_NETS ON
+   SUPPRESS   20
+   WARNINGS ON
+   GLOBALS_SYNONYM_CHECK OFF
+
+  4 errors detected
+ No oversight detected
+ 43 warnings detected
+
+cpu time      0:01:23
+elapsed time  0:00:01
+

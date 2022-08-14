@@ -1,0 +1,172 @@
+(Cell	ic24fc256
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/04/06,18:38:42)
+
+			(User	sdacillo)
+
+			(Path	ic_other.ic24fc256)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000569b2b22)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/04/06,18:38:42)
+
+							(User	sdacillo)
+
+							(Path	ic_other.ic24fc256)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bb6037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006824faac)
+
+			(Primitives	1
+
+				(Primitive	IC24FC256_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/04/06,18:38:42)
+
+							(User	sdacillo)
+
+							(Path	ic_other.ic24fc256)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IC24FC256
+
+							(PackType	IC24FC256_TH)
+
+							(PackType	IC24FC256_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	dip8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dbf0410)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s035)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d4c03a3)
+
+)
+

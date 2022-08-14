@@ -1,0 +1,16 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CN12P_V3'
+CLASS=IO
+PINCOUNT=12
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL | TOL | PPM | WATTAGE | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD ;
+{===============================================================================================}
+'TSW-106-08-G-D'  |  'E000735'  |  'TH'  |  'CNHDR2X6H330LD35'  =  'NON-PREF'  |  'CONN-PCB HDR ST MALE - PMOD'  |  'SAMTEC'  |  'TSW-106-08-G-D'  |  'TSW-106-08-G-D'  |  ''  |  'CNHDR2X6H330LD35'  |  '12'  |  ''  |  'www.samtec.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 105C'  |  'E000735'  |  ''  |  ''  |  'SCD-010361'
+'TSW-106-14-T-D'  |  'E015161'  |  'TH'  |  'CNHDR2X6H420LD35_A'  =  'NON-PREF'  |  'CONN-PCB HDR DUAL ST - PMOD'  |  'SAMTEC'  |  'TSW-106-14-T-D'  |  'TSW-106-14-T-D'  |  ''  |  'CNHDR2X6H420LD35_A'  |  '12'  |  ''  |  'www.samtec.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 105C'  |  'E015161'  |  ''  |  ''  |  'SCD-002447'
+'TSW-106-25-F-D-RA'  |  'E018495'  |  'TH'  |  'CNHDRRA2X6H240'  =  'NON-PREF'  |  'CONN-PCB HDR RA CUSTOMIZED PIN NUMBERING -PMOD'  |  'SAMTEC INC'  |  'TSW-106-25-F-D-RA'  |  'TSW-106-25-F-D-RA'  |  ''  |  'CNHDRRA2X6H240'  |  '12'  |  ''  |  'www.samtec.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-55C TO 125C'  |  'E018495'  |  ''  |  ''  |  'SCD-002447'
+
+END_PART
+
+END.

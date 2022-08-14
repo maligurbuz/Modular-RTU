@@ -1,0 +1,116 @@
+\t (00:00:04) allegro 16.5 S047 (v16-5-13CY) i86
+\t (00:00:04)     Journal start - Thu Dec 19 17:46:28 2013
+\t (00:00:04)         Host=EREYTA-L01 User=EReyta Pid=8440 CPUs=4
+\t (00:00:04) 
+   (00:00:06) Agilent Allegro DFI menu was not loaded -environment variable 'HPEESOF_DIR' is not defined or the directory is not writeable. This is an informational message for Agilent/ADS users; please select 'Do not show again' to suppress.
+\i (00:02:03) fillin confirm
+   (00:02:03) Loading CDS_SITE/pcb/skill/allegro.ilinit
+   (00:02:03) Loading  : Sig2AMS.il
+   (00:02:03) function _GetDataList redefined
+   (00:02:03) Loading  : adi_scripts_2011.il
+   (00:02:03) Loading  : adi_scripts_2012.il
+   (00:02:03) function ckflash redefined
+   (00:02:03) function plot_pdf redefined
+   (00:02:03) Loading  : adi_scripts_form_2011.il
+   (00:02:03) Loading  : cds2f.il
+   (00:02:03) Loading  : ood_shapes.il
+   (00:02:03) Loading  : stats_chippac.il
+   (00:02:03) Loading  : valor_ext.il
+   (00:02:03) Loading  : adi_scripts_form_2012.il
+   (00:02:03) Loading  : adiva_iface_v400.il
+   (00:02:03) Loading  : adiva_vio_lnk_v2c.il
+   (00:02:03) function readBatch redefined
+   (00:02:03) function readError redefined
+   (00:02:03) Loading Skill file: site.ini
+   (00:02:03) allegro.ilinit loaded.
+\t (00:02:08) Opening existing design...
+\d (00:02:08) Database opened: C:/ereyta/back up files in lenovo 12122013/desktop/CFTL/CN0233/CN0233 Schematic and Layout Design/12 19 13/20_037158b/worklib/02_037158b_top/physical/08_037158b.brd
+\t (00:02:09) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:02:09) trapsize 172
+\i (00:02:09) trapsize 169
+\i (00:02:09) trapsize 173
+\i (00:02:09) trapsize 150
+\i (00:02:09) trapsize 150
+\i (00:02:10) generaledit 
+\i (00:02:12) pick grid 3921.5 -1141.4
+\t (00:02:12) last pick:  3920.0  -1140.0
+\i (00:02:14) pick grid 3687.1 -837.9
+\t (00:02:14) last pick:  3685.0  -840.0
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 1610.8 -946.1
+\t (00:02:14) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:02:14) trapsize 300
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 1370.4 -1000.1
+\i (00:02:14) trapsize 601
+\i (00:02:18) pick grid -1634.5 -459.2
+\t (00:02:18) last pick:  -1635.0  -460.0
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in -1189.7 -447.2
+\i (00:02:19) trapsize 300
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in -1189.7 -447.2
+\t (00:02:19) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:02:19) trapsize 150
+\i (00:02:19) zoom out 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom out 429.9 -504.3
+\t (00:02:19) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:02:19) trapsize 300
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in 2419.1 -1315.6
+\t (00:02:20) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:02:20) trapsize 150
+\i (00:02:22) zoom out 1 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) zoom out 1875.2 -837.8
+\t (00:02:22) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:02:22) trapsize 300
+\i (00:02:29) setwindow form.vf_vis
+\i (00:02:29) FORM vf_vis colorview_list Film: silk_prm 
+\i (00:02:30) FORM vf_vis all_all_visible YES 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in 2283.9 -669.5
+\t (00:02:31) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:02:31) trapsize 150
+\i (00:02:31) zoom in 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in 2283.9 -666.4
+\i (00:02:31) trapsize 75
+\i (00:02:32) zoom out 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom out 2280.9 -670.9
+\i (00:02:32) trapsize 150
+\i (00:02:33) zoom out 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom out 2268.9 -610.7
+\t (00:02:33) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:02:33) trapsize 300
+\i (00:02:36) setwindow form.vf_vis
+\i (00:02:36) FORM vf_vis all_all_visible NO 
+\i (00:02:40) FORM vf_vis colorview_list Film: silk_prm 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom in 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom in 2677.6 -472.6
+\t (00:02:42) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:02:42) trapsize 150
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 2990.1 -752.0
+\t (00:02:45) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:02:45) trapsize 300
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in 2557.5 -0.7
+\t (00:02:45) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:02:45) trapsize 150
+\i (00:02:54) exit 
+\t (00:02:55)     Journal end - Thu Dec 19 17:49:18 2013

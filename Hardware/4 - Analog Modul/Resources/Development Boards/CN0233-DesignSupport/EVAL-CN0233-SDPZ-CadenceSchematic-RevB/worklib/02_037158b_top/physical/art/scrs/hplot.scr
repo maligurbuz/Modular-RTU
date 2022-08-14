@@ -1,0 +1,55 @@
+version 16.2
+
+plot setup
+setwindow form.fpfileplotsetup
+FORM fpfileplotsetup fpplotscaling YES
+FORM fpfileplotsetup fpplotfittopage YES
+FORM fpfileplotsetup fpplotmirror NO
+FORM fpfileplotsetup fpplotcolor NO
+FORM fpfileplotsetup fpplotautocenter YES
+FORM fpfileplotsetup fpplotsheetcontents YES
+FORM fpfileplotsetup fpipfvectortext YES
+FORM fpfileplotsetup windows
+FORM fpfileplotsetup fpplotnonvectortext NO
+FORM fpfileplotsetup done
+setwindow form.vf_vis
+FORM vf_vis colorview_list Film: assy1 
+setwindow pcb
+plotwint initialize "HP 7550 Plus"
+plotwint orientation 2
+plotwint papersize "D"
+plotwint scale 100
+plotwint copies 1
+plotwint defaultsource 15
+plotwint printquality 600
+plotwint color 2
+plotwint plottofile "assy1.hpgl"
+plotwint execute
+setwindow form.vf_vis
+FORM vf_vis colorview_list Film: fab1 
+setwindow pcb
+plotwint initialize "HP 7550 Plus"
+plotwint orientation 2
+plotwint papersize "D"
+plotwint scale 100
+plotwint copies 1
+plotwint defaultsource 15
+plotwint printquality 600
+plotwint color 2
+plotwint plottofile "fab1.hpgl"
+plotwint execute
+setwindow form.vf_vis
+FORM vf_vis colorview_list Film: fab2 
+setwindow pcb
+plotwint initialize "HP 7550 Plus"
+plotwint orientation 2
+plotwint papersize "D"
+plotwint scale 100
+plotwint copies 1
+plotwint defaultsource 15
+plotwint printquality 600
+plotwint color 2
+plotwint plottofile "fab2.hpgl"
+plotwint execute
+exit
+fillin YES

@@ -1,0 +1,64 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'CAP_TH';
+  pin
+    'N1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'N2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP';
+    ALT_SYMBOLS='(c0402h22_alt,c0201-2,c0402_a,c0402_alt)';
+    BODY_NAME='CAP';
+    JEDEC_TYPE='CM05';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'CAP_SM';
+  pin
+    'N1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'N2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP';
+    ALT_SYMBOLS='(c0402h22_alt,c0201-2,c0402_a,c0402_alt)';
+    BODY_NAME='CAP';
+    JEDEC_TYPE='CM05';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

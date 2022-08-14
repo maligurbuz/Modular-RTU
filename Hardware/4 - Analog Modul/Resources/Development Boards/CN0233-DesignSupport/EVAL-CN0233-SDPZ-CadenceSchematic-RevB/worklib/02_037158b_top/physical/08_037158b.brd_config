@@ -1,0 +1,32 @@
+"tab_selector" ""
+"_Films_" t
+"_Mkodb_" t
+"_Mkart_" t
+"phone" "(63) 2 8677030"
+"adi_dial" "61057030"
+"err_stat" "00000"
+"name" "Rochyll Amarille"
+"address1" "Gateway Business Park"
+"address2" "GT Cavite Manila - Philippines"
+"board_name" "08_037158b.brd"
+"gold_mask" "3"
+"paste_mask" "3"
+"rework" "0"
+"run_films_now" t
+"impedance" t
+"pcb_designer" "jramos6"
+"primary_contact" "ereyta"
+"div" "mfg"
+"primary_phone" "028677030"
+"design_service" "Philippines"
+"primary_fax" ""
+"secondary_contact" "LayoutDrawnBy"
+"ptde_engineer" "ereyta"
+"secondary_phone" ""
+"sch_soft" "allegro"
+"secondary_fax" ""
+"dock_date" "191213"
+"fab_quantity" "5"
+"impedance" t
+"debug" nil
+"pcbhelp" t

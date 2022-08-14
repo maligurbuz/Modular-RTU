@@ -1,0 +1,252 @@
+(Cell	dio_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	3.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/09,16:16:52)
+
+			(User	gmorales)
+
+			(Path	created.dio_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/22/10,01:54:26)
+
+			(User	JGebora)
+
+			(Path	created.dio_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fa5961a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aa2f9352)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	03/03/10,10:55:46)
+
+							(User	gmorales)
+
+							(Path	local_symbol.dio_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba3038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000004ba73a4)
+
+			(Primitives	1
+
+				(Primitive	DIO_V3_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	2.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/09,16:16:52)
+
+							(User	gmorales)
+
+							(Path	created.dio_v3)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/22/10,01:54:26)
+
+							(User	JGebora)
+
+							(Path	created.dio_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIO_V3
+
+							(PackType	DIO_V3_TH)
+
+							(PackType	DIO_V3_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DO15-2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b2d0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c210377)
+
+)
+

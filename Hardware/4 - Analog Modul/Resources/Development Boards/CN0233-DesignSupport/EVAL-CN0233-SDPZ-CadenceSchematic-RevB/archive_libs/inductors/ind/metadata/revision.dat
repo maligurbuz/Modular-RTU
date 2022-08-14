@@ -1,0 +1,222 @@
+(Cell	ind
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.36)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/07/05,11:06:42)
+
+			(User	rrynhart)
+
+			(Path	test.ind)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/19/05,13:15:30)
+
+			(User	jmarana)
+
+			(Path	inductors.ind)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d10789c4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/07/05,11:06:42)
+
+							(User	rrynhart)
+
+							(Path	test.ind)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000025338689)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.10)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/07/05,11:06:42)
+
+							(User	rrynhart)
+
+							(Path	test.ind)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb603ab)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5b1a0c5)
+
+			(Primitives	1
+
+				(Primitive	IND_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/07/05,11:06:42)
+
+							(User	rrynhart)
+
+							(Path	test.ind)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IND
+
+							(PackType	IND_TH)
+
+							(PackType	IND_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	l1007)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001acc034d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s017)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001d6503d4)
+
+)
+

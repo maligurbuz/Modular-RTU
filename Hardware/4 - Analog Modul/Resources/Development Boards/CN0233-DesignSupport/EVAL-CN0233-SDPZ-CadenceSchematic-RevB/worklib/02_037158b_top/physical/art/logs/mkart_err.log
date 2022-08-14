@@ -1,0 +1,57 @@
+
+Mkart_err.log
+
+191213-14:19
+
+Starting DBDOCTOR for drawing C:/tmp/20_037158b_bck/worklib/02_037158b_top/physical/08_037158b.brd
+Checking db records
+    checking for orphans...
+    Checked  37 percent
+    Checked  74 percent
+    Checked 100 percent
+Regenerating DRC
+    0 original DRC errors replaced by
+Multithreaded DRC update (4 threads).
+    0 current DRC errors.
+Done dbdoctor
+The batch file cannot be found.
+W- alias F1 is marked read-only, not changed.
+         Allegro PCB Designer 16.5 S031 i86
+(c) Copyright 1986-2011 Cadence Design Systems, Inc.
+                All Rights Reserved.
+W- alias F1 is marked read-only, not changed.
+         Allegro PCB Designer 16.5 S031 i86
+(c) Copyright 1986-2011 Cadence Design Systems, Inc.
+                All Rights Reserved.
+Extract started ... command file is 'C:/pcblib/apps/allegro/SPB_16.5/share/pcb/text/views/bom_rep.txt'.
+Extract ended.
+Extract started ... command file is 'C:/pcblib/apps/allegro/SPB_16.5/share/pcb/text/views/npr_rep.txt'.
+Extract ended.
+Extract started ... command file is 'C:/pcblib/apps/allegro/SPB_16.5/share/pcb/text/views/pcp_rep.txt'.
+Extract ended.
+Extract started ... command file is 'C:/pcblib/apps/allegro/SPB_16.5/share/pcb/text/views/slp_rep.txt'.
+Extract ended.
+W- alias F1 is marked read-only, not changed.
+         Allegro PCB Designer 16.5 S031 i86
+(c) Copyright 1986-2011 Cadence Design Systems, Inc.
+                All Rights Reserved.
+Use of uninitialized value at Z:\allegro\v165_site\pcb\pcb_scripts\gbxplot.pl line 35.
+W- alias F1 is marked read-only, not changed.
+         Allegro PCB Designer 16.5 S031 i86
+(c) Copyright 1986-2011 Cadence Design Systems, Inc.
+                All Rights Reserved.
+Writing IPC file.
+Warnings encountered
+- W - ipc356_out did not complete cleanly, Check ipc356_out.log
+W- alias F1 is marked read-only, not changed.
+         Allegro PCB Designer 16.5 S031 i86
+(c) Copyright 1986-2011 Cadence Design Systems, Inc.
+                All Rights Reserved.
+W- alias F1 is marked read-only, not changed.
+         Allegro PCB Designer 16.5 S031 i86
+(c) Copyright 1986-2011 Cadence Design Systems, Inc.
+                All Rights Reserved.
+
+Mkart_err.log
+
+191213-14:22

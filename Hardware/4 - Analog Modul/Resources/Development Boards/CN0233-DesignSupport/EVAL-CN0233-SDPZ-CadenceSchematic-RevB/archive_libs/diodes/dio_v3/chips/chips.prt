@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DIO_V3_TH','DIO_V3_SM';
+  pin
+    'N2':
+      PIN_NUMBER='(2)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N1':
+      PIN_NUMBER='(1)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIO_V3';
+    BODY_NAME='DIO_V3';
+    JEDEC_TYPE='DO15-2';
+    PHYS_DES_PREFIX='D';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

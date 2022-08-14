@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DIOZNR_TH','DIOZNR_SM';
+  pin
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIOZNR';
+    BODY_NAME='DIOZNR';
+    JEDEC_TYPE='DO41';
+    PHYS_DES_PREFIX='CR';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

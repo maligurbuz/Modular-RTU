@@ -1,0 +1,170 @@
+(Cell	fltr3p
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/16/09,13:53:01)
+
+			(User	eyandoc)
+
+			(Path	development.fltr3p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fc739a06)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/16/09,13:53:01)
+
+							(User	eyandoc)
+
+							(Path	development.fltr3p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9b03b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c9fcc980)
+
+			(Primitives	1
+
+				(Primitive	FLTR3P_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/16/09,13:53:01)
+
+							(User	eyandoc)
+
+							(Path	development.fltr3p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FLTR3P
+
+							(PackType	FLTR3P_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	FSM0603L63W32H28)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d3403bb)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-s033)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bc903a4)
+
+)
+

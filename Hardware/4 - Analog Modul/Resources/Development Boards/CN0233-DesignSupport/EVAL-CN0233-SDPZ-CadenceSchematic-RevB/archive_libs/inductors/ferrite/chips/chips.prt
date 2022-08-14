@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'FERRITE_SM','FERRITE_TH';
+  pin
+    'N2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'N1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='FERRITE';
+    BODY_NAME='FERRITE';
+    JEDEC_TYPE='l1806';
+    PHYS_DES_PREFIX='E';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

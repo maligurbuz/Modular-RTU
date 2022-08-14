@@ -1,0 +1,1125 @@
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] getBundle(org.apache.axis,org.apache.axis.i18n,resource,null,...)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] loadBundle: Ignoring MissingResourceException: Can't find bundle for base name org.apache.axis.resource, locale en_US
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] Created org.apache.axis.i18n.resource, linked to parent null
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] getBundle(org.apache.axis,org.apache.axis.utils,resource,null,...)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] loadBundle: Ignoring MissingResourceException: Can't find bundle for base name org.apache.axis.utils.resource, locale en_US
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] loadBundle: Ignoring MissingResourceException: Can't find bundle for base name org.apache.axis.resource, locale en_US
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] Root package not found, cross link to org.apache.axis.i18n.resource
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] Root package not found, cross link to org.apache.axis.i18n.resource
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(engineConfigLoadFactory)
+DEBUG main [org.apache.axis.configuration.EngineConfigurationFactoryFinder] Factory org.apache.axis.configuration.EngineConfigurationFactoryServlet Ignored: unable to load/resolve class.
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(engineFactory)
+DEBUG main [org.apache.axis.configuration.EngineConfigurationFactoryFinder] Got EngineFactory: org.apache.axis.configuration.EngineConfigurationFactoryDefault
+DEBUG main [org.apache.axis.AxisEngine] Enter: AxisEngine::init
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(attachEnabled)
+DEBUG main [org.apache.axis.utils.JavaUtils] Attachment support is enabled?  false
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(attachDisabled)
+ WARN main [org.apache.axis.utils.JavaUtils] Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(oddDigits00)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(badChars01)
+DEBUG main [org.apache.axis.AxisEngine] Exit: AxisEngine::init
+DEBUG main [org.apache.axis.description.OperationDesc] @15a6029 added parameter >name:       {http://tempuri.org/}username
+typeEntry:  null
+mode:       IN
+position:   0
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@5f6303<total parameters:1
+DEBUG main [org.apache.axis.description.OperationDesc] @15a6029 added parameter >name:       {http://tempuri.org/}ca
+typeEntry:  null
+mode:       IN
+position:   1
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@5d9084<total parameters:2
+DEBUG main [org.apache.axis.description.OperationDesc] @15a6029 added parameter >name:       {http://tempuri.org/}rev
+typeEntry:  null
+mode:       IN
+position:   2
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@bad8a8<total parameters:3
+DEBUG main [org.apache.axis.description.OperationDesc] @15a6029setReturnType({http://schemas.datacontract.org/2004/07/Hlm.App.Services}CheckInOutResponse)
+DEBUG main [org.apache.axis.description.OperationDesc] @179dce4 added parameter >name:       {http://tempuri.org/}username
+typeEntry:  null
+mode:       IN
+position:   0
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@1950198<total parameters:1
+DEBUG main [org.apache.axis.description.OperationDesc] @179dce4 added parameter >name:       {http://tempuri.org/}ca
+typeEntry:  null
+mode:       IN
+position:   1
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@19bb25a<total parameters:2
+DEBUG main [org.apache.axis.description.OperationDesc] @179dce4 added parameter >name:       {http://tempuri.org/}rev
+typeEntry:  null
+mode:       IN
+position:   2
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@da6bf4<total parameters:3
+DEBUG main [org.apache.axis.description.OperationDesc] @179dce4 added parameter >name:       {http://tempuri.org/}caFile
+typeEntry:  null
+mode:       IN
+position:   3
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@1e58cb8<total parameters:4
+DEBUG main [org.apache.axis.description.OperationDesc] @179dce4setReturnType({http://schemas.datacontract.org/2004/07/Hlm.App.Services}CheckInOutResponse)
+DEBUG main [org.apache.axis.description.OperationDesc] @179935d added parameter >name:       {http://tempuri.org/}username
+typeEntry:  null
+mode:       IN
+position:   0
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@b9e45a<total parameters:1
+DEBUG main [org.apache.axis.description.OperationDesc] @179935d added parameter >name:       {http://tempuri.org/}ca
+typeEntry:  null
+mode:       IN
+position:   1
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@3ef810<total parameters:2
+DEBUG main [org.apache.axis.description.OperationDesc] @179935d added parameter >name:       {http://tempuri.org/}rev
+typeEntry:  null
+mode:       IN
+position:   2
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@100363<total parameters:3
+DEBUG main [org.apache.axis.description.OperationDesc] @179935d added parameter >name:       {http://tempuri.org/}caFile
+typeEntry:  null
+mode:       IN
+position:   3
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@14e8cee<total parameters:4
+DEBUG main [org.apache.axis.description.OperationDesc] @179935d added parameter >name:       {http://tempuri.org/}comment
+typeEntry:  null
+mode:       IN
+position:   4
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@67064<total parameters:5
+DEBUG main [org.apache.axis.description.OperationDesc] @179935dsetReturnType({http://schemas.datacontract.org/2004/07/Hlm.App.Services}CheckInOutResponse)
+DEBUG main [org.apache.axis.description.OperationDesc] @bcda2d added parameter >name:       {http://tempuri.org/}ca
+typeEntry:  null
+mode:       IN
+position:   0
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@97d01f<total parameters:1
+DEBUG main [org.apache.axis.description.OperationDesc] @bcda2d added parameter >name:       {http://tempuri.org/}rev
+typeEntry:  null
+mode:       IN
+position:   1
+isReturn:   false
+typeQName:  {http://www.w3.org/2001/XMLSchema}string
+javaType:   class java.lang.String
+inHeader:   false
+outHeader:  false
+@e0a386<total parameters:2
+DEBUG main [org.apache.axis.description.OperationDesc] @bcda2dsetReturnType({http://www.w3.org/2001/XMLSchema}int)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(transport00)
+DEBUG main [org.apache.axis.client.Call] Transport is org.apache.axis.transport.http.HTTPTransport@3bc473
+DEBUG main [org.apache.axis.client.Call] Enter: Call::invoke(ns, meth, args)
+DEBUG main [org.apache.axis.client.Call] operation=name:        GetStatus
+returnQName: {http://tempuri.org/}GetStatusResult
+returnType:  {http://www.w3.org/2001/XMLSchema}int
+returnClass: class java.lang.Integer
+elementQName:null
+soapAction:  null
+style:       wrapped
+use:         literal
+numInParams: 2
+method:null
+ ParameterDesc[0]:
+  name:       {http://tempuri.org/}ca
+  typeEntry:  null
+  mode:       IN
+  position:   0
+  isReturn:   false
+  typeQName:  {http://www.w3.org/2001/XMLSchema}string
+  javaType:   class java.lang.String
+  inHeader:   false
+  outHeader:  false
+
+ ParameterDesc[1]:
+  name:       {http://tempuri.org/}rev
+  typeEntry:  null
+  mode:       IN
+  position:   1
+  isReturn:   false
+  typeQName:  {http://www.w3.org/2001/XMLSchema}string
+  javaType:   class java.lang.String
+  inHeader:   false
+  outHeader:  false
+
+
+DEBUG main [org.apache.axis.client.Call] operation.getNumParams()=2
+DEBUG main [org.apache.axis.client.Call] getParamList number of params: 2
+DEBUG main [org.apache.axis.client.Call] Enter: Call::invoke(RPCElement)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(attachEnabled)
+DEBUG main [org.apache.axis.Message] Attachment support is enabled?  false
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart ctor(FORM_SOAPENVELOPE)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_SOAPENVELOPE (currentMessage is now org.apache.axis.message.SOAPEnvelope)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart ctor()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(addBody00)
+DEBUG main [org.apache.axis.message.SOAPBody] Adding body element to message...
+DEBUG main [org.apache.axis.client.Call] Enter: Call::invoke()
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setTargetService(CadArchive)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(noService10)
+DEBUG main [org.apache.axis.ConfigurationException] Exception: 
+org.apache.axis.ConfigurationException: No service named CadArchive is available
+org.apache.axis.ConfigurationException: No service named CadArchive is available
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.client.Call.invoke(Call.java:2690)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.getStatus(CadArchiveStub.java:340)
+	at hlm.client.HttpClientImpl.getStatus(HttpClientImpl.java:24)
+	at hlm.client.ScmManagerImpl.isCheckedIn(ScmManagerImpl.java:32)
+	at hlm.client.VaultIO.checkout(VaultIO.java:188)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.client.Call.invoke(Call.java:2690)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.getStatus(CadArchiveStub.java:340)
+	at hlm.client.HttpClientImpl.getStatus(HttpClientImpl.java:24)
+	at hlm.client.ScmManagerImpl.isCheckedIn(ScmManagerImpl.java:32)
+	at hlm.client.VaultIO.checkout(VaultIO.java:188)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setServiceHandler(null)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(targetService)
+DEBUG main [org.apache.axis.client.Call] Target service:  CadArchive
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setTargetService(http://tempuri.org/ICadArchiveWcf/GetStatus)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(noService10)
+DEBUG main [org.apache.axis.ConfigurationException] Exception: 
+org.apache.axis.ConfigurationException: No service named http://tempuri.org/ICadArchiveWcf/GetStatus is available
+org.apache.axis.ConfigurationException: No service named http://tempuri.org/ICadArchiveWcf/GetStatus is available
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.transport.http.HTTPTransport.setupMessageContextImpl(HTTPTransport.java:89)
+	at org.apache.axis.client.Transport.setupMessageContext(Transport.java:46)
+	at org.apache.axis.client.Call.invoke(Call.java:2738)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.getStatus(CadArchiveStub.java:340)
+	at hlm.client.HttpClientImpl.getStatus(HttpClientImpl.java:24)
+	at hlm.client.ScmManagerImpl.isCheckedIn(ScmManagerImpl.java:32)
+	at hlm.client.VaultIO.checkout(VaultIO.java:188)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.transport.http.HTTPTransport.setupMessageContextImpl(HTTPTransport.java:89)
+	at org.apache.axis.client.Transport.setupMessageContext(Transport.java:46)
+	at org.apache.axis.client.Call.invoke(Call.java:2738)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.getStatus(CadArchiveStub.java:340)
+	at hlm.client.HttpClientImpl.getStatus(HttpClientImpl.java:24)
+	at hlm.client.ScmManagerImpl.isCheckedIn(ScmManagerImpl.java:32)
+	at hlm.client.VaultIO.checkout(VaultIO.java:188)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setServiceHandler(null)
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsd' - 'http://www.w3.org/2001/XMLSchema'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsi' - 'http://www.w3.org/2001/XMLSchema-instance'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register '' - 'http://tempuri.org/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:GetStatus
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element GetStatus
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.client.Call] <?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><GetStatus xmlns="http://tempuri.org/"><ca>20-037841-00</ca><rev>A</rev></GetStatus></soapenv:Body></soapenv:Envelope>
+DEBUG main [org.apache.axis.client.AxisClient] Enter: AxisClient::invoke
+DEBUG main [org.apache.axis.client.AxisClient] EngineHandler: null
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(axisUserAgent)
+DEBUG main [org.apache.axis.SimpleChain] Enter: SimpleChain::invoke
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(enter00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Enter:  HTTPSender::invoke
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::saveChanges
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsd' - 'http://www.w3.org/2001/XMLSchema'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsi' - 'http://www.w3.org/2001/XMLSchema-instance'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register '' - 'http://tempuri.org/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:GetStatus
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element GetStatus
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_OPTIMIZED (currentMessage is now org.apache.axis.utils.ByteArray)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart::saveChanges(): org.apache.axis.utils.ByteArray@992bae
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(createdHTTP00)
+DEBUG main [org.apache.axis.components.net.DefaultSocketFactory] Created an insecure HTTP connection
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(xmlSent00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] XML sent:
+DEBUG main [org.apache.axis.transport.http.HTTPSender] ---------------------------------------------------
+DEBUG main [org.apache.axis.transport.http.HTTPSender] POST /HlmServices/CadArchive HTTP/1.0
+Content-Type: text/xml; charset=utf-8
+Accept: application/soap+xml, application/dime, multipart/related, text/*
+User-Agent: Axis/1.4
+Host: wwmfg.analog.com:8731
+Cache-Control: no-cache
+Pragma: no-cache
+SOAPAction: "http://tempuri.org/ICadArchiveWcf/GetStatus"
+Content-Length: 345
+
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><GetStatus xmlns="http://tempuri.org/"><ca>20-037841-00</ca><rev>A</rev></GetStatus></soapenv:Body></soapenv:Envelope>
+DEBUG main [org.apache.axis.transport.http.HTTPSender] HTTP/1.1 200 OK
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Keep-Alive true
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Content-Length 197
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Content-Type text/xml; charset=utf-8
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Server Microsoft-HTTPAPI/2.0
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Date Fri, 06 Dec 2013 07:56:36 GMT
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Connection close
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart ctor(FORM_INPUTSTREAM)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_INPUTSTREAM (currentMessage is now org.apache.axis.transport.http.SocketInputStream)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart ctor()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(xmlRecd00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] 
+XML received:
+DEBUG main [org.apache.axis.transport.http.HTTPSender] -----------------------------------------------
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_INPUTSTREAM
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.EnvelopeHandler@1c65216
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(s, http://schemas.xmlsoap.org/soap/envelope/)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.xmlsoap.org/soap/envelope/, Envelope)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.EnvelopeBuilder@ae533a
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element Envelope
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.xmlsoap.org/soap/envelope/, Body)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.BodyBuilder@8a0544
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.SOAPBody@15fc40c) named {s}Body
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(, http://tempuri.org/)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, GetStatusResponse)
+DEBUG main [org.apache.axis.message.BodyBuilder] Enter: BodyBuilder::onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.RPCElement@401369) named {}GetStatusResponse
+DEBUG main [org.apache.axis.message.BodyBuilder] Exit: BodyBuilder::onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.SOAPHandler@ba5bdb
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element GetStatusResponse
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, GetStatusResult)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.SOAPHandler@e49dcd
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.MessageElement@1343ed0) named {}GetStatusResult
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element GetStatusResult
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, GetStatusResult)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.SOAPHandler@e49dcd
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.RPCElement:GetStatusResponse
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, GetStatusResponse)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.SOAPHandler@ba5bdb
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.SOAPBody:Body
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.xmlsoap.org/soap/envelope/, Body)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.BodyBuilder@8a0544
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.SOAPEnvelope:Envelope
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.xmlsoap.org/soap/envelope/, Envelope)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.EnvelopeBuilder@ae533a
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to null
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping(s)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endDocument()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endDocument()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_SOAPENVELOPE (currentMessage is now org.apache.axis.message.SOAPEnvelope)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart::getAsSOAPEnvelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 's' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register '' - 'http://tempuri.org/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.startElement ['http://tempuri.org/' GetStatusResponse]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:GetStatusResponse
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.startElement ['http://tempuri.org/' GetStatusResult]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:GetStatusResult
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.characters ['1']
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.endElement ['http://tempuri.org/' GetStatusResult]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element GetStatusResult
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.endElement ['http://tempuri.org/' GetStatusResponse]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element GetStatusResponse
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element s:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element s:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><GetStatusResponse xmlns="http://tempuri.org/"><GetStatusResult>1</GetStatusResult></GetStatusResponse></s:Body></s:Envelope>
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(exit00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Exit:  HTTPDispatchHandler::invoke
+DEBUG main [org.apache.axis.SimpleChain] Exit: SimpleChain::invoke
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(semanticCheck00)
+DEBUG main [org.apache.axis.handlers.soap.MustUnderstandChecker] Doing SOAP semantic checks...
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.client.AxisClient] Exit: AxisClient::invoke
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.client.Call] Exit: Call::invoke()
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.EnvelopeHandler@e66f56
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(, http://tempuri.org/)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, GetStatusResponse)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.RPCHandler@979e8b
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, GetStatusResult)
+DEBUG main [org.apache.axis.message.RPCHandler] Enter: RPCHandler.onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(typeFromAttr00)
+DEBUG main [org.apache.axis.message.RPCHandler] Type from attributes is:  null
+DEBUG main [org.apache.axis.message.RPCHandler] Exit: RPCHandler.onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.encoding.ser.SimpleDeserializer@1cef4f7
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, GetStatusResult)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.encoding.ser.SimpleDeserializer@1cef4f7
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setValueInTarget00)
+DEBUG main [org.apache.axis.encoding.DeserializerImpl] Set value 1 in target org.apache.axis.message.RPCParamTarget@349471
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.RPCElement:GetStatusResponse
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, GetStatusResponse)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.RPCHandler@979e8b
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setProp00)
+DEBUG main [org.apache.axis.message.RPCHandler] Setting MessageContext property in RPCHandler.endElement().
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.SOAPBody:Body
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.client.Call] Exit: Call::invoke(RPCElement)
+DEBUG main [org.apache.axis.client.Call] Exit: Call::invoke(ns, meth, args)
+DEBUG main [org.apache.axis.TIME] axis.Call.invoke: 1169 {http://tempuri.org/}GetStatus
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(transport00)
+DEBUG main [org.apache.axis.client.Call] Transport is org.apache.axis.transport.http.HTTPTransport@3bc473
+DEBUG main [org.apache.axis.client.Call] Enter: Call::invoke(ns, meth, args)
+DEBUG main [org.apache.axis.client.Call] operation=name:        CheckOut
+returnQName: {http://tempuri.org/}CheckOutResult
+returnType:  {http://schemas.datacontract.org/2004/07/Hlm.App.Services}CheckInOutResponse
+returnClass: class hlm.wcf.CheckInOutResponse
+elementQName:null
+soapAction:  null
+style:       wrapped
+use:         literal
+numInParams: 3
+method:null
+ ParameterDesc[0]:
+  name:       {http://tempuri.org/}username
+  typeEntry:  null
+  mode:       IN
+  position:   0
+  isReturn:   false
+  typeQName:  {http://www.w3.org/2001/XMLSchema}string
+  javaType:   class java.lang.String
+  inHeader:   false
+  outHeader:  false
+
+ ParameterDesc[1]:
+  name:       {http://tempuri.org/}ca
+  typeEntry:  null
+  mode:       IN
+  position:   1
+  isReturn:   false
+  typeQName:  {http://www.w3.org/2001/XMLSchema}string
+  javaType:   class java.lang.String
+  inHeader:   false
+  outHeader:  false
+
+ ParameterDesc[2]:
+  name:       {http://tempuri.org/}rev
+  typeEntry:  null
+  mode:       IN
+  position:   2
+  isReturn:   false
+  typeQName:  {http://www.w3.org/2001/XMLSchema}string
+  javaType:   class java.lang.String
+  inHeader:   false
+  outHeader:  false
+
+
+DEBUG main [org.apache.axis.client.Call] operation.getNumParams()=3
+DEBUG main [org.apache.axis.client.Call] getParamList number of params: 3
+DEBUG main [org.apache.axis.client.Call] Enter: Call::invoke(RPCElement)
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart ctor(FORM_SOAPENVELOPE)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_SOAPENVELOPE (currentMessage is now org.apache.axis.message.SOAPEnvelope)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart ctor()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(addBody00)
+DEBUG main [org.apache.axis.message.SOAPBody] Adding body element to message...
+DEBUG main [org.apache.axis.client.Call] Enter: Call::invoke()
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setTargetService(CadArchive)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(noService10)
+DEBUG main [org.apache.axis.ConfigurationException] Exception: 
+org.apache.axis.ConfigurationException: No service named CadArchive is available
+org.apache.axis.ConfigurationException: No service named CadArchive is available
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.client.Call.invoke(Call.java:2690)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.checkOut(CadArchiveStub.java:238)
+	at hlm.client.HttpClientImpl.checkout(HttpClientImpl.java:91)
+	at hlm.client.ScmManagerImpl.checkout(ScmManagerImpl.java:69)
+	at hlm.client.VaultIO.checkout(VaultIO.java:191)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.client.Call.invoke(Call.java:2690)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.checkOut(CadArchiveStub.java:238)
+	at hlm.client.HttpClientImpl.checkout(HttpClientImpl.java:91)
+	at hlm.client.ScmManagerImpl.checkout(ScmManagerImpl.java:69)
+	at hlm.client.VaultIO.checkout(VaultIO.java:191)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setServiceHandler(null)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(targetService)
+DEBUG main [org.apache.axis.client.Call] Target service:  CadArchive
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setTargetService(http://tempuri.org/ICadArchiveWcf/CheckOut)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(noService10)
+DEBUG main [org.apache.axis.ConfigurationException] Exception: 
+org.apache.axis.ConfigurationException: No service named http://tempuri.org/ICadArchiveWcf/CheckOut is available
+org.apache.axis.ConfigurationException: No service named http://tempuri.org/ICadArchiveWcf/CheckOut is available
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.transport.http.HTTPTransport.setupMessageContextImpl(HTTPTransport.java:89)
+	at org.apache.axis.client.Transport.setupMessageContext(Transport.java:46)
+	at org.apache.axis.client.Call.invoke(Call.java:2738)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.checkOut(CadArchiveStub.java:238)
+	at hlm.client.HttpClientImpl.checkout(HttpClientImpl.java:91)
+	at hlm.client.ScmManagerImpl.checkout(ScmManagerImpl.java:69)
+	at hlm.client.VaultIO.checkout(VaultIO.java:191)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+
+	at org.apache.axis.configuration.FileProvider.getService(FileProvider.java:233)
+	at org.apache.axis.AxisEngine.getService(AxisEngine.java:311)
+	at org.apache.axis.MessageContext.setTargetService(MessageContext.java:756)
+	at org.apache.axis.transport.http.HTTPTransport.setupMessageContextImpl(HTTPTransport.java:89)
+	at org.apache.axis.client.Transport.setupMessageContext(Transport.java:46)
+	at org.apache.axis.client.Call.invoke(Call.java:2738)
+	at org.apache.axis.client.Call.invoke(Call.java:2443)
+	at org.apache.axis.client.Call.invoke(Call.java:2366)
+	at org.apache.axis.client.Call.invoke(Call.java:1812)
+	at hlm.wcf.CadArchiveStub.checkOut(CadArchiveStub.java:238)
+	at hlm.client.HttpClientImpl.checkout(HttpClientImpl.java:91)
+	at hlm.client.ScmManagerImpl.checkout(ScmManagerImpl.java:69)
+	at hlm.client.VaultIO.checkout(VaultIO.java:191)
+	at hlm.client.VaultIO.main(VaultIO.java:441)
+DEBUG main [org.apache.axis.MessageContext] MessageContext: setServiceHandler(null)
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsd' - 'http://www.w3.org/2001/XMLSchema'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsi' - 'http://www.w3.org/2001/XMLSchema-instance'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register '' - 'http://tempuri.org/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:CheckOut
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:username
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element username
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element CheckOut
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.client.Call] <?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><CheckOut xmlns="http://tempuri.org/"><username>JRamos6</username><ca>20-037841-00</ca><rev>A</rev></CheckOut></soapenv:Body></soapenv:Envelope>
+DEBUG main [org.apache.axis.client.AxisClient] Enter: AxisClient::invoke
+DEBUG main [org.apache.axis.client.AxisClient] EngineHandler: null
+DEBUG main [org.apache.axis.SimpleChain] Enter: SimpleChain::invoke
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(enter00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Enter:  HTTPSender::invoke
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::saveChanges
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'soapenv' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsd' - 'http://www.w3.org/2001/XMLSchema'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'xsi' - 'http://www.w3.org/2001/XMLSchema-instance'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register '' - 'http://tempuri.org/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:CheckOut
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:username
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element username
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element ca
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element rev
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element CheckOut
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element soapenv:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_OPTIMIZED (currentMessage is now org.apache.axis.utils.ByteArray)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart::saveChanges(): org.apache.axis.utils.ByteArray@6e4365
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(createdHTTP00)
+DEBUG main [org.apache.axis.components.net.DefaultSocketFactory] Created an insecure HTTP connection
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(xmlSent00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] XML sent:
+DEBUG main [org.apache.axis.transport.http.HTTPSender] ---------------------------------------------------
+DEBUG main [org.apache.axis.transport.http.HTTPSender] POST /HlmServices/CadArchive HTTP/1.0
+Content-Type: text/xml; charset=utf-8
+Accept: application/soap+xml, application/dime, multipart/related, text/*
+User-Agent: Axis/1.4
+Host: wwmfg.analog.com:8731
+Cache-Control: no-cache
+Pragma: no-cache
+SOAPAction: "http://tempuri.org/ICadArchiveWcf/CheckOut"
+Content-Length: 371
+
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><CheckOut xmlns="http://tempuri.org/"><username>JRamos6</username><ca>20-037841-00</ca><rev>A</rev></CheckOut></soapenv:Body></soapenv:Envelope>
+DEBUG main [org.apache.axis.transport.http.HTTPSender] HTTP/1.1 200 OK
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Keep-Alive true
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Content-Length 402
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Content-Type text/xml; charset=utf-8
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Server Microsoft-HTTPAPI/2.0
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Date Fri, 06 Dec 2013 07:56:37 GMT
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Connection close
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart ctor(FORM_INPUTSTREAM)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_INPUTSTREAM (currentMessage is now org.apache.axis.transport.http.SocketInputStream)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart ctor()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(xmlRecd00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] 
+XML received:
+DEBUG main [org.apache.axis.transport.http.HTTPSender] -----------------------------------------------
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_INPUTSTREAM
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.EnvelopeHandler@7eb366
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(s, http://schemas.xmlsoap.org/soap/envelope/)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.xmlsoap.org/soap/envelope/, Envelope)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.EnvelopeBuilder@33f0de
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element Envelope
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.xmlsoap.org/soap/envelope/, Body)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.BodyBuilder@ab444
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.SOAPBody@c0f1ec) named {s}Body
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(, http://tempuri.org/)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, CheckOutResponse)
+DEBUG main [org.apache.axis.message.BodyBuilder] Enter: BodyBuilder::onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.RPCElement@14acfcd) named {}CheckOutResponse
+DEBUG main [org.apache.axis.message.BodyBuilder] Exit: BodyBuilder::onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.SOAPHandler@90d8ea
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element CheckOutResponse
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(a, http://schemas.datacontract.org/2004/07/Hlm.App.Services)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(i, http://www.w3.org/2001/XMLSchema-instance)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, CheckOutResult)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.SOAPHandler@19113f8
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.MessageElement@1b62aab) named {}CheckOutResult
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element CheckOutResult
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Message)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.SOAPHandler@ab54eb
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.MessageElement@542529) named {a}Message
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element Message
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Message)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.SOAPHandler@ab54eb
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.MessageElement:CheckOutResult
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Result)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.SOAPHandler@53ab04
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(newElem00)
+DEBUG main [org.apache.axis.message.MessageElement] New MessageElement (org.apache.axis.message.MessageElement@100bac2) named {a}Result
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing element Result
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Result)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.SOAPHandler@53ab04
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.MessageElement:CheckOutResult
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, CheckOutResult)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.SOAPHandler@19113f8
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.RPCElement:CheckOutResponse
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping(a)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping(i)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, CheckOutResponse)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.SOAPHandler@90d8ea
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.SOAPBody:Body
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.xmlsoap.org/soap/envelope/, Body)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.BodyBuilder@ab444
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.SOAPEnvelope:Envelope
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.xmlsoap.org/soap/envelope/, Envelope)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.EnvelopeBuilder@33f0de
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to null
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping(s)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endDocument()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endDocument()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setMsgForm)
+DEBUG main [org.apache.axis.SOAPPart] Setting current message form to: FORM_SOAPENVELOPE (currentMessage is now org.apache.axis.message.SOAPEnvelope)
+DEBUG main [org.apache.axis.SOAPPart] Exit: SOAPPart::getAsSOAPEnvelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 's' - 'http://schemas.xmlsoap.org/soap/envelope/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.xmlsoap.org/soap/envelope/]:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register '' - 'http://tempuri.org/'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.startElement ['http://tempuri.org/' CheckOutResponse]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:CheckOutResponse
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'a' - 'http://schemas.datacontract.org/2004/07/Hlm.App.Services'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(register00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] register 'i' - 'http://www.w3.org/2001/XMLSchema-instance'
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.startElement ['http://tempuri.org/' CheckOutResult]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://tempuri.org/]:CheckOutResult
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.startElement ['http://schemas.datacontract.org/2004/07/Hlm.App.Services' Message]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.datacontract.org/2004/07/Hlm.App.Services]:Message
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.characters ['CADArchive\20-037841-01\A\20-037841-00A.zip']
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.endElement ['http://schemas.datacontract.org/2004/07/Hlm.App.Services' Message]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element a:Message
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.startElement ['http://schemas.datacontract.org/2004/07/Hlm.App.Services' Result]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(startElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] Start element [http://schemas.datacontract.org/2004/07/Hlm.App.Services]:Result
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.characters ['true']
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.endElement ['http://schemas.datacontract.org/2004/07/Hlm.App.Services' Result]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element a:Result
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.endElement ['http://tempuri.org/' CheckOutResult]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element CheckOutResult
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.message.SAXOutputter] SAXOutputter.endElement ['http://tempuri.org/' CheckOutResponse]
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element CheckOutResponse
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element s:Body
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(endElem00)
+DEBUG main [org.apache.axis.encoding.SerializationContext] End element s:Envelope
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><CheckOutResponse xmlns="http://tempuri.org/"><CheckOutResult xmlns:a="http://schemas.datacontract.org/2004/07/Hlm.App.Services" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><a:Message>CADArchive\20-037841-01\A\20-037841-00A.zip</a:Message><a:Result>true</a:Result></CheckOutResult></CheckOutResponse></s:Body></s:Envelope>
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(exit00)
+DEBUG main [org.apache.axis.transport.http.HTTPSender] Exit:  HTTPDispatchHandler::invoke
+DEBUG main [org.apache.axis.SimpleChain] Exit: SimpleChain::invoke
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(semanticCheck00)
+DEBUG main [org.apache.axis.handlers.soap.MustUnderstandChecker] Doing SOAP semantic checks...
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.client.AxisClient] Exit: AxisClient::invoke
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.client.Call] Exit: Call::invoke()
+DEBUG main [org.apache.axis.SOAPPart] Enter: SOAPPart::getAsSOAPEnvelope()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(currForm)
+DEBUG main [org.apache.axis.SOAPPart] current form is FORM_SOAPENVELOPE
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.EnvelopeHandler@6b9c84
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(, http://tempuri.org/)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, CheckOutResponse)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.message.RPCHandler@f0b7f8
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(a, http://schemas.datacontract.org/2004/07/Hlm.App.Services)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startPrefixMapping(i, http://www.w3.org/2001/XMLSchema-instance)
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://tempuri.org/, CheckOutResult)
+DEBUG main [org.apache.axis.message.RPCHandler] Enter: RPCHandler.onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(typeFromAttr00)
+DEBUG main [org.apache.axis.message.RPCHandler] Type from attributes is:  null
+DEBUG main [org.apache.axis.message.RPCHandler] Exit: RPCHandler.onStartChild()
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.encoding.ser.BeanDeserializer@1be16f5
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Message)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.encoding.ser.SimpleDeserializer@90832e
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Message)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.encoding.ser.SimpleDeserializer@90832e
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setValueInTarget00)
+DEBUG main [org.apache.axis.encoding.DeserializerImpl] Set value CADArchive\20-037841-01\A\20-037841-00A.zip in target org.apache.axis.encoding.ser.BeanPropertyTarget@1724a9d
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setValueInTarget00)
+DEBUG main [org.apache.axis.encoding.DeserializerImpl] Set value CADArchive\20-037841-01\A\20-037841-00A.zip in target org.apache.axis.encoding.CallbackTarget@18166e5
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.MessageElement:CheckOutResult
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::startElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Result)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(pushHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Pushing handler org.apache.axis.encoding.ser.SimpleDeserializer@b02928
+DEBUG main [org.apache.axis.utils.NSStack] NSPush (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::startElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://schemas.datacontract.org/2004/07/Hlm.App.Services, Result)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.encoding.ser.SimpleDeserializer@b02928
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setValueInTarget00)
+DEBUG main [org.apache.axis.encoding.DeserializerImpl] Set value true in target org.apache.axis.encoding.ser.BeanPropertyTarget@15e234c
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setValueInTarget00)
+DEBUG main [org.apache.axis.encoding.DeserializerImpl] Set value true in target org.apache.axis.encoding.CallbackTarget@15f7107
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.MessageElement:CheckOutResult
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, CheckOutResult)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.encoding.ser.BeanDeserializer@1be16f5
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setValueInTarget00)
+DEBUG main [org.apache.axis.encoding.DeserializerImpl] Set value hlm.wcf.CheckInOutResponse@4cc65cce in target org.apache.axis.message.RPCParamTarget@f593af
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (32)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.RPCElement:CheckOutResponse
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping(a)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endPrefixMapping(i)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endPrefixMapping()
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Enter: DeserializationContext::endElement(http://tempuri.org/, CheckOutResponse)
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(popHandler00)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popping handler org.apache.axis.message.RPCHandler@f0b7f8
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(setProp00)
+DEBUG main [org.apache.axis.message.RPCHandler] Setting MessageContext property in RPCHandler.endElement().
+DEBUG main [org.apache.axis.i18n.ProjectResourceBundle] org.apache.axis.i18n.resource::handleGetObject(empty00)
+DEBUG main [org.apache.axis.utils.NSStack] NSPop (empty)
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Popped element stack to org.apache.axis.message.SOAPBody:Body
+DEBUG main [org.apache.axis.encoding.DeserializationContext] Exit: DeserializationContext::endElement()
+DEBUG main [org.apache.axis.client.Call] Exit: Call::invoke(RPCElement)
+DEBUG main [org.apache.axis.client.Call] Exit: Call::invoke(ns, meth, args)
+DEBUG main [org.apache.axis.TIME] axis.Call.invoke: 1156 {http://tempuri.org/}CheckOut

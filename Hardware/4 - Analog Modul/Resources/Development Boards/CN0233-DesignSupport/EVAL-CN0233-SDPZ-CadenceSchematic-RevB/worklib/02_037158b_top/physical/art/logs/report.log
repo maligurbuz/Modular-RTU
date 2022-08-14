@@ -1,0 +1,30 @@
+- I - 191213-14:19
+- I - Board No. 08-037158
+- I - Board Rev. b
+
+
+- W - fab1 created with warnings
+- I - fab2 created.
+- I - assy1 created.
+- I - l1_primary created.
+- I - l2_gnd created.
+- I - l3_pwr created.
+- I - l4_secondary created.
+- I - silk_prm created.
+- I - mask_prm created.
+- I - silk_sec created.
+- I - mask_sec created.
+- I - paste_prm created.
+
+- I - If any artwork was "created with warnings" you MUST check these warnings in the photoplot.log
+
+
+- I - dbfix                   OK
+- I - check for 0 linewidth   OK
+- I - PDF creation            OK
+- I - mkart run status        OK
+- I - ALL warnings (marked "- W -") must be followed up and Waived
+
+- W - ipc356_out did not complete cleanly, Check ipc356_out.log
+
+- I - 191213-14:22

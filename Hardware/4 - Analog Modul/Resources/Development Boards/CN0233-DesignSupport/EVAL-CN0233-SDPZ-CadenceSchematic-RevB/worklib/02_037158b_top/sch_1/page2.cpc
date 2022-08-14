@@ -1,0 +1,150 @@
+#ISCELL
+  adi_standard adi_d_size_page *
+  *
+#ISCELL
+  power_ground gnd_iso *
+  page2_i10
+#ISCELL
+  power_ground gnd_iso *
+  page2_i13
+#CELL
+  diodes dio_v3 *
+  page2_i135
+#CELL
+  diodes dio_v3 *
+  page2_i136
+#CELL
+  diodes dioschottky3p_v7 *
+  page2_i137
+#CELL
+  diodes dioschottky3p_v7 *
+  page2_i138
+#CELL
+  nocomponent nctestpad *
+  page2_i139
+#CELL
+  nocomponent nctestpad *
+  page2_i140
+#CELL
+  nocomponent nctestpad *
+  page2_i141
+#CELL
+  nocomponent nctestpad *
+  page2_i142
+#ISCELL
+  power_ground gnd_iso *
+  page2_i146
+#CELL
+  diodes dioled *
+  page2_i147
+#CELL
+  resistors res *
+  page2_i148
+#CELL
+  nocomponent nctestpad *
+  page2_i149
+#CELL
+  capacitors cap *
+  page2_i156
+#CELL
+  capacitors cap *
+  page2_i157
+#CELL
+  capacitors cap *
+  page2_i158
+#CELL
+  capacitors cap *
+  page2_i160
+#CELL
+  resistors res *
+  page2_i162
+#CELL
+  conn_pcb cn2p *
+  page2_i165
+#CELL
+  conn_pcb cn2p *
+  page2_i166
+#CELL
+  conn_pcb cn2p *
+  page2_i167
+#CELL
+  ic_adi ad54x2 *
+  page2_i3
+#CELL
+  capacitors cap *
+  page2_i31
+#CELL
+  capacitors cap *
+  page2_i32
+#CELL
+  ic_adi adr441 *
+  page2_i4
+#CELL
+  capacitors cap *
+  page2_i40
+#ISCELL
+  power_ground gnd_iso *
+  page2_i41
+#CELL
+  resistors res *
+  page2_i42
+#ISCELL
+  power_ground gnd_iso *
+  page2_i43
+#ISCELL
+  power_ground gnd_iso *
+  page2_i44
+#CELL
+  capacitors cap *
+  page2_i45
+#CELL
+  capacitors cap *
+  page2_i47
+#ISCELL
+  power_ground gnd_iso *
+  page2_i49
+#ISCELL
+  power_ground gnd_iso *
+  page2_i50
+#ISCELL
+  power_ground gnd_iso *
+  page2_i52
+#ISCELL
+  power_ground gnd_iso *
+  page2_i53
+#ISCELL
+  power_ground gnd_iso *
+  page2_i54
+#ISCELL
+  power_ground gnd_iso *
+  page2_i56
+#ISCELL
+  power_ground gnd_iso *
+  page2_i58
+#CELL
+  capacitors cap *
+  page2_i61
+#ISCELL
+  power_ground gnd_iso *
+  page2_i62
+#CELL
+  capacitors cap *
+  page2_i65
+#ISCELL
+  power_ground gnd_iso *
+  page2_i9
+#CELL
+  capacitors cap *
+  page2_i90
+#CELL
+  capacitors cap *
+  page2_i91
+#CELL
+  capacitors cap *
+  page2_i92
+#CELL
+  capacitors cap *
+  page2_i93
+#CELL
+  capacitors cap *
+  page2_i94

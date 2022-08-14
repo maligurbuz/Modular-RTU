@@ -1,0 +1,172 @@
+(Cell	nctestpad
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/13/13,22:21:33)
+
+			(User	ABOAC)
+
+			(Path	allegro_165.nctestpad)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000055a6846f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/13/13,22:21:33)
+
+							(User	ABOAC)
+
+							(Path	allegro_165.nctestpad)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b8d038a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000db1070ca)
+
+			(Primitives	1
+
+				(Primitive	NCTESTPAD_TH
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/13/13,22:21:33)
+
+							(User	ABOAC)
+
+							(Path	allegro_165.nctestpad)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	NCTESTPAD
+
+							(PackType	NCTESTPAD_TH)
+
+							(PackType	NCTESTPAD_SM)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	TPC290D250)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cda038e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S043 (v16-5-13CZ))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d7803da)
+
+)
+

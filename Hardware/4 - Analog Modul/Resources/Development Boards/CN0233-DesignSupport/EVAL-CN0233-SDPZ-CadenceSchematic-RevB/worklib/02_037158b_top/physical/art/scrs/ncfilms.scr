@@ -1,0 +1,50 @@
+# Allegro script
+version 15.7
+
+setwindow pcb
+
+shape global param
+setwindow form.dyn_xshape
+FORM dyn_xshape void_controls
+FORM dyn_xshape art_format Gerber RS274X
+FORM dyn_xshape done
+
+setwindow pcb
+generaledit
+prmed
+setwindow form.prmedit
+FORM prmedit design
+FORM prmedit units mils
+FORM prmedit accuracy 
+FORM prmedit done  
+
+setwindow pcb
+define subclass
+setwindow form.subclass
+
+done
+
+setwindow pcb
+
+film param 
+setwindow form.film_control
+FORM film_control filmtree  TOP 
+FORM film_control load  
+fillin ncloadfilm.txt
+setwindow form.film_control
+FORM film_control filmtree  fab
+FORM film_control filmtree popup Display fab
+FORM film_control ok
+color -globvis off
+color -vis "MANUFACTURING/PHOTOPLOT_OUTLINE"
+setwindow pcb
+delete
+group
+drag_start -8200.0 -12025.0
+drag_stop 31800.0 17975.0
+done
+pop cut
+done
+setwindow pcb
+exit
+fillin YES

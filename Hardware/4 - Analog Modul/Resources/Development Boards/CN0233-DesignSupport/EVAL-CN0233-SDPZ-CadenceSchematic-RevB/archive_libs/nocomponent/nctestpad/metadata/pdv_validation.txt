@@ -1,0 +1,17 @@
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc290d250.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc75d45.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint pad160t100br90.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc50d30.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc63d35.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc70d35.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpsmc30.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc65d45.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc30d15.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc3.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpob180x90.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpsmsq90.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tps50d30.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc100d80.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpsmc40.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpsmsq50.psm,Information
+SPLBBK-5,Package 'NCTESTPAD_TH':Pin numbers extracted from footprint tpc290d250.psm,Information

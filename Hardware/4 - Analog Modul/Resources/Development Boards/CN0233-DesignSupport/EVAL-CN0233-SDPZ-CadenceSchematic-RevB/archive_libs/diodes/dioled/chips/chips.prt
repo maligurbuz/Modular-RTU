@@ -1,0 +1,46 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DIOLED_TH';
+  pin
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIOLED';
+    BODY_NAME='DIOLED';
+    JEDEC_TYPE='DLEDSTT1R75H450';
+    PHYS_DES_PREFIX='DS';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DIOLED_SM';
+  pin
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIOLED';
+    BODY_NAME='DIOLED';
+    JEDEC_TYPE='DLEDSTT1R75H450';
+    PHYS_DES_PREFIX='DS';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

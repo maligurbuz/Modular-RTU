@@ -1,0 +1,22 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADR441'
+CLASS=IC
+PINCOUNT=8
+
+{===============================================================================================}
+:VALUE | WW_PN | PACK_TYPE | JEDEC_TYPE | IMPLEMENTATION = HLM_STATUS | DESCRIPTION | MFG | MFG_PN | VALUE | CASE  | JEDEC_TYPE | PIN_COUNT | VOLTAGE | URL       | TOL | PPM | STOCKROOM_WL | STOCKROOM_LK | STOCKROOM_GT | STOCKROOM_SJ | STOCKROOM_GBO | ROHS | OTR | WW_PN | ALT_PN1 | ALT_PN2 | SCD | IMPLEMENTATION ;
+{===============================================================================================}
+'ADR441BR'  |  'E004732'  |  'SM'  |  'SO8'  |  'N/A'  =  'OBS'  |  'ULTRALOW NOISE, LDO XFET VOLTAGE REFERENCES WITH CURRENT SINK AND SOURCE'  |  'ADI'  |  'ADR441BR'  |  'ADR441BR'  |  'SO8'  |  'SO8'  |  '8'  |  ''  |  'www.analog.com'  |  ''  |  ''  |  'OBSOLETE'  |  ''  |  ''  |  ''  |  ''  |  'N'  |  '-40C TO 125C'  |  'E004732'  |  'E004959'  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR441BRZ'  |  'E004959'  |  'SM'  |  'SO8'  |  'N/A'  =  'REL'  |  'ULTRALOW NOISE, LDO XFET VOLTAGE REFERENCES WITH CURRENT SINK AND SOURCE'  |  'ADI'  |  'ADR441BRZ'  |  'ADR441BRZ'  |  'SO8'  |  'SO8'  |  '8'  |  ''  |  'www.analog.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E004959'  |  ''  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR444BR'  |  'E004733'  |  'SM'  |  'SO8'  |  'N/A'  =  'OBS'  |  'ULTRALOW NOISE, LDO XFET VOLTAGE REFERENCES WITH CURRENT SINK AND SOURCE'  |  'ADI'  |  'ADR444BR'  |  'ADR444BR'  |  'SO8'  |  'SO8'  |  '8'  |  ''  |  'www.analog.com'  |  ''  |  ''  |  'OBSOLETE'  |  ''  |  '40901DG835'  |  ''  |  ''  |  'N'  |  '-40C TO 125C'  |  'E004733'  |  'E004960'  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR444BRZ'  |  'E004960'  |  'SM'  |  'SO8'  |  'N/A'  =  'REL'  |  'ULTRALOW NOISE, LDO XFET VOLTAGE REFERENCES WITH CURRENT SINK AND SOURCE'  |  'ADI'  |  'ADR444BRZ'  |  'ADR444BRZ'  |  'SO8'  |  'SO8'  |  '8'  |  ''  |  'www.analog.com'  |  ''  |  ''  |  ''  |  ''  |  '40901DG835'  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E004960'  |  ''  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR440ARMZ'  |  'E008135'  |  'SM'  |  'MSOP8'  |  'N/A'  =  'REL'  |  'ULTRALOW NOISE LDO XFET VOLTAGE REFERENCES WITH CURRENT SINK AND SOURCE'  |  'ADI'  |  'ADR440ARMZ'  |  'ADR440ARMZ'  |  'MSOP8'  |  'MSOP8'  |  '8'  |  '2.048V'  |  'www.analog.com'  |  ''  |  ''  |  'A999-0440-002'  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E008135'  |  ''  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR440BRZ'  |  'E010870'  |  'SM'  |  'SO8'  |  'N/A'  =  'REL'  |  'ULTRALOW NOISE LDO XFET VOLTAGE REFERENCES WITH CURRENT SINK AND SOURCE'  |  'ADI'  |  'ADR440BRZ'  |  'ADR440BRZ'  |  'SO8'  |  'SO8'  |  '8'  |  '2.048V'  |  'www.analog.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E010870'  |  ''  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR445BRZ'  |  'E012504'  |  'SM'  |  'SO8'  |  'N/A'  =  'REL'  |  'ULTRALOW NOISE LDO XFET VOLTAGE REFERENCES WITH CURRENT SINK AND SOURCE'  |  'ADI'  |  'ADR445BRZ'  |  'ADR445BRZ'  |  'SO8'  |  'SO8'  |  '8'  |  '5V'  |  'www.analog.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E012504'  |  ''  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR441ARMZ'  |  'E013819'  |  'SM'  |  'MSOP8'  |  'N/A'  =  'REL'  |  'IC-ADI ULW NOISE LDO XFET VREF'  |  'ADI'  |  'ADR441ARMZ'  |  'ADR441ARMZ'  |  'MSOP8'  |  'MSOP8'  |  '8'  |  ''  |  'www.analog.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E013819'  |  ''  |  ''  |  'SCD-001236'  |  'N/A'
+'ADR443BRZ'  |  'E016085'  |  'SM'  |  'SO8'  |  'N/A'  =  'REL'  |  'IC-ADI ULW NOISE LDO XFET VREF'  |  'ADI'  |  'ADR443BRZ'  |  'ADR443BRZ'  |  'SO8'  |  'SO8'  |  '8'  |  ''  |  'www.analog.com'  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  ''  |  'Y'  |  '-40C TO 125C'  |  'E016085'  |  ''  |  ''  |  'SCD-001236'  |  'N/A'
+
+END_PART
+
+END.

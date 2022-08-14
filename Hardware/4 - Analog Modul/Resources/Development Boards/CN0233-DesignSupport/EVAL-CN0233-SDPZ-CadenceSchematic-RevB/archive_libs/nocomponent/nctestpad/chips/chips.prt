@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'NCTESTPAD_TH','NCTESTPAD_SM';
+  pin
+    'N1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='NCTESTPAD';
+    BODY_NAME='NCTESTPAD';
+    JEDEC_TYPE='TPC290D250';
+    PHYS_DES_PREFIX='TP';
+    CLASS='IO';
+  end_body;
+end_primitive;
+
+END.

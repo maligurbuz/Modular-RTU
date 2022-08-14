@@ -1,0 +1,46 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DIOSCHOTTKY_TH';
+  pin
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIOSCHOTTKY';
+    BODY_NAME='DIOSCHOTTKY';
+    JEDEC_TYPE='DO214AA1';
+    PHYS_DES_PREFIX='D';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DIOSCHOTTKY_SM';
+  pin
+    'P':
+      PIN_NUMBER='(A)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N':
+      PIN_NUMBER='(C)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='DIOSCHOTTKY';
+    BODY_NAME='DIOSCHOTTKY';
+    JEDEC_TYPE='DO214AA1';
+    PHYS_DES_PREFIX='D';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

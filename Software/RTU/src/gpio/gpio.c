@@ -1,0 +1,89 @@
+#include "gpio.h"
+
+
+static void RTU_GPIO_SET_INOUT(RTU_GPIO_STRUCT *RTU_Gpio_Struct){
+
+	RTU_Gpio_Struct->RTU_InitTypdef=&RTU_GPIO_INIT_TYPEDEF;
+
+	RTU_Gpio_Struct->RTU_InitTypdef->GPIO_Pin=RTU_Gpio_Struct->Pin;
+	RTU_Gpio_Struct->RTU_InitTypdef->GPIO_Mode=RTU_Gpio_Struct->Direction;
+	if(RTU_Gpio_Struct->Direction==GPIO_Mode_IN)
+	RTU_Gpio_Struct->RTU_InitTypdef->GPIO_OType=GPIO_OType_OD;
+	if(RTU_Gpio_Struct->Direction==GPIO_Mode_OUT)
+		RTU_Gpio_Struct->RTU_InitTypdef->GPIO_OType=GPIO_OType_PP;
+	if(RTU_Gpio_Struct->Direction==GPIO_Mode_OUT)
+	RTU_Gpio_Struct->RTU_InitTypdef->GPIO_PuPd=GPIO_PuPd_NOPULL;
+	RTU_Gpio_Struct->RTU_InitTypdef->GPIO_Speed=GPIO_Speed_100MHz;
+}
+static void RTU_PORT_PIN_INIT(RTU_GPIO_STRUCT *RTU_Gpio_Struct ){
+
+	RCC_AHB1PeriphClockCmd(RTU_Gpio_Struct->RTU_Rcc, ENABLE);
+	RTU_GPIO_SET_INOUT(RTU_Gpio_Struct);
+	GPIO_Init(RTU_Gpio_Struct->Port,RTU_Gpio_Struct->RTU_InitTypdef);
+}
+
+void RTU_GPIO_INIT(void){
+
+#ifdef USE_SIMCARD_DETECTED
+		SIMCARD_DETECTED.Port=GPIOG;
+		SIMCARD_DETECTED.RTU_Rcc=RCC_AHB1Periph_GPIOG;
+		SIMCARD_DETECTED.Direction=GPIO_Mode_IN;
+		SIMCARD_DETECTED.Pin=GPIO_Pin_9;
+		RTU_PORT_PIN_INIT(&SIMCARD_DETECTED);
+#endif
+
+#ifdef USE_RUN_LED
+		RUN_LED.Port=GPIOG;
+		RUN_LED.RTU_Rcc=RCC_AHB1Periph_GPIOG;
+		RUN_LED.Direction=GPIO_Mode_OUT;
+		RUN_LED.Pin=GPIO_Pin_0;
+		RTU_PORT_PIN_INIT(&RUN_LED);
+#endif
+
+#ifdef USE_MODEM_RESET_PIN
+		MODEM_RESET_PIN.Port=GPIOG;
+		MODEM_RESET_PIN.RTU_Rcc=RCC_AHB1Periph_GPIOG;
+		MODEM_RESET_PIN.Direction=GPIO_Mode_OUT;
+		MODEM_RESET_PIN.Pin=GPIO_Pin_15;
+		RTU_PORT_PIN_INIT(&MODEM_RESET_PIN);
+		GPIO_ResetBits(MODEM_RESET_PIN.Port,MODEM_RESET_PIN.Pin);
+#endif
+
+#ifdef USE_MODEM_WWAN_ONOFF_PIN
+		MODEM_WWAN_ONOFF_PIN.Port=GPIOG;
+		MODEM_WWAN_ONOFF_PIN.RTU_Rcc=RCC_AHB1Periph_GPIOG;
+		MODEM_WWAN_ONOFF_PIN.Direction=GPIO_Mode_OUT;
+		MODEM_WWAN_ONOFF_PIN.Pin=GPIO_Pin_12;
+		RTU_PORT_PIN_INIT(&MODEM_WWAN_ONOFF_PIN);
+		GPIO_ResetBits(MODEM_WWAN_ONOFF_PIN.Port,MODEM_WWAN_ONOFF_PIN.Pin);
+#endif
+
+#ifdef USE_MODEM_ONOFF_PIN
+		MODEM_ONOFF_PIN.Port=GPIOE;
+		MODEM_ONOFF_PIN.RTU_Rcc=RCC_AHB1Periph_GPIOE;
+		MODEM_ONOFF_PIN.Direction=GPIO_Mode_OUT;
+		MODEM_ONOFF_PIN.Pin=GPIO_Pin_0;
+		RTU_PORT_PIN_INIT(&MODEM_ONOFF_PIN);
+		GPIO_ResetBits(MODEM_ONOFF_PIN.Port,MODEM_ONOFF_PIN.Pin);
+#endif
+
+}
+void MODEM_RESET (void){
+	GPIO_SetBits(MODEM_RESET_PIN.Port,MODEM_RESET_PIN.Pin);
+	Delay(155);
+	GPIO_ResetBits(MODEM_RESET_PIN.Port,MODEM_RESET_PIN.Pin);
+}
+void MODEM_WWAN_ON (void){
+	GPIO_ResetBits(MODEM_WWAN_ONOFF_PIN.Port,MODEM_WWAN_ONOFF_PIN.Pin);
+}
+void MODEM_WWAN_OFF (void){
+	GPIO_ResetBits(MODEM_WWAN_ONOFF_PIN.Port,MODEM_WWAN_ONOFF_PIN.Pin);
+}
+
+
+void MODEM_OFF (void){
+	GPIO_SetBits(MODEM_ONOFF_PIN.Port,MODEM_ONOFF_PIN.Pin);
+}
+void MODEM_ON (void){
+	GPIO_ResetBits(MODEM_ONOFF_PIN.Port,MODEM_ONOFF_PIN.Pin);
+}

@@ -1,0 +1,250 @@
+(Cell	adp7104
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	6.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Modified)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/11/10,07:49:09)
+
+			(User	knamacpa)
+
+			(Path	allegro_162.adp7104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/15/10,12:00:41)
+
+			(User	JGebora)
+
+			(Path	created.adp7104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000565e569b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	2.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:47:14)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a79e5d6c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	3.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,16:46:37)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/15/10,12:00:41)
+
+							(User	JGebora)
+
+							(Path	created.adp7104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001fca0411)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d6a07ccb)
+
+			(Primitives	1
+
+				(Primitive	ADP7104_SM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	4.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/11/10,07:49:09)
+
+							(User	knamacpa)
+
+							(Path	allegro_162.adp7104)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	11/13/10,00:02:31)
+
+							(User	rsalvad3)
+
+							(Path	workfolder.adp7104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP7104
+
+							(PackType	ADP7104_SM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so8nb-pad3_1x2_41)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d3e03e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.2-s002 (v16-2-57S))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c9503a9)
+
+)
+
